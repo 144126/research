@@ -1,0 +1,83 @@
+=== FREELANCER PROFILE ===
+
+Headline (60 char):
+Full-Stack Web Dev | SvelteKit, TypeScript, Python, Rust, Cloud
+
+Summary:
+
+I build fast, modern websites and web apps — from static sites with admin panels to full-stack platforms on SvelteKit, React, Node.js, and Python. I deploy on Cloudflare, AWS, or traditional hosting.
+
+What I deliver:
+
+- Static-to-dynamic conversions — take your HTML/CSS/JS and give it a live admin backend
+- Admin dashboards with CRUD for pages, news, subscribers, orders
+- Subscription & payment flows (email drip, member gating)
+- Feedback/contact forms with confirmation emails + admin management
+- AI-powered features: vector search, embeddings, chatbots
+- Cloud deployment: Cloudflare Pages/Workers, AWS EC2/Lambda, CI/CD
+
+I hold a BSc in Information Technology (2023) and have shipped production projects including an AI-powered chess platform with live tournaments and full admin dashboards; a business listings directory with vector search; and a CBT exam webapp.
+
+I keep things simple — clean code, working demos fast, no bloat.
+
+Let's talk about your project.
+
+Skills:
+Frontend: SvelteKit, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap
+Backend: Node.js, Python (FastAPI, Flask), Rust (Actix), REST API, GraphQL
+Database: PostgreSQL, MySQL, SQLite, MongoDB, Redis, D1, Qdrant
+Cloud/DevOps: Cloudflare (Pages, Workers, D1, KV, R2), AWS (EC2, Lambda, S3), CI/CD, Linux, Nginx, Git, Figma
+
+Portfolio #1 — BEEE Spectacular Chess Championship
+Built a complete tournament platform with:
+- Live pairings, round management, and scoreboards
+- Payment for registrations with confirmation emails
+- Full admin dashboard for players, rounds, and results
+- Static info pages with admin-editable content
+- Cloudflare deployment with CI/CD
+Stack: SvelteKit, TypeScript, PostgreSQL, Cloudflare
+
+Portfolio #2 — ApexLinks Business Listings Directory
+A multi-tenant business directory with:
+- Vector-powered search (Qdrant) for semantic matching
+- User auth, business profiles, category browsing
+- Admin panel for content moderation & management
+- Premium listing subscriptions
+- Deployed on AWS
+Stack: SvelteKit, TypeScript, Qdrant, AWS
+
+Portfolio #3 — CBT Exam Web App
+A computer-based testing platform for schools:
+- Timed exams with auto-submit
+- Randomized question pools
+- Auto-grading and student reports
+- Admin panel for question & exam management
+- Mobile-responsive
+Stack: TypeScript, HTML, CSS, Node.js, MySQL
+
+
+=== PROPOSAL FOR: E-Commerce Apparel Website ===
+
+Live demo of a luxury streetwear storefront I built: https://vorte.apexlinks.org
+
+Minimalist, airy, product-forward — exactly the aesthetic you described. The demo shows the front-end feel; the full build includes everything below.
+
+**Recommended stack:** React + TypeScript frontend, Node.js/Express backend, PostgreSQL, Stripe for payments, Cloudflare deployment.
+
+**What's included:**
+
+- Product catalog with size/color/collection filters + instant search
+- Shopping cart flow (add, remove, quantity, persistent across sessions)
+- Secure checkout with Stripe (card, Apple Pay, Google Pay)
+- Verified customer reviews per product
+- Inventory management dashboard
+- Admin CMS — manage products, orders, reviews, discount codes, site content
+- Basic analytics (dashboard with sales, traffic, top products)
+- SEO-ready (meta tags, OG images, structured data, sitemap)
+- Mobile-first responsive design with micro-interactions (smooth transitions, hover states, loading skeletons)
+- Google Calendar hand-off session for admin training
+
+**Timeline:** 3-4 weeks
+**Budget:** Let's discuss — milestone-based.
+
+I've shipped fashion retail before and the demo above reflects the build quality you'd get. Happy to jump on a call to walk through it.

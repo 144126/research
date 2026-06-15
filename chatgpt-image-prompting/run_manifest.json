@@ -1,0 +1,20 @@
+{
+  "version": "3.0.0",
+  "query": "Most effective techniques for prompting ChatGPT Image 2.0 (OpenAI image generation) to reliably produce desired results",
+  "mode": "ultradeep",
+  "started_at": "2026-06-15T21:08:38.342227+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/chatgpt-image-prompting",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}
