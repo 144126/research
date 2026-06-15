@@ -1,0 +1,20 @@
+{
+  "version": "3.0.0",
+  "query": "fastest same-day way to make money webdev freelancing on reddit",
+  "mode": "standard",
+  "started_at": "2026-06-15T13:09:19.769711+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/reddit_webdev_quick_cash",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}

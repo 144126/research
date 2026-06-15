@@ -1,0 +1,20 @@
+{
+  "version": "3.0.0",
+  "query": "fastest ways to get hired on freelancer.com real testimonials tips hacks",
+  "mode": "deep",
+  "started_at": "2026-06-14T23:23:58.773106+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/FreelancerHack_Research_20260614",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}
