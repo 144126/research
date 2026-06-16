@@ -1,0 +1,22 @@
+{
+  "version": "3.0.0",
+  "query": "Complete principles, techniques, philosophies, methods and ideas for creating breathtaking professional modern flyers that communicate effectively, are memorable, and visually stunning",
+  "mode": "ultradeep",
+  "started_at": "2026-06-15T21:52:21.326555+00:00",
+  "finished_at": "2026-06-15T23:55:00.000000+00:00",
+  "source_count": 216,
+  "word_count": 12172,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/modern-flyer-design",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}
