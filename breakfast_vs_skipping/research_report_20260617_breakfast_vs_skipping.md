@@ -286,7 +286,7 @@ The "best" approach varies substantially by individual characteristics. This fin
 
 [13] Bonnet, et al. (2020). "Breakfast Skipping, Body Composition, and Cardiometabolic Risk: A Systematic Review and Meta-Analysis of Randomized Trials." Obesity, 28(6):1098-1109. https://doi.org/10.1002/oby.22791
 
-[14] Annals of Internal Medicine (2024). "Time-Restricted Eating Without Calorie Counting for Weight Loss in a Racially Diverse Population: A Randomized Controlled Trial." Ann Intern Med, 176(10). https://doi.org/10.7326/M23-0052
+[14] Annals of Internal Medicine (2023). "Time-Restricted Eating Without Calorie Counting for Weight Loss in a Racially Diverse Population: A Randomized Controlled Trial." Ann Intern Med, 176(10). https://doi.org/10.7326/M23-0052
 
 [15] BMJ (2019). "Effect of breakfast on weight and energy intake: systematic review and meta-analysis of randomised controlled trials." BMJ, 364:l42. https://doi.org/10.1136/bmj.l42
 
@@ -322,11 +322,11 @@ The "best" approach varies substantially by individual characteristics. This fin
 
 [31] Pot J (2025). "The science behind what we eat for breakfast." Popular Science. https://www.popsci.com/health/the-science-behind-what-we-eat-for-breakfast/
 
-[32] Panda S (2022). "Time-restricted Eating for the Prevention and Management of Metabolic Diseases." Endocrine Reviews, 43(2):405-436. https://doi.org/10.1210/endrev/bnab027
+[32] Panda S (2021). "Time-restricted Eating for the Prevention and Management of Metabolic Diseases." Endocrine Reviews, 43(2):405-436. https://doi.org/10.1210/endrev/bnab027
 
 [33] Varady KA, et al. (2024). "Debunking the myths of intermittent fasting." Nat Rev Endocrinol, 20:503-504. https://doi.org/10.1038/s41574-024-01009-4
 
-[34] Varady KA, et al. (2022). "Clinical application of intermittent fasting for weight loss: progress and future directions." Nat Rev Endocrinol, 18:309-321. https://doi.org/10.1038/s41574-022-00638-2
+[34] Varady KA, et al. (2022). "Clinical application of intermittent fasting for weight loss: progress and future directions." Nat Rev Endocrinol, 18:309-321. https://doi.org/10.1038/s41574-022-00638-x
 
 [35] Longo VD, Panda S (2016). "Fasting, Circadian Rhythms, and Time-Restricted Feeding in Healthy Lifespan." Cell Metab, 23(6):1048-1059. https://doi.org/10.1016/j.cmet.2016.06.001
 
@@ -362,11 +362,11 @@ The "best" approach varies substantially by individual characteristics. This fin
 
 [51] J Health Popul Nutr (2026). "Time-restricted eating in overweight and obese adults: an evidence summary and clinical recommendations." J Health Popul Nutr, 45:53. https://doi.org/10.1186/s41043-025-01221-6
 
-[52] Anton SD, et al. (2018). "Flipping the Metabolic Switch: Understanding and Applying the Health Benefits of Fasting." Obesity, 26(2):254-268. https://doi.org/10.1002/oby.22065
+[52] Anton SD, et al. (2017). "Flipping the Metabolic Switch: Understanding and Applying the Health Benefits of Fasting." Obesity, 26(2):254-268. https://doi.org/10.1002/oby.22065
 
 [53] Kramer CK, et al. (2026). "The effects of time-restricted eating on energy balance regulation in adults with overweight/obesity and type 2 diabetes." Int J Obes. https://doi.org/10.1038/s41366-026-02042-1
 
-[54] Witbracht M, et al. (2015). "Female breakfast skippers display a disrupted cortisol rhythm and elevated blood pressure." Physiol Behav, 140:92-99. https://doi.org/10.1016/j.physbeh.2014.12.032
+[54] Witbracht M, et al. (2015). "Female breakfast skippers display a disrupted cortisol rhythm and elevated blood pressure." Physiol Behav, 140:92-99. https://doi.org/10.1016/j.physbeh.2014.12.044
 
 [55] Nutrients (2021). "The Window Matters: A Systematic Review of Time Restricted Eating." Nutrients, 13(8):2525. https://doi.org/10.3390/nu13082525
 
@@ -498,7 +498,7 @@ The "best" approach varies substantially by individual characteristics. This fin
 
 [119] Curr Nutr Rep (2025). "Intermittent Fasting for the Prevention of Cardiovascular Disease Risks: Systematic Review and Network Meta-Analysis." Curr Nutr Rep, 14:93. https://doi.org/10.1007/s13668-025-00684-7
 
-[120] medRxiv (2026). "Late start of eating is linked to lower insulin sensitivity and hyperinsulinemia in prediabetes." https://doi.org/10.64898/2026.01.01.25342809v1
+[120] medRxiv (2026). "Late start of eating is linked to lower insulin sensitivity and hyperinsulinemia in prediabetes." https://www.medrxiv.org/content/10.64898/2026.01.01.25342809v1
 
 [121] PMC (2024). "Acute Cardiometabolic and Exercise Responses to Breakfast Omission Versus Breakfast Consumption in Adolescent Girls." PMC10386247.
 
@@ -510,7 +510,7 @@ The "best" approach varies substantially by individual characteristics. This fin
 
 [125] SpringerLink (2025). "Comparing early and late TRE with ER on cardiometabolic markers." Nutr Metab, 22:Article. https://doi.org/10.1186/s12986-025-00985-2
 
-[126] medRxiv (2026). "Early, Late, & Self-Selected TRE: Impact on Hepatic Fat, Liver Health, & Fecal Microbiota." https://doi.org/10.64898/2026.01.17.26344338v1
+[126] medRxiv (2026). "Early, Late, & Self-Selected TRE: Impact on Hepatic Fat, Liver Health, & Fecal Microbiota." https://www.medrxiv.org/content/10.64898/2026.01.17.26344338v1
 
 [127] medRxiv (2025). "Impact of Intended Isocaloric Early vs. Late TRE on Plasma Lipidome." https://doi.org/10.1101/2025.04.01.25324944v2
 
@@ -592,7 +592,7 @@ The "best" approach varies substantially by individual characteristics. This fin
 
 [166] MDPI (2023). "Skipping breakfast and its wide-ranging health consequences." Nutrition Research, 126:Article.
 
-[167] MDPI (2024). "Does breakfast skipping alter the serum lipids of university students?" BMC Nutr, 10:Article. https://doi.org/10.1186/s40795-024-00970-7
+[167] MDPI (2025). "Does breakfast skipping alter the serum lipids of university students?" BMC Nutr, 10:Article. https://doi.org/10.1186/s40795-024-00970-7
 
 [168] MDPI (2025). "Association of Skipping Breakfast with Metabolic Syndrome — 2025 meta." Nutrients, 17(19):3155.
 
