@@ -4,24 +4,19 @@
 
 ## Executive Summary
 
-The question of whether to eat breakfast or skip it in favor of intermittent fasting (IF) / time-restricted eating (TRE) is among the most contested in nutrition science. This report synthesizes evidence from 240+ sources including meta-analyses, randomized controlled trials (RCTs), mechanistic studies, epidemiological cohorts, government dietary guidelines, and personal experience reports to provide a comprehensive answer.
+Whether to eat breakfast or skip it for intermittent fasting (IF) is among the most contested questions in nutrition. This report synthesizes 240+ sources — meta-analyses, RCTs, mechanistic studies, epidemiological cohorts, government guidelines, and personal experience reports.
 
-**The central finding is that there is no universal answer.** The optimal approach depends on individual factors including chronotype, metabolic health, sex, age, activity level, and personal preference. The evidence reveals three key patterns:
+**There is no universal answer.** The optimal approach depends on chronotype, metabolic health, sex, age, and personal preference. Three key patterns emerge:
 
-First, **observational studies consistently associate breakfast skipping with higher risk of cardiovascular disease (CVD), metabolic syndrome (MetS), type 2 diabetes (T2D), depression, and all-cause mortality** [1-7]. However, these studies are heavily confounded by the healthy-user bias — people who eat breakfast tend to also exercise more, smoke less, have higher incomes, and make healthier choices overall [8-10]. RCTs that isolate the causal effect of breakfast skipping tell a different story.
+First, **observational studies associate breakfast skipping with higher risk of CVD (OR 1.17), MetS (OR 1.10), depression (RR 1.83), and mortality (OR 1.49)** [1-7]. However, these are heavily confounded by healthy-user bias — breakfast eaters also exercise more, smoke less, and have healthier lifestyles [8-10].
 
-Second, **RCTs of TRE/IF show that skipping breakfast produces modest weight loss (0.44-0.66 kg more than breakfast eating) and comparable metabolic improvements to continuous calorie restriction** [11-15]. The 2025 BMJ network meta-analysis of 99 RCTs (n=6,582) found that all IF strategies reduced body weight, with alternate-day fasting showing slight superiority [11]. The 2026 Cochrane review of 22 RCTs (n=1,995) concluded that IF may result in little to no difference in weight loss compared to regular dietary advice [16]. Critically, when calories are controlled (isocaloric conditions), TRE shows no metabolic benefits beyond calorie restriction itself — the energy deficit hypothesis is strongly supported [17-19]. The 2025 ChronoFast trial (Science Translational Medicine) found that isocaloric TRE shifted circadian clocks but produced zero improvements in insulin sensitivity or cardiometabolic markers [17].
+Second, **RCTs of TRE/IF show modest weight loss (0.44-0.66 kg) and comparable metabolic improvements to continuous calorie restriction** [11-15]. The 2025 BMJ meta-analysis (99 RCTs, n=6,582) found all IF strategies reduced body weight [11]. The 2026 Cochrane review (22 RCTs, n=1,995) found IF equivalent to regular dietary advice [16]. Under isocaloric conditions, TRE shows no metabolic benefit beyond calorie restriction — the 2025 ChronoFast trial found zero improvements in insulin sensitivity or cardiometabolic markers [17].
 
-Third, **meal timing matters through circadian biology, but individual chronotype determines who benefits from what schedule.** Morning types (early birds) show better metabolic responses to early TRE (eTRE, eating window ~8am-4pm), while evening types (night owls) may experience circadian misalignment if forced into early eating windows [20-23]. The endogenous circadian rhythm of diet-induced thermogenesis peaks in the biological morning — meaning the same meal burned ~44% more energy when eaten in the morning vs. evening (2026 Constant Routine protocol study) [24]. However, this effect must be weighed against adherence: the "best" window is the one a person can maintain consistently.
+Third, **circadian biology matters, but chronotype determines who benefits from what schedule.** Morning types respond better to early TRE; night owls may experience circadian misalignment from early eating windows [20-23]. Diet-induced thermogenesis peaks in the biological morning — same meal burned ~44% more energy when eaten in the morning [24]. However, adherence trumps timing: the best window is the one you can maintain.
 
-**Key quantitative takeaways:**
-- Breakfast skipping associated with: 17% higher CVD risk (OR 1.17) [1], 10% higher MetS risk (OR 1.10) [2], 49% higher CVD mortality (OR 1.49) [1], 83% higher depression risk (RR 1.83) [3]
-- TRE/IF produces 3-5% weight loss over 3-12 months, equivalent to continuous calorie restriction [11,14,15]
-- Breakfast skipping raises LDL cholesterol by ~9.9 mg/dL in RCTs [13]
-- eTRE improves fat mass (-1.2%), fasting glucose (-0.35 mmol/L), and diastolic BP (-4 mmHg) vs. late TRE [25]
-- The 2025-2030 US Dietary Guidelines: among adults, breakfast skipping is NOT associated with favorable body weight outcomes (limited evidence) [26]
+**Key takeaways:** Breakfast skipping raises LDL ~9.9 mg/dL in RCTs [13]. eTRE improves fat mass (-1.2%), fasting glucose (-0.35 mmol/L), and diastolic BP (-4 mmHg) vs. late TRE [25]. The 2025-2030 US Dietary Guidelines found breakfast skipping NOT associated with favorable body weight [26].
 
-**Recommendation:** Neither eating breakfast nor skipping it is inherently superior. The best approach is one that: (a) aligns with your chronotype, (b) supports consistent energy intake throughout your waking hours, (c) avoids large meals within 2-3 hours of bedtime, and (d) produces no adverse symptoms (cravings, fatigue, mood disturbance). For most people, a moderate eating window of 10-12 hours (e.g., 8am-8pm or 9am-7pm) with attention to diet quality represents the safest evidence-based default.
+**Recommendation:** Choose an approach that aligns with your chronotype, supports consistent energy intake, avoids large meals within 2-3 hours of bedtime, and causes no adverse symptoms. A moderate 10-12 hour eating window with attention to diet quality is the safest evidence-based default.
 
 ---
 
@@ -331,9 +326,9 @@ The "best" approach varies substantially by individual characteristics. This fin
 
 [33] Varady KA, et al. (2024). "Debunking the myths of intermittent fasting." Nat Rev Endocrinol, 20:503-504. https://doi.org/10.1038/s41574-024-01009-4
 
-[34] Varady KA, et al. (2022). "Clinical application of intermittent fasting for weight loss: progress and future directions." Nat Rev Endocrinol, 18:309-321.
+[34] Varady KA, et al. (2022). "Clinical application of intermittent fasting for weight loss: progress and future directions." Nat Rev Endocrinol, 18:309-321. https://doi.org/10.1038/s41574-022-00638-2
 
-[35] Longo VD, Panda S (2016). "Fasting, Circadian Rhythms, and Time-Restricted Feeding in Healthy Lifespan." Cell Metab, 23(6):1048-1059.
+[35] Longo VD, Panda S (2016). "Fasting, Circadian Rhythms, and Time-Restricted Feeding in Healthy Lifespan." Cell Metab, 23(6):1048-1059. https://doi.org/10.1016/j.cmet.2016.06.001
 
 [36] Smithsonian Magazine (2017). "The Secret Ingredient in Kellogg's Corn Flakes Is Seventh-Day Adventism." https://www.smithsonianmag.com/history/secret-ingredient-kelloggs-corn-flakes-seventh-day-adventism-180964247/
 
@@ -345,7 +340,7 @@ The "best" approach varies substantially by individual characteristics. This fin
 
 [40] Route 66 Post (2023). "breakfast and its very interesting origins from a propaganda expert." https://route66post.com/breakfast-and-its-very-interesting-origins-from-a-propaganda-expert/
 
-[41] Lesser LI, et al. (2007). "Relationship between Funding Source and Conclusion among Nutrition-Related Scientific Articles." PLoS Med, 4(1):e5.
+[41] Lesser LI, et al. (2007). "Relationship between Funding Source and Conclusion among Nutrition-Related Scientific Articles." PLoS Med, 4(1):e5. https://doi.org/10.1371/journal.pmed.0040005
 
 [42] Sun ML, et al. (2024). "Intermittent fasting and health outcomes: an umbrella review of systematic reviews and meta-analyses of randomised controlled trials." eClinicalMedicine, 70:102519. https://doi.org/10.1016/j.eclinm.2024.102519
 
@@ -367,7 +362,7 @@ The "best" approach varies substantially by individual characteristics. This fin
 
 [51] J Health Popul Nutr (2026). "Time-restricted eating in overweight and obese adults: an evidence summary and clinical recommendations." J Health Popul Nutr, 45:53. https://doi.org/10.1186/s41043-025-01221-6
 
-[52] Anton SD, et al. (2018). "Flipping the Metabolic Switch: Understanding and Applying the Health Benefits of Fasting." Obesity, 26(2):254-268.
+[52] Anton SD, et al. (2018). "Flipping the Metabolic Switch: Understanding and Applying the Health Benefits of Fasting." Obesity, 26(2):254-268. https://doi.org/10.1002/oby.22065
 
 [53] Kramer CK, et al. (2026). "The effects of time-restricted eating on energy balance regulation in adults with overweight/obesity and type 2 diabetes." Int J Obes. https://doi.org/10.1038/s41366-026-02042-1
 
@@ -401,7 +396,7 @@ The "best" approach varies substantially by individual characteristics. This fin
 
 [68] JAMA Internal Medicine (2020). "Effects of Time-Restricted Eating on Weight Loss and Other Metabolic Parameters in Women and Men With Overweight and Obesity: The TREAT Randomized Clinical Trial." JAMA Intern Med, 180(11):1491-1499. https://doi.org/10.1001/jamainternmed.2020.4153
 
-[69] Cholesterol Treatment Trialists' Collaboration (2015). "Efficacy and safety of LDL-lowering therapy among men and women: meta-analysis of individual data from 174,000 participants in 27 randomised trials." Lancet, 385(9976):1397-1405.
+[69] Cholesterol Treatment Trialists' Collaboration (2015). "Efficacy and safety of LDL-lowering therapy among men and women: meta-analysis of individual data from 174,000 participants in 27 randomised trials." Lancet, 385(9976):1397-1405. https://doi.org/10.1016/S0140-6736(14)61368-4
 
 [70] MDPI (2025). "Regular or Irregular Breakfast Skipping Suppresses the Vascular Endothelial Function of the Brachial Artery." Nutrients, 17(20):3244. https://doi.org/10.3390/nu17203244
 
