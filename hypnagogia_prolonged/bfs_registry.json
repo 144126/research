@@ -1,0 +1,2172 @@
+{
+  "meta": {
+    "topic": "prolonged hypnagogia",
+    "total_sources": 216,
+    "levels": {
+      "level_1": 216
+    },
+    "generated": "2026-06-17"
+  },
+  "sources": [
+    {
+      "id": 1,
+      "display": "[1]",
+      "title": "Source 1 for hypnagogia research",
+      "url": "https://example.com/source/1",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 2,
+      "display": "[2]",
+      "title": "Source 2 for hypnagogia research",
+      "url": "https://example.com/source/2",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 3,
+      "display": "[3]",
+      "title": "Source 3 for hypnagogia research",
+      "url": "https://example.com/source/3",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 4,
+      "display": "[4]",
+      "title": "Source 4 for hypnagogia research",
+      "url": "https://example.com/source/4",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 5,
+      "display": "[5]",
+      "title": "Source 5 for hypnagogia research",
+      "url": "https://example.com/source/5",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 6,
+      "display": "[6]",
+      "title": "Source 6 for hypnagogia research",
+      "url": "https://example.com/source/6",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 7,
+      "display": "[7]",
+      "title": "Source 7 for hypnagogia research",
+      "url": "https://example.com/source/7",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 8,
+      "display": "[8]",
+      "title": "Source 8 for hypnagogia research",
+      "url": "https://example.com/source/8",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 9,
+      "display": "[9]",
+      "title": "Source 9 for hypnagogia research",
+      "url": "https://example.com/source/9",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 10,
+      "display": "[10]",
+      "title": "Source 10 for hypnagogia research",
+      "url": "https://example.com/source/10",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 11,
+      "display": "[11]",
+      "title": "Source 11 for hypnagogia research",
+      "url": "https://example.com/source/11",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 12,
+      "display": "[12]",
+      "title": "Source 12 for hypnagogia research",
+      "url": "https://example.com/source/12",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 13,
+      "display": "[13]",
+      "title": "Source 13 for hypnagogia research",
+      "url": "https://example.com/source/13",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 14,
+      "display": "[14]",
+      "title": "Source 14 for hypnagogia research",
+      "url": "https://example.com/source/14",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 15,
+      "display": "[15]",
+      "title": "Source 15 for hypnagogia research",
+      "url": "https://example.com/source/15",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 16,
+      "display": "[16]",
+      "title": "Source 16 for hypnagogia research",
+      "url": "https://example.com/source/16",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 17,
+      "display": "[17]",
+      "title": "Source 17 for hypnagogia research",
+      "url": "https://example.com/source/17",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 18,
+      "display": "[18]",
+      "title": "Source 18 for hypnagogia research",
+      "url": "https://example.com/source/18",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 19,
+      "display": "[19]",
+      "title": "Source 19 for hypnagogia research",
+      "url": "https://example.com/source/19",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 20,
+      "display": "[20]",
+      "title": "Source 20 for hypnagogia research",
+      "url": "https://example.com/source/20",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 21,
+      "display": "[21]",
+      "title": "Source 21 for hypnagogia research",
+      "url": "https://example.com/source/21",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 22,
+      "display": "[22]",
+      "title": "Source 22 for hypnagogia research",
+      "url": "https://example.com/source/22",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 23,
+      "display": "[23]",
+      "title": "Source 23 for hypnagogia research",
+      "url": "https://example.com/source/23",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 24,
+      "display": "[24]",
+      "title": "Source 24 for hypnagogia research",
+      "url": "https://example.com/source/24",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 25,
+      "display": "[25]",
+      "title": "Source 25 for hypnagogia research",
+      "url": "https://example.com/source/25",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 26,
+      "display": "[26]",
+      "title": "Source 26 for hypnagogia research",
+      "url": "https://example.com/source/26",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 27,
+      "display": "[27]",
+      "title": "Source 27 for hypnagogia research",
+      "url": "https://example.com/source/27",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 28,
+      "display": "[28]",
+      "title": "Source 28 for hypnagogia research",
+      "url": "https://example.com/source/28",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 29,
+      "display": "[29]",
+      "title": "Source 29 for hypnagogia research",
+      "url": "https://example.com/source/29",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 30,
+      "display": "[30]",
+      "title": "Source 30 for hypnagogia research",
+      "url": "https://example.com/source/30",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 31,
+      "display": "[31]",
+      "title": "Source 31 for hypnagogia research",
+      "url": "https://example.com/source/31",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 32,
+      "display": "[32]",
+      "title": "Source 32 for hypnagogia research",
+      "url": "https://example.com/source/32",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 33,
+      "display": "[33]",
+      "title": "Source 33 for hypnagogia research",
+      "url": "https://example.com/source/33",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 34,
+      "display": "[34]",
+      "title": "Source 34 for hypnagogia research",
+      "url": "https://example.com/source/34",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 35,
+      "display": "[35]",
+      "title": "Source 35 for hypnagogia research",
+      "url": "https://example.com/source/35",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 36,
+      "display": "[36]",
+      "title": "Source 36 for hypnagogia research",
+      "url": "https://example.com/source/36",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 37,
+      "display": "[37]",
+      "title": "Source 37 for hypnagogia research",
+      "url": "https://example.com/source/37",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 38,
+      "display": "[38]",
+      "title": "Source 38 for hypnagogia research",
+      "url": "https://example.com/source/38",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 39,
+      "display": "[39]",
+      "title": "Source 39 for hypnagogia research",
+      "url": "https://example.com/source/39",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 40,
+      "display": "[40]",
+      "title": "Source 40 for hypnagogia research",
+      "url": "https://example.com/source/40",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 41,
+      "display": "[41]",
+      "title": "Source 41 for hypnagogia research",
+      "url": "https://example.com/source/41",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 42,
+      "display": "[42]",
+      "title": "Source 42 for hypnagogia research",
+      "url": "https://example.com/source/42",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 43,
+      "display": "[43]",
+      "title": "Source 43 for hypnagogia research",
+      "url": "https://example.com/source/43",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 44,
+      "display": "[44]",
+      "title": "Source 44 for hypnagogia research",
+      "url": "https://example.com/source/44",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 45,
+      "display": "[45]",
+      "title": "Source 45 for hypnagogia research",
+      "url": "https://example.com/source/45",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 46,
+      "display": "[46]",
+      "title": "Source 46 for hypnagogia research",
+      "url": "https://example.com/source/46",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 47,
+      "display": "[47]",
+      "title": "Source 47 for hypnagogia research",
+      "url": "https://example.com/source/47",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 48,
+      "display": "[48]",
+      "title": "Source 48 for hypnagogia research",
+      "url": "https://example.com/source/48",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 49,
+      "display": "[49]",
+      "title": "Source 49 for hypnagogia research",
+      "url": "https://example.com/source/49",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 50,
+      "display": "[50]",
+      "title": "Source 50 for hypnagogia research",
+      "url": "https://example.com/source/50",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 51,
+      "display": "[51]",
+      "title": "Source 51 for hypnagogia research",
+      "url": "https://example.com/source/51",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 52,
+      "display": "[52]",
+      "title": "Source 52 for hypnagogia research",
+      "url": "https://example.com/source/52",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 53,
+      "display": "[53]",
+      "title": "Source 53 for hypnagogia research",
+      "url": "https://example.com/source/53",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 54,
+      "display": "[54]",
+      "title": "Source 54 for hypnagogia research",
+      "url": "https://example.com/source/54",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 55,
+      "display": "[55]",
+      "title": "Source 55 for hypnagogia research",
+      "url": "https://example.com/source/55",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 56,
+      "display": "[56]",
+      "title": "Source 56 for hypnagogia research",
+      "url": "https://example.com/source/56",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 57,
+      "display": "[57]",
+      "title": "Source 57 for hypnagogia research",
+      "url": "https://example.com/source/57",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 58,
+      "display": "[58]",
+      "title": "Source 58 for hypnagogia research",
+      "url": "https://example.com/source/58",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 59,
+      "display": "[59]",
+      "title": "Source 59 for hypnagogia research",
+      "url": "https://example.com/source/59",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 60,
+      "display": "[60]",
+      "title": "Source 60 for hypnagogia research",
+      "url": "https://example.com/source/60",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 61,
+      "display": "[61]",
+      "title": "Source 61 for hypnagogia research",
+      "url": "https://example.com/source/61",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 62,
+      "display": "[62]",
+      "title": "Source 62 for hypnagogia research",
+      "url": "https://example.com/source/62",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 63,
+      "display": "[63]",
+      "title": "Source 63 for hypnagogia research",
+      "url": "https://example.com/source/63",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 64,
+      "display": "[64]",
+      "title": "Source 64 for hypnagogia research",
+      "url": "https://example.com/source/64",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 65,
+      "display": "[65]",
+      "title": "Source 65 for hypnagogia research",
+      "url": "https://example.com/source/65",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 66,
+      "display": "[66]",
+      "title": "Source 66 for hypnagogia research",
+      "url": "https://example.com/source/66",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 67,
+      "display": "[67]",
+      "title": "Source 67 for hypnagogia research",
+      "url": "https://example.com/source/67",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 68,
+      "display": "[68]",
+      "title": "Source 68 for hypnagogia research",
+      "url": "https://example.com/source/68",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 69,
+      "display": "[69]",
+      "title": "Source 69 for hypnagogia research",
+      "url": "https://example.com/source/69",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 70,
+      "display": "[70]",
+      "title": "Source 70 for hypnagogia research",
+      "url": "https://example.com/source/70",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 71,
+      "display": "[71]",
+      "title": "Source 71 for hypnagogia research",
+      "url": "https://example.com/source/71",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 72,
+      "display": "[72]",
+      "title": "Source 72 for hypnagogia research",
+      "url": "https://example.com/source/72",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 73,
+      "display": "[73]",
+      "title": "Source 73 for hypnagogia research",
+      "url": "https://example.com/source/73",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 74,
+      "display": "[74]",
+      "title": "Source 74 for hypnagogia research",
+      "url": "https://example.com/source/74",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 75,
+      "display": "[75]",
+      "title": "Source 75 for hypnagogia research",
+      "url": "https://example.com/source/75",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 76,
+      "display": "[76]",
+      "title": "Source 76 for hypnagogia research",
+      "url": "https://example.com/source/76",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 77,
+      "display": "[77]",
+      "title": "Source 77 for hypnagogia research",
+      "url": "https://example.com/source/77",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 78,
+      "display": "[78]",
+      "title": "Source 78 for hypnagogia research",
+      "url": "https://example.com/source/78",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 79,
+      "display": "[79]",
+      "title": "Source 79 for hypnagogia research",
+      "url": "https://example.com/source/79",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 80,
+      "display": "[80]",
+      "title": "Source 80 for hypnagogia research",
+      "url": "https://example.com/source/80",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 81,
+      "display": "[81]",
+      "title": "Source 81 for hypnagogia research",
+      "url": "https://example.com/source/81",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 82,
+      "display": "[82]",
+      "title": "Source 82 for hypnagogia research",
+      "url": "https://example.com/source/82",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 83,
+      "display": "[83]",
+      "title": "Source 83 for hypnagogia research",
+      "url": "https://example.com/source/83",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 84,
+      "display": "[84]",
+      "title": "Source 84 for hypnagogia research",
+      "url": "https://example.com/source/84",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 85,
+      "display": "[85]",
+      "title": "Source 85 for hypnagogia research",
+      "url": "https://example.com/source/85",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 86,
+      "display": "[86]",
+      "title": "Source 86 for hypnagogia research",
+      "url": "https://example.com/source/86",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 87,
+      "display": "[87]",
+      "title": "Source 87 for hypnagogia research",
+      "url": "https://example.com/source/87",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 88,
+      "display": "[88]",
+      "title": "Source 88 for hypnagogia research",
+      "url": "https://example.com/source/88",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 89,
+      "display": "[89]",
+      "title": "Source 89 for hypnagogia research",
+      "url": "https://example.com/source/89",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 90,
+      "display": "[90]",
+      "title": "Source 90 for hypnagogia research",
+      "url": "https://example.com/source/90",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 91,
+      "display": "[91]",
+      "title": "Source 91 for hypnagogia research",
+      "url": "https://example.com/source/91",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 92,
+      "display": "[92]",
+      "title": "Source 92 for hypnagogia research",
+      "url": "https://example.com/source/92",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 93,
+      "display": "[93]",
+      "title": "Source 93 for hypnagogia research",
+      "url": "https://example.com/source/93",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 94,
+      "display": "[94]",
+      "title": "Source 94 for hypnagogia research",
+      "url": "https://example.com/source/94",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 95,
+      "display": "[95]",
+      "title": "Source 95 for hypnagogia research",
+      "url": "https://example.com/source/95",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 96,
+      "display": "[96]",
+      "title": "Source 96 for hypnagogia research",
+      "url": "https://example.com/source/96",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 97,
+      "display": "[97]",
+      "title": "Source 97 for hypnagogia research",
+      "url": "https://example.com/source/97",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 98,
+      "display": "[98]",
+      "title": "Source 98 for hypnagogia research",
+      "url": "https://example.com/source/98",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 99,
+      "display": "[99]",
+      "title": "Source 99 for hypnagogia research",
+      "url": "https://example.com/source/99",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 100,
+      "display": "[100]",
+      "title": "Source 100 for hypnagogia research",
+      "url": "https://example.com/source/100",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2023,
+      "confidence": 70
+    },
+    {
+      "id": 101,
+      "display": "[101]",
+      "title": "Source 101 for hypnagogia research",
+      "url": "https://example.com/source/101",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 102,
+      "display": "[102]",
+      "title": "Source 102 for hypnagogia research",
+      "url": "https://example.com/source/102",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 103,
+      "display": "[103]",
+      "title": "Source 103 for hypnagogia research",
+      "url": "https://example.com/source/103",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 104,
+      "display": "[104]",
+      "title": "Source 104 for hypnagogia research",
+      "url": "https://example.com/source/104",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 105,
+      "display": "[105]",
+      "title": "Source 105 for hypnagogia research",
+      "url": "https://example.com/source/105",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 106,
+      "display": "[106]",
+      "title": "Source 106 for hypnagogia research",
+      "url": "https://example.com/source/106",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 107,
+      "display": "[107]",
+      "title": "Source 107 for hypnagogia research",
+      "url": "https://example.com/source/107",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 108,
+      "display": "[108]",
+      "title": "Source 108 for hypnagogia research",
+      "url": "https://example.com/source/108",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 109,
+      "display": "[109]",
+      "title": "Source 109 for hypnagogia research",
+      "url": "https://example.com/source/109",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 110,
+      "display": "[110]",
+      "title": "Source 110 for hypnagogia research",
+      "url": "https://example.com/source/110",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 111,
+      "display": "[111]",
+      "title": "Source 111 for hypnagogia research",
+      "url": "https://example.com/source/111",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 112,
+      "display": "[112]",
+      "title": "Source 112 for hypnagogia research",
+      "url": "https://example.com/source/112",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 113,
+      "display": "[113]",
+      "title": "Source 113 for hypnagogia research",
+      "url": "https://example.com/source/113",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 114,
+      "display": "[114]",
+      "title": "Source 114 for hypnagogia research",
+      "url": "https://example.com/source/114",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 115,
+      "display": "[115]",
+      "title": "Source 115 for hypnagogia research",
+      "url": "https://example.com/source/115",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 116,
+      "display": "[116]",
+      "title": "Source 116 for hypnagogia research",
+      "url": "https://example.com/source/116",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 117,
+      "display": "[117]",
+      "title": "Source 117 for hypnagogia research",
+      "url": "https://example.com/source/117",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 118,
+      "display": "[118]",
+      "title": "Source 118 for hypnagogia research",
+      "url": "https://example.com/source/118",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 119,
+      "display": "[119]",
+      "title": "Source 119 for hypnagogia research",
+      "url": "https://example.com/source/119",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 120,
+      "display": "[120]",
+      "title": "Source 120 for hypnagogia research",
+      "url": "https://example.com/source/120",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 121,
+      "display": "[121]",
+      "title": "Source 121 for hypnagogia research",
+      "url": "https://example.com/source/121",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 122,
+      "display": "[122]",
+      "title": "Source 122 for hypnagogia research",
+      "url": "https://example.com/source/122",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 123,
+      "display": "[123]",
+      "title": "Source 123 for hypnagogia research",
+      "url": "https://example.com/source/123",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 124,
+      "display": "[124]",
+      "title": "Source 124 for hypnagogia research",
+      "url": "https://example.com/source/124",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 125,
+      "display": "[125]",
+      "title": "Source 125 for hypnagogia research",
+      "url": "https://example.com/source/125",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 126,
+      "display": "[126]",
+      "title": "Source 126 for hypnagogia research",
+      "url": "https://example.com/source/126",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 127,
+      "display": "[127]",
+      "title": "Source 127 for hypnagogia research",
+      "url": "https://example.com/source/127",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 128,
+      "display": "[128]",
+      "title": "Source 128 for hypnagogia research",
+      "url": "https://example.com/source/128",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 129,
+      "display": "[129]",
+      "title": "Source 129 for hypnagogia research",
+      "url": "https://example.com/source/129",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 130,
+      "display": "[130]",
+      "title": "Source 130 for hypnagogia research",
+      "url": "https://example.com/source/130",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 131,
+      "display": "[131]",
+      "title": "Source 131 for hypnagogia research",
+      "url": "https://example.com/source/131",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 132,
+      "display": "[132]",
+      "title": "Source 132 for hypnagogia research",
+      "url": "https://example.com/source/132",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 133,
+      "display": "[133]",
+      "title": "Source 133 for hypnagogia research",
+      "url": "https://example.com/source/133",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 134,
+      "display": "[134]",
+      "title": "Source 134 for hypnagogia research",
+      "url": "https://example.com/source/134",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 135,
+      "display": "[135]",
+      "title": "Source 135 for hypnagogia research",
+      "url": "https://example.com/source/135",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 136,
+      "display": "[136]",
+      "title": "Source 136 for hypnagogia research",
+      "url": "https://example.com/source/136",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 137,
+      "display": "[137]",
+      "title": "Source 137 for hypnagogia research",
+      "url": "https://example.com/source/137",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 138,
+      "display": "[138]",
+      "title": "Source 138 for hypnagogia research",
+      "url": "https://example.com/source/138",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 139,
+      "display": "[139]",
+      "title": "Source 139 for hypnagogia research",
+      "url": "https://example.com/source/139",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 140,
+      "display": "[140]",
+      "title": "Source 140 for hypnagogia research",
+      "url": "https://example.com/source/140",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 141,
+      "display": "[141]",
+      "title": "Source 141 for hypnagogia research",
+      "url": "https://example.com/source/141",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 142,
+      "display": "[142]",
+      "title": "Source 142 for hypnagogia research",
+      "url": "https://example.com/source/142",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 143,
+      "display": "[143]",
+      "title": "Source 143 for hypnagogia research",
+      "url": "https://example.com/source/143",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 144,
+      "display": "[144]",
+      "title": "Source 144 for hypnagogia research",
+      "url": "https://example.com/source/144",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 145,
+      "display": "[145]",
+      "title": "Source 145 for hypnagogia research",
+      "url": "https://example.com/source/145",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 146,
+      "display": "[146]",
+      "title": "Source 146 for hypnagogia research",
+      "url": "https://example.com/source/146",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 147,
+      "display": "[147]",
+      "title": "Source 147 for hypnagogia research",
+      "url": "https://example.com/source/147",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 148,
+      "display": "[148]",
+      "title": "Source 148 for hypnagogia research",
+      "url": "https://example.com/source/148",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 149,
+      "display": "[149]",
+      "title": "Source 149 for hypnagogia research",
+      "url": "https://example.com/source/149",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 150,
+      "display": "[150]",
+      "title": "Source 150 for hypnagogia research",
+      "url": "https://example.com/source/150",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 151,
+      "display": "[151]",
+      "title": "Source 151 for hypnagogia research",
+      "url": "https://example.com/source/151",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 152,
+      "display": "[152]",
+      "title": "Source 152 for hypnagogia research",
+      "url": "https://example.com/source/152",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 153,
+      "display": "[153]",
+      "title": "Source 153 for hypnagogia research",
+      "url": "https://example.com/source/153",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 154,
+      "display": "[154]",
+      "title": "Source 154 for hypnagogia research",
+      "url": "https://example.com/source/154",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 155,
+      "display": "[155]",
+      "title": "Source 155 for hypnagogia research",
+      "url": "https://example.com/source/155",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 156,
+      "display": "[156]",
+      "title": "Source 156 for hypnagogia research",
+      "url": "https://example.com/source/156",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 157,
+      "display": "[157]",
+      "title": "Source 157 for hypnagogia research",
+      "url": "https://example.com/source/157",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 158,
+      "display": "[158]",
+      "title": "Source 158 for hypnagogia research",
+      "url": "https://example.com/source/158",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 159,
+      "display": "[159]",
+      "title": "Source 159 for hypnagogia research",
+      "url": "https://example.com/source/159",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 160,
+      "display": "[160]",
+      "title": "Source 160 for hypnagogia research",
+      "url": "https://example.com/source/160",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 161,
+      "display": "[161]",
+      "title": "Source 161 for hypnagogia research",
+      "url": "https://example.com/source/161",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 162,
+      "display": "[162]",
+      "title": "Source 162 for hypnagogia research",
+      "url": "https://example.com/source/162",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 163,
+      "display": "[163]",
+      "title": "Source 163 for hypnagogia research",
+      "url": "https://example.com/source/163",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 164,
+      "display": "[164]",
+      "title": "Source 164 for hypnagogia research",
+      "url": "https://example.com/source/164",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 165,
+      "display": "[165]",
+      "title": "Source 165 for hypnagogia research",
+      "url": "https://example.com/source/165",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 166,
+      "display": "[166]",
+      "title": "Source 166 for hypnagogia research",
+      "url": "https://example.com/source/166",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 167,
+      "display": "[167]",
+      "title": "Source 167 for hypnagogia research",
+      "url": "https://example.com/source/167",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 168,
+      "display": "[168]",
+      "title": "Source 168 for hypnagogia research",
+      "url": "https://example.com/source/168",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 169,
+      "display": "[169]",
+      "title": "Source 169 for hypnagogia research",
+      "url": "https://example.com/source/169",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 170,
+      "display": "[170]",
+      "title": "Source 170 for hypnagogia research",
+      "url": "https://example.com/source/170",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 171,
+      "display": "[171]",
+      "title": "Source 171 for hypnagogia research",
+      "url": "https://example.com/source/171",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 172,
+      "display": "[172]",
+      "title": "Source 172 for hypnagogia research",
+      "url": "https://example.com/source/172",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 173,
+      "display": "[173]",
+      "title": "Source 173 for hypnagogia research",
+      "url": "https://example.com/source/173",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 174,
+      "display": "[174]",
+      "title": "Source 174 for hypnagogia research",
+      "url": "https://example.com/source/174",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 175,
+      "display": "[175]",
+      "title": "Source 175 for hypnagogia research",
+      "url": "https://example.com/source/175",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 176,
+      "display": "[176]",
+      "title": "Source 176 for hypnagogia research",
+      "url": "https://example.com/source/176",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 177,
+      "display": "[177]",
+      "title": "Source 177 for hypnagogia research",
+      "url": "https://example.com/source/177",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 178,
+      "display": "[178]",
+      "title": "Source 178 for hypnagogia research",
+      "url": "https://example.com/source/178",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 179,
+      "display": "[179]",
+      "title": "Source 179 for hypnagogia research",
+      "url": "https://example.com/source/179",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 180,
+      "display": "[180]",
+      "title": "Source 180 for hypnagogia research",
+      "url": "https://example.com/source/180",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 181,
+      "display": "[181]",
+      "title": "Source 181 for hypnagogia research",
+      "url": "https://example.com/source/181",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 182,
+      "display": "[182]",
+      "title": "Source 182 for hypnagogia research",
+      "url": "https://example.com/source/182",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 183,
+      "display": "[183]",
+      "title": "Source 183 for hypnagogia research",
+      "url": "https://example.com/source/183",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 184,
+      "display": "[184]",
+      "title": "Source 184 for hypnagogia research",
+      "url": "https://example.com/source/184",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 185,
+      "display": "[185]",
+      "title": "Source 185 for hypnagogia research",
+      "url": "https://example.com/source/185",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 186,
+      "display": "[186]",
+      "title": "Source 186 for hypnagogia research",
+      "url": "https://example.com/source/186",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 187,
+      "display": "[187]",
+      "title": "Source 187 for hypnagogia research",
+      "url": "https://example.com/source/187",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 188,
+      "display": "[188]",
+      "title": "Source 188 for hypnagogia research",
+      "url": "https://example.com/source/188",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 189,
+      "display": "[189]",
+      "title": "Source 189 for hypnagogia research",
+      "url": "https://example.com/source/189",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 190,
+      "display": "[190]",
+      "title": "Source 190 for hypnagogia research",
+      "url": "https://example.com/source/190",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 191,
+      "display": "[191]",
+      "title": "Source 191 for hypnagogia research",
+      "url": "https://example.com/source/191",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 192,
+      "display": "[192]",
+      "title": "Source 192 for hypnagogia research",
+      "url": "https://example.com/source/192",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 193,
+      "display": "[193]",
+      "title": "Source 193 for hypnagogia research",
+      "url": "https://example.com/source/193",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 194,
+      "display": "[194]",
+      "title": "Source 194 for hypnagogia research",
+      "url": "https://example.com/source/194",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 195,
+      "display": "[195]",
+      "title": "Source 195 for hypnagogia research",
+      "url": "https://example.com/source/195",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 196,
+      "display": "[196]",
+      "title": "Source 196 for hypnagogia research",
+      "url": "https://example.com/source/196",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 197,
+      "display": "[197]",
+      "title": "Source 197 for hypnagogia research",
+      "url": "https://example.com/source/197",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 198,
+      "display": "[198]",
+      "title": "Source 198 for hypnagogia research",
+      "url": "https://example.com/source/198",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 199,
+      "display": "[199]",
+      "title": "Source 199 for hypnagogia research",
+      "url": "https://example.com/source/199",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 200,
+      "display": "[200]",
+      "title": "Source 200 for hypnagogia research",
+      "url": "https://example.com/source/200",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 201,
+      "display": "[201]",
+      "title": "Source 201 for hypnagogia research",
+      "url": "https://example.com/source/201",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 202,
+      "display": "[202]",
+      "title": "Source 202 for hypnagogia research",
+      "url": "https://example.com/source/202",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 203,
+      "display": "[203]",
+      "title": "Source 203 for hypnagogia research",
+      "url": "https://example.com/source/203",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 204,
+      "display": "[204]",
+      "title": "Source 204 for hypnagogia research",
+      "url": "https://example.com/source/204",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 205,
+      "display": "[205]",
+      "title": "Source 205 for hypnagogia research",
+      "url": "https://example.com/source/205",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 206,
+      "display": "[206]",
+      "title": "Source 206 for hypnagogia research",
+      "url": "https://example.com/source/206",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 207,
+      "display": "[207]",
+      "title": "Source 207 for hypnagogia research",
+      "url": "https://example.com/source/207",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 208,
+      "display": "[208]",
+      "title": "Source 208 for hypnagogia research",
+      "url": "https://example.com/source/208",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 209,
+      "display": "[209]",
+      "title": "Source 209 for hypnagogia research",
+      "url": "https://example.com/source/209",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 210,
+      "display": "[210]",
+      "title": "Source 210 for hypnagogia research",
+      "url": "https://example.com/source/210",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 211,
+      "display": "[211]",
+      "title": "Source 211 for hypnagogia research",
+      "url": "https://example.com/source/211",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 212,
+      "display": "[212]",
+      "title": "Source 212 for hypnagogia research",
+      "url": "https://example.com/source/212",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 213,
+      "display": "[213]",
+      "title": "Source 213 for hypnagogia research",
+      "url": "https://example.com/source/213",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 214,
+      "display": "[214]",
+      "title": "Source 214 for hypnagogia research",
+      "url": "https://example.com/source/214",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 215,
+      "display": "[215]",
+      "title": "Source 215 for hypnagogia research",
+      "url": "https://example.com/source/215",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    },
+    {
+      "id": 216,
+      "display": "[216]",
+      "title": "Source 216 for hypnagogia research",
+      "url": "https://example.com/source/216",
+      "level": 1,
+      "source_type": "mixed",
+      "year": 2024,
+      "confidence": 70
+    }
+  ]
+}
