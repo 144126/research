@@ -6,7 +6,11 @@
     "level": 1,
     "parent": "query: BrowseComp benchmark release impact agent research",
     "source_type": "industry_blog",
-    "key_claims": ["BrowseComp has 1266 tasks", "Deep Research achieves 51.5% on BrowseComp", "Human trainers solved 29.2% of questions"],
+    "key_claims": [
+      "BrowseComp has 1266 tasks",
+      "Deep Research achieves 51.5% on BrowseComp",
+      "Human trainers solved 29.2% of questions"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -17,8 +21,14 @@
     "level": 1,
     "parent": "query: WebAnchor-30B anchoring agent planning paper",
     "source_type": "academic",
-    "key_claims": ["WebAnchor-30B achieves 46.0% on BrowseComp", "76.4% on GAIA", "Anchor-GRPO decouples planning and execution"],
-    "extracted_refs": ["https://arxiv.org/abs/2510.18060"],
+    "key_claims": [
+      "WebAnchor-30B achieves 46.0% on BrowseComp",
+      "76.4% on GAIA",
+      "Anchor-GRPO decouples planning and execution"
+    ],
+    "extracted_refs": [
+      "https://arxiv.org/abs/2510.18060"
+    ],
     "confidence": "high"
   },
   "S0003": {
@@ -28,7 +38,10 @@
     "level": 1,
     "parent": "query: asymmetry of verification principle deep research agents paper",
     "source_type": "blog",
-    "key_claims": ["Asymmetry of verification is the idea some tasks are much easier to verify than to solve", "Key principle behind RL success"],
+    "key_claims": [
+      "Asymmetry of verification is the idea some tasks are much easier to verify than to solve",
+      "Key principle behind RL success"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -39,7 +52,11 @@
     "level": 1,
     "parent": "query: DeepVerifier fine-grained verification agent paper",
     "source_type": "academic",
-    "key_claims": ["DeepVerifier outperforms LLM judge baselines by 12-48% F1", "Test-time scaling delivers 8-11% accuracy gains on GAIA", "DeepVerifier-4K dataset released"],
+    "key_claims": [
+      "DeepVerifier outperforms LLM judge baselines by 12-48% F1",
+      "Test-time scaling delivers 8-11% accuracy gains on GAIA",
+      "DeepVerifier-4K dataset released"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -50,7 +67,11 @@
     "level": 1,
     "parent": "query: DeepDive-32B Tsinghua deep research agent paper",
     "source_type": "academic",
-    "key_claims": ["DeepDive-32B achieves 14.8% on BrowseComp", "Automated data synthesis from knowledge graphs", "Multi-turn GRPO with redundancy penalty"],
+    "key_claims": [
+      "DeepDive-32B achieves 14.8% on BrowseComp",
+      "Automated data synthesis from knowledge graphs",
+      "Multi-turn GRPO with redundancy penalty"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -61,7 +82,11 @@
     "level": 1,
     "parent": "query: DeepMiner reverse construction training data agent paper",
     "source_type": "academic",
-    "key_claims": ["DeepMiner-32B achieves 33.5% on BrowseComp-en", "Reverse construction method for QA pairs", "Dynamic context management enables ~100 turns in 32k context"],
+    "key_claims": [
+      "DeepMiner-32B achieves 33.5% on BrowseComp-en",
+      "Reverse construction method for QA pairs",
+      "Dynamic context management enables ~100 turns in 32k context"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -72,7 +97,11 @@
     "level": 1,
     "parent": "query: FORT-Searcher PKU graph-based data synthesis agent paper",
     "source_type": "academic",
-    "key_claims": ["FORT formalizes 4 shortcut risks", "SFT-only FORT-Searcher achieves best among comparable-size open-source", "Shortcut-aware difficulty framework"],
+    "key_claims": [
+      "FORT formalizes 4 shortcut risks",
+      "SFT-only FORT-Searcher achieves best among comparable-size open-source",
+      "Shortcut-aware difficulty framework"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -83,7 +112,11 @@
     "level": 1,
     "parent": "query: Marco DeepResearch-8B verification-centric open source paper",
     "source_type": "academic",
-    "key_claims": ["Verification-centric design at 3 levels", "8B model surpasses 30B agents within 600 tool calls", "Generator-Attacker-Analyzer adversarial loop"],
+    "key_claims": [
+      "Verification-centric design at 3 levels",
+      "8B model surpasses 30B agents within 600 tool calls",
+      "Generator-Attacker-Analyzer adversarial loop"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -94,7 +127,11 @@
     "level": 1,
     "parent": "query: Re-TRAC recursive trajectory compression agent paper",
     "source_type": "academic",
-    "key_claims": ["Re-TRAC outperforms ReAct baselines by +15-20% absolute", "SFT-only 30B reaches 53% on BrowseComp", "Structured state representation with 5+ facets"],
+    "key_claims": [
+      "Re-TRAC outperforms ReAct baselines by +15-20% absolute",
+      "SFT-only 30B reaches 53% on BrowseComp",
+      "Structured state representation with 5+ facets"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -105,7 +142,11 @@
     "level": 1,
     "parent": "query: LiteResearcher 4B small model deep research agent paper",
     "source_type": "academic",
-    "key_claims": ["LiteResearcher-4B achieves 71.3% on GAIA", "78.0% on Xbench", "Virtual world for scalable RL training"],
+    "key_claims": [
+      "LiteResearcher-4B achieves 71.3% on GAIA",
+      "78.0% on Xbench",
+      "Virtual world for scalable RL training"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -116,7 +157,11 @@
     "level": 1,
     "parent": "query: DR-Venus 4B deep research agent small model paper",
     "source_type": "academic",
-    "key_claims": ["4B agent trained on 10K open data", "Two-stage SFT+RL training", "IGPO with turn-level rewards based on information gain"],
+    "key_claims": [
+      "4B agent trained on 10K open data",
+      "Two-stage SFT+RL training",
+      "IGPO with turn-level rewards based on information gain"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -127,7 +172,11 @@
     "level": 1,
     "parent": "query: ASearcher large scale asynchronous RL search agent paper",
     "source_type": "academic",
-    "key_claims": ["ASearcher enables 128-turn rollouts", "+15.0 GAIA and +22.4 xBench improvements via RL", "Fully asynchronous RL training system"],
+    "key_claims": [
+      "ASearcher enables 128-turn rollouts",
+      "+15.0 GAIA and +22.4 xBench improvements via RL",
+      "Fully asynchronous RL training system"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -138,7 +187,11 @@
     "level": 1,
     "parent": "query: WebThinker deep research agent reasoning model 2025 arxiv",
     "source_type": "academic",
-    "key_claims": ["Deep Web Explorer module for LRMs", "Think-Search-and-Draft strategy", "RL via iterative online DPO"],
+    "key_claims": [
+      "Deep Web Explorer module for LRMs",
+      "Think-Search-and-Draft strategy",
+      "RL via iterative online DPO"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -149,7 +202,11 @@
     "level": 1,
     "parent": "query: Search-R1 RL search engine agent paper 2025 arxiv",
     "source_type": "academic",
-    "key_claims": ["+24% improvement over RAG baselines", "Retrieved token masking for stable RL", "Outcome-based reward for search + reasoning"],
+    "key_claims": [
+      "+24% improvement over RAG baselines",
+      "Retrieved token masking for stable RL",
+      "Outcome-based reward for search + reasoning"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -160,7 +217,11 @@
     "level": 1,
     "parent": "query: DeepResearcher real world RL paper",
     "source_type": "academic",
-    "key_claims": ["First end-to-end RL training in real web environments", "Multi-agent architecture for browsing", "+28.9 points over prompt engineering baselines"],
+    "key_claims": [
+      "First end-to-end RL training in real web environments",
+      "Multi-agent architecture for browsing",
+      "+28.9 points over prompt engineering baselines"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -171,7 +232,11 @@
     "level": 1,
     "parent": "query: RL training deep research agent GRPO multi-turn optimization",
     "source_type": "industry_blog",
-    "key_claims": ["NeMo RL supports GRPO, asyncRL, FP8 training", "RLVR uses computational checks for reward", "Scientific agents compose skills via RL"],
+    "key_claims": [
+      "NeMo RL supports GRPO, asyncRL, FP8 training",
+      "RLVR uses computational checks for reward",
+      "Scientific agents compose skills via RL"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -182,7 +247,11 @@
     "level": 1,
     "parent": "query: React agent pattern vs multi-agent deep research comparison",
     "source_type": "industry_blog",
-    "key_claims": ["Multi-agent uses 15x more tokens than chat", "Orchestrator-worker pattern for research", "Multi-agent excels at parallelization-heavy tasks"],
+    "key_claims": [
+      "Multi-agent uses 15x more tokens than chat",
+      "Orchestrator-worker pattern for research",
+      "Multi-agent excels at parallelization-heavy tasks"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -193,7 +262,10 @@
     "level": 1,
     "parent": "query: wandabwa2004 deep research agent GitHub implementation",
     "source_type": "open_source",
-    "key_claims": ["Inspired by NVIDIA AIQ patterns", "Built on LangGraph"],
+    "key_claims": [
+      "Inspired by NVIDIA AIQ patterns",
+      "Built on LangGraph"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -204,7 +276,11 @@
     "level": 1,
     "parent": "query: BrowseComp benchmark leaderboard",
     "source_type": "open_source",
-    "key_claims": ["Fixed corpus of ~100K human-verified documents", "Enables fair and reproducible evaluations", "ACL 2026"],
+    "key_claims": [
+      "Fixed corpus of ~100K human-verified documents",
+      "Enables fair and reproducible evaluations",
+      "ACL 2026"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -215,7 +291,10 @@
     "level": 1,
     "parent": "query: FORT-Searcher PKU graph-based data synthesis",
     "source_type": "open_source",
-    "key_claims": ["Shortcut-resistant training data synthesis", "4 shortcut risks formalized"],
+    "key_claims": [
+      "Shortcut-resistant training data synthesis",
+      "4 shortcut risks formalized"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -226,7 +305,11 @@
     "level": 1,
     "parent": "query: Re-TRAC recursive trajectory compression agent paper",
     "source_type": "open_source",
-    "key_claims": ["Re-TRAC 30B-A3B checkpoint released", "MIT license", "Cross-trajectory exploration via structured state"],
+    "key_claims": [
+      "Re-TRAC 30B-A3B checkpoint released",
+      "MIT license",
+      "Cross-trajectory exploration via structured state"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -237,7 +320,11 @@
     "level": 1,
     "parent": "query: WebThinker deep research agent reasoning model",
     "source_type": "open_source",
-    "key_claims": ["1.4k stars", "NeurIPS 2025 accepted", "RL via iterative online DPO"],
+    "key_claims": [
+      "1.4k stars",
+      "NeurIPS 2025 accepted",
+      "RL via iterative online DPO"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -248,7 +335,11 @@
     "level": 1,
     "parent": "query: ASearcher large scale asynchronous RL search agent",
     "source_type": "open_source",
-    "key_claims": ["Fully asynchronous RL training", "128-turn rollouts", "+15-22 point improvements"],
+    "key_claims": [
+      "Fully asynchronous RL training",
+      "128-turn rollouts",
+      "+15-22 point improvements"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -259,7 +350,11 @@
     "level": 1,
     "parent": "query: DR-Venus 4B deep research agent small model paper",
     "source_type": "open_source",
-    "key_claims": ["4B agent, 10K open data", "Two-stage SFT+RL training", "IGPO turn-level rewards"],
+    "key_claims": [
+      "4B agent, 10K open data",
+      "Two-stage SFT+RL training",
+      "IGPO turn-level rewards"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -270,7 +365,11 @@
     "level": 1,
     "parent": "query: LiteResearcher 4B small model deep research agent paper",
     "source_type": "open_source",
-    "key_claims": ["Virtual world for scalable RL", "4B model outperforms 30B systems", "Zero marginal RL API cost"],
+    "key_claims": [
+      "Virtual world for scalable RL",
+      "4B model outperforms 30B systems",
+      "Zero marginal RL API cost"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -281,7 +380,11 @@
     "level": 1,
     "parent": "query: DeepVerifier fine-grained verification agent paper",
     "source_type": "open_source",
-    "key_claims": ["Rubric-guided verification", "DRA Failure Taxonomy", "DeepVerifier-4K dataset"],
+    "key_claims": [
+      "Rubric-guided verification",
+      "DRA Failure Taxonomy",
+      "DeepVerifier-4K dataset"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -292,7 +395,11 @@
     "level": 1,
     "parent": "query: Marco DeepResearch-8B verification-centric open source",
     "source_type": "open_source",
-    "key_claims": ["8B model, verification-centric design", "Qwen3-8B backbone", "YaRN extended 128K context"],
+    "key_claims": [
+      "8B model, verification-centric design",
+      "Qwen3-8B backbone",
+      "YaRN extended 128K context"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -303,7 +410,10 @@
     "level": 1,
     "parent": "query: R1-Searcher RL search agent",
     "source_type": "open_source",
-    "key_claims": ["Two-stage outcome-supervision RL", "Invokes web search during reasoning"],
+    "key_claims": [
+      "Two-stage outcome-supervision RL",
+      "Invokes web search during reasoning"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -314,7 +424,10 @@
     "level": 2,
     "parent": "S0002",
     "source_type": "academic",
-    "key_claims": ["Self-play anchoring approach", "Centralized reference models for code repair"],
+    "key_claims": [
+      "Self-play anchoring approach",
+      "Centralized reference models for code repair"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -325,7 +438,11 @@
     "level": 1,
     "parent": "query: BrowseComp benchmark leaderboard 2026",
     "source_type": "academic",
-    "key_claims": ["Fixed corpus evaluation", "ICLR 2026", "GPT-5 achieves 55.9% with BM25, 70.1% with Qwen3-Embed-8B"],
+    "key_claims": [
+      "Fixed corpus evaluation",
+      "ICLR 2026",
+      "GPT-5 achieves 55.9% with BM25, 70.1% with Qwen3-Embed-8B"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -336,7 +453,11 @@
     "level": 1,
     "parent": "query: asymmetry of verification principle deep research agents paper",
     "source_type": "academic",
-    "key_claims": ["GLM-4.5 Heavy achieves 54.0% on BrowseComp", "Tongyi-DeepResearch Heavy 69.0% on BrowseComp", "Verifier uses ~18 tool calls vs search agent's ~75"],
+    "key_claims": [
+      "GLM-4.5 Heavy achieves 54.0% on BrowseComp",
+      "Tongyi-DeepResearch Heavy 69.0% on BrowseComp",
+      "Verifier uses ~18 tool calls vs search agent's ~75"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -347,7 +468,11 @@
     "level": 1,
     "parent": "query: BrowseComp benchmark leaderboard 2026",
     "source_type": "industry_blog",
-    "key_claims": ["Agent-ModernColBERT +10% over Reason-ModernColBERT", "149M late-interaction retriever", "Fully open stack reaches 72.53% on BrowseComp-Plus"],
+    "key_claims": [
+      "Agent-ModernColBERT +10% over Reason-ModernColBERT",
+      "149M late-interaction retriever",
+      "Fully open stack reaches 72.53% on BrowseComp-Plus"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -358,7 +483,11 @@
     "level": 1,
     "parent": "query: parallel tool calling deep research agent",
     "source_type": "industry_blog",
-    "key_claims": ["Parallel tool calling improves accuracy and efficiency", "3 tools per turn optimal for high-turn settings", "Built on MCP-Universe"],
+    "key_claims": [
+      "Parallel tool calling improves accuracy and efficiency",
+      "3 tools per turn optimal for high-turn settings",
+      "Built on MCP-Universe"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -369,7 +498,10 @@
     "level": 1,
     "parent": "query: deep research agent survey systematic examination 2025",
     "source_type": "academic",
-    "key_claims": ["Systematic examination of Deep Research agents", "Reviews information acquisition strategies"],
+    "key_claims": [
+      "Systematic examination of Deep Research agents",
+      "Reviews information acquisition strategies"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -380,7 +512,11 @@
     "level": 1,
     "parent": "query: hierarchical multi-agent deep research 2026",
     "source_type": "open_source",
-    "key_claims": ["3.5k stars", "Hierarchical multi-agent system", "Top-level planning agent coordinates specialized agents"],
+    "key_claims": [
+      "3.5k stars",
+      "Hierarchical multi-agent system",
+      "Top-level planning agent coordinates specialized agents"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -391,7 +527,11 @@
     "level": 1,
     "parent": "query: Search-R1 RL search engine agent paper",
     "source_type": "open_source",
-    "key_claims": ["RL framework for reasoning + search interleaved", "Retrieved token masking", "COLM 2025"],
+    "key_claims": [
+      "RL framework for reasoning + search interleaved",
+      "Retrieved token masking",
+      "COLM 2025"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -402,7 +542,12 @@
     "level": 1,
     "parent": "query: BrowseComp leaderboard scores 2026 all systems",
     "source_type": "benchmark",
-    "key_claims": ["GPT-5.5 Pro 90.1%", "MiroThinker-H1 88.2%", "Claude Mythos Preview 86.9%", "Kimi K2.6 86.3%"],
+    "key_claims": [
+      "GPT-5.5 Pro 90.1%",
+      "MiroThinker-H1 88.2%",
+      "Claude Mythos Preview 86.9%",
+      "Kimi K2.6 86.3%"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -413,7 +558,11 @@
     "level": 1,
     "parent": "query: BrowseComp leaderboard scores 2026",
     "source_type": "benchmark",
-    "key_claims": ["26 models evaluated", "GPT-5.5 Pro leads with 90.1%", "Benchmark nearing saturation for frontier models"],
+    "key_claims": [
+      "26 models evaluated",
+      "GPT-5.5 Pro leads with 90.1%",
+      "Benchmark nearing saturation for frontier models"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -424,7 +573,11 @@
     "level": 1,
     "parent": "query: DeepResearch Bench benchmark evaluation results 2026",
     "source_type": "industry_blog",
-    "key_claims": ["Parallel Ultra8x reaches 58% on BrowseComp", "96% on DeepResearch Bench", "Price-performance comparison across APIs"],
+    "key_claims": [
+      "Parallel Ultra8x reaches 58% on BrowseComp",
+      "96% on DeepResearch Bench",
+      "Price-performance comparison across APIs"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -435,7 +588,11 @@
     "level": 1,
     "parent": "query: deep research survey systematic review 2025",
     "source_type": "academic",
-    "key_claims": ["Three-stage roadmap formalized", "Four key components: query planning, information acquisition, memory management, answer generation", "Optimization techniques: prompting, SFT, agentic RL"],
+    "key_claims": [
+      "Three-stage roadmap formalized",
+      "Four key components: query planning, information acquisition, memory management, answer generation",
+      "Optimization techniques: prompting, SFT, agentic RL"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -446,7 +603,10 @@
     "level": 1,
     "parent": "query: DeepResearch Bench benchmark evaluation results 2026",
     "source_type": "academic",
-    "key_claims": ["Comprehensive benchmark for deep research agents", "100 PhD-level tasks across 22 fields"],
+    "key_claims": [
+      "Comprehensive benchmark for deep research agents",
+      "100 PhD-level tasks across 22 fields"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -457,7 +617,13 @@
     "level": 1,
     "parent": "query: SMTL search more think less agent paper 2026",
     "source_type": "academic",
-    "key_claims": ["SMTL achieves 48.6% on BrowseComp", "75.7% on GAIA", "82.0% on Xbench", "Reduces reasoning steps by 70.7% vs Mirothinker", "Parallel evidence acquisition"],
+    "key_claims": [
+      "SMTL achieves 48.6% on BrowseComp",
+      "75.7% on GAIA",
+      "82.0% on Xbench",
+      "Reduces reasoning steps by 70.7% vs Mirothinker",
+      "Parallel evidence acquisition"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -468,7 +634,11 @@
     "level": 1,
     "parent": "query: CATTS confidence-aware test-time scaling agent 2026",
     "source_type": "academic",
-    "key_claims": ["CATTS uses vote-derived uncertainty for dynamic compute allocation", "+9.1% over ReAct on WebArena-Lite", "2.3x fewer tokens than uniform scaling"],
+    "key_claims": [
+      "CATTS uses vote-derived uncertainty for dynamic compute allocation",
+      "+9.1% over ReAct on WebArena-Lite",
+      "2.3x fewer tokens than uniform scaling"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -479,7 +649,10 @@
     "level": 1,
     "parent": "query: SMTL search more think less GitHub",
     "source_type": "open_source",
-    "key_claims": ["SMTL-30B open source model", "Parallel evidence acquisition framework"],
+    "key_claims": [
+      "SMTL-30B open source model",
+      "Parallel evidence acquisition framework"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -490,7 +663,10 @@
     "level": 2,
     "parent": "S0042",
     "source_type": "open_source",
-    "key_claims": ["Open-source deep research model", "Trained with SFT+RL"],
+    "key_claims": [
+      "Open-source deep research model",
+      "Trained with SFT+RL"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -501,7 +677,11 @@
     "level": 1,
     "parent": "query: GAIA benchmark deep research agent results 2026",
     "source_type": "benchmark",
-    "key_claims": ["OPS-Agentic-Search 92.36% GAIA", "openJiuwen-deepagent 92.36%", "MiroThinker-H1 88.2% on BrowseComp"],
+    "key_claims": [
+      "OPS-Agentic-Search 92.36% GAIA",
+      "openJiuwen-deepagent 92.36%",
+      "MiroThinker-H1 88.2% on BrowseComp"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -512,7 +692,11 @@
     "level": 1,
     "parent": "query: HLE Humanity Last Exam deep research agent results 2026",
     "source_type": "benchmark",
-    "key_claims": ["2500 questions across 100+ subjects", "Claude Mythos 5 leads at 64.5%", "Top models still fail 60-65%"],
+    "key_claims": [
+      "2500 questions across 100+ subjects",
+      "Claude Mythos 5 leads at 64.5%",
+      "Top models still fail 60-65%"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -523,7 +707,10 @@
     "level": 1,
     "parent": "query: HLE Humanity Last Exam leaderboard 2026",
     "source_type": "benchmark",
-    "key_claims": ["Gemini 3 Pro leads at 38.3% previously", "Multi-modal evaluation"],
+    "key_claims": [
+      "Gemini 3 Pro leads at 38.3% previously",
+      "Multi-modal evaluation"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -534,7 +721,10 @@
     "level": 1,
     "parent": "query: benchmark leaderboard deep research agents 2026",
     "source_type": "benchmark",
-    "key_claims": ["Claude Sonnet 4.5 leads GAIA at 74.6% (scaffolded)", "Comprehensive multi-benchmark tracking"],
+    "key_claims": [
+      "Claude Sonnet 4.5 leads GAIA at 74.6% (scaffolded)",
+      "Comprehensive multi-benchmark tracking"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -545,7 +735,10 @@
     "level": 2,
     "parent": "S0032",
     "source_type": "industry_blog",
-    "key_claims": ["Reason-ModernColBERT 87.59% on BrowseComp-Plus with GPT-5", "149M retriever outperforms models 54x larger"],
+    "key_claims": [
+      "Reason-ModernColBERT 87.59% on BrowseComp-Plus with GPT-5",
+      "149M retriever outperforms models 54x larger"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -556,7 +749,11 @@
     "level": 1,
     "parent": "query: s3 light weight search agent RL 2025",
     "source_type": "academic",
-    "key_claims": ["2.4k training samples outperform baselines trained on 70x more data", "Decouples searcher from generator", "Gain Beyond RAG reward"],
+    "key_claims": [
+      "2.4k training samples outperform baselines trained on 70x more data",
+      "Decouples searcher from generator",
+      "Gain Beyond RAG reward"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -567,7 +764,11 @@
     "level": 1,
     "parent": "query: agent benchmark leaderboard May 2026",
     "source_type": "news",
-    "key_claims": ["Claude Mythos Preview leads SWE-bench Verified at 93.9%", "GPT-5.5 leads Terminal-Bench 2.0 at 82.7%", "May 2026 roundup"],
+    "key_claims": [
+      "Claude Mythos Preview leads SWE-bench Verified at 93.9%",
+      "GPT-5.5 leads Terminal-Bench 2.0 at 82.7%",
+      "May 2026 roundup"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -578,7 +779,10 @@
     "level": 1,
     "parent": "query: langchain open deep research GitHub 2025",
     "source_type": "open_source",
-    "key_claims": ["Open source deep research agent", "Code agents approach"],
+    "key_claims": [
+      "Open source deep research agent",
+      "Code agents approach"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -589,7 +793,10 @@
     "level": 1,
     "parent": "query: Hugging Face Open Deep Research 2025",
     "source_type": "news",
-    "key_claims": ["55% on GAIA in 24-hour sprint", "Code agents show 30% improvement over JSON-based systems"],
+    "key_claims": [
+      "55% on GAIA in 24-hour sprint",
+      "Code agents show 30% improvement over JSON-based systems"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -600,7 +807,10 @@
     "level": 2,
     "parent": "S0012",
     "source_type": "open_source",
-    "key_claims": ["Up to 2.57x training speedup vs synchronous systems", "Fully asynchronous RL for LLMs"],
+    "key_claims": [
+      "Up to 2.57x training speedup vs synchronous systems",
+      "Fully asynchronous RL for LLMs"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -611,7 +821,11 @@
     "level": 1,
     "parent": "query: Deep Research Bench benchmark 2026",
     "source_type": "academic",
-    "key_claims": ["ICLR 2026", "GLM-4.5 Heavy 54.0% BrowseComp", "Open-source alternatives match proprietary"],
+    "key_claims": [
+      "ICLR 2026",
+      "GLM-4.5 Heavy 54.0% BrowseComp",
+      "Open-source alternatives match proprietary"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -622,7 +836,10 @@
     "level": 2,
     "parent": "S0046",
     "source_type": "open_source",
-    "key_claims": ["91.36% on GAIA", "Uses GPT-5, Gemini 3 Pro, o3"],
+    "key_claims": [
+      "91.36% on GAIA",
+      "Uses GPT-5, Gemini 3 Pro, o3"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -633,7 +850,11 @@
     "level": 2,
     "parent": "S0008",
     "source_type": "academic",
-    "key_claims": ["Verification-driven trajectory synthesis", "Generator-Attacker-Analyzer loop", "Context reset (Discard All) for test-time scaling"],
+    "key_claims": [
+      "Verification-driven trajectory synthesis",
+      "Generator-Attacker-Analyzer loop",
+      "Context reset (Discard All) for test-time scaling"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -644,7 +865,10 @@
     "level": 2,
     "parent": "S0042",
     "source_type": "academic",
-    "key_claims": ["Parallel evidence acquisition replaces sequential reasoning", "Unified data synthesis pipeline"],
+    "key_claims": [
+      "Parallel evidence acquisition replaces sequential reasoning",
+      "Unified data synthesis pipeline"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -655,7 +879,10 @@
     "level": 1,
     "parent": "query: HLE paper arxiv 2025",
     "source_type": "academic",
-    "key_claims": ["2500 questions across 100+ subjects", "Designed as final closed-ended academic benchmark"],
+    "key_claims": [
+      "2500 questions across 100+ subjects",
+      "Designed as final closed-ended academic benchmark"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -666,7 +893,9 @@
     "level": 2,
     "parent": "S0014",
     "source_type": "academic",
-    "key_claims": ["Interleaved reasoning and search behavior through outcome-supervision RL"],
+    "key_claims": [
+      "Interleaved reasoning and search behavior through outcome-supervision RL"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -677,7 +906,10 @@
     "level": 2,
     "parent": "S0051",
     "source_type": "open_source",
-    "key_claims": ["Model-agnostic searcher training", "Gain Beyond RAG reward"],
+    "key_claims": [
+      "Model-agnostic searcher training",
+      "Gain Beyond RAG reward"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -688,7 +920,10 @@
     "level": 1,
     "parent": "query: OPEA deep research agent 2026",
     "source_type": "open_source",
-    "key_claims": ["Intel platform deployment", "Based on langchain open_deep_research"],
+    "key_claims": [
+      "Intel platform deployment",
+      "Based on langchain open_deep_research"
+    ],
     "extracted_refs": [],
     "confidence": "high"
   },
@@ -699,7 +934,9 @@
     "level": 1,
     "parent": "query: best open source deep research agent GitHub 2026",
     "source_type": "blog",
-    "key_claims": ["Curated list of top open source agent projects"],
+    "key_claims": [
+      "Curated list of top open source agent projects"
+    ],
     "extracted_refs": [],
     "confidence": "medium"
   },
@@ -710,8 +947,971 @@
     "level": 1,
     "parent": "query: thtskaran claude-researcher multi-agent research 2026",
     "source_type": "open_source",
-    "key_claims": ["127 sources per report", "Multi-agent research assistant"],
+    "key_claims": [
+      "127 sources per report",
+      "Multi-agent research assistant"
+    ],
     "extracted_refs": [],
     "confidence": "high"
+  },
+  "S0101": {
+    "url": "https://arxiv.org/abs/2603.28376",
+    "title": "Marco DeepResearch: Unlocking Efficient Deep Research Agents via Verification-Centric Design",
+    "level": 1,
+    "parent": "seed: verification-centric deep research",
+    "source_type": "academic",
+    "key_claims": [
+      "8B model matches 30B+ via verification-centric design",
+      "Verifier-guided test-time scaling adds +12.1 avg improvement"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0102": {
+    "url": "https://github.com/AIDC-AI/Marco-DeepResearch",
+    "title": "Marco DeepResearch GitHub Repository",
+    "level": 2,
+    "parent": "S0101",
+    "source_type": "open_source",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0103": {
+    "url": "https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B",
+    "title": "Marco DeepResearch 8B Hugging Face Model",
+    "level": 2,
+    "parent": "S0101",
+    "source_type": "open_source",
+    "key_claims": [
+      "Trained on 64xA100 GPUs",
+      "128K context, SFT+RL training"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0104": {
+    "url": "https://arxiv.org/abs/2602.10652",
+    "title": "UMEM: Unified Memory Extraction and Management",
+    "level": 2,
+    "parent": "S0101",
+    "source_type": "academic",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0105": {
+    "url": "https://arxiv.org/abs/2602.06724",
+    "title": "Table-as-Search: Formulate Long-Horizon Agentic Information Seeking as Table Completion",
+    "level": 2,
+    "parent": "S0101",
+    "source_type": "academic",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0106": {
+    "url": "https://arxiv.org/abs/2510.19631",
+    "title": "HSCodeComp: A Realistic and Expert-level Benchmark",
+    "level": 2,
+    "parent": "S0101",
+    "source_type": "academic",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0107": {
+    "url": "https://github.com/microsoft/InfoAgent",
+    "title": "Microsoft InfoAgent/Re-TRAC Repository",
+    "level": 1,
+    "parent": "seed: recursive trajectory compression",
+    "source_type": "open_source",
+    "key_claims": [
+      "Re-TRAC 30B achieves 53.0% on BrowseComp",
+      "Re-TRAC 4B achieves 30.0% on BrowseComp"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0108": {
+    "url": "https://www.microsoft.com/en-us/research/publication/re-trac-recursive-trajectory-compression-for-deep-search-agents/",
+    "title": "Re-TRAC Microsoft Research Publication Page",
+    "level": 2,
+    "parent": "S0107",
+    "source_type": "industry_blog",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0109": {
+    "url": "https://openreview.net/forum?id=87qJOHuOB1",
+    "title": "WebAnchor OpenReview Page",
+    "level": 2,
+    "parent": "S0002",
+    "source_type": "academic",
+    "key_claims": [
+      "Anchor-GRPO: two-stage RL for planning decoupling"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0110": {
+    "url": "https://arxiv.gg/abs/2601.03164",
+    "title": "WebAnchor on arXiv.gg",
+    "level": 3,
+    "parent": "S0002",
+    "source_type": "academic",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0111": {
+    "url": "https://github.com/THUDM/DeepDive",
+    "title": "DeepDive GitHub Repository",
+    "level": 1,
+    "parent": "seed: knowledge graph multi-turn RL deep search",
+    "source_type": "open_source",
+    "key_claims": [
+      "DeepDive-32B achieves 14.8% on BrowseComp",
+      "Automated KG data synthesis pipeline"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0112": {
+    "url": "https://github.com/THUDM/CaRR",
+    "title": "CaRR: Citation-aware Rubric Rewards GitHub",
+    "level": 2,
+    "parent": "S0111",
+    "source_type": "open_source",
+    "key_claims": [
+      "C-GRPO improves over standard GRPO"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0113": {
+    "url": "https://www.blog.brightcoding.dev/2026/03/04/deepdive-the-revolutionary-search-agent-training-framework",
+    "title": "DeepDive Blog Post - BrightCoding",
+    "level": 2,
+    "parent": "S0111",
+    "source_type": "blog",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0114": {
+    "url": "https://github.com/RUCAIBox/FORT-Searcher",
+    "title": "FORT-Searcher GitHub Repository",
+    "level": 1,
+    "parent": "seed: shortcut-resistant training data",
+    "source_type": "open_source",
+    "key_claims": [
+      "FORT identifies 4 shortcut risks",
+      "Achieves 72.2 on BrowseComp with SFT only"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0115": {
+    "url": "https://themodelwire.com/article/fort-searcher-synthesizing-shortcut-resistant-search-tasks-for-training-deep-sea-01KTT5XC8CF3GD30XV4XQP4X0M",
+    "title": "FORT-Searcher Modelwire Analysis",
+    "level": 2,
+    "parent": "S0114",
+    "source_type": "news",
+    "key_claims": [
+      "FORT diagnostic metrics for shortcut detection"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0116": {
+    "url": "https://www.machinebrief.com/news/building-resilient-ai-forts-challenge-to-shortcut-driven-sea-4l9n",
+    "title": "FORT-Searcher Machine Brief Article",
+    "level": 2,
+    "parent": "S0114",
+    "source_type": "news",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0117": {
+    "url": "https://github.com/simplex-ai-inc/LiteResearcher",
+    "title": "LiteResearcher GitHub Repository",
+    "level": 1,
+    "parent": "seed: lite virtual world RL deep research",
+    "source_type": "open_source",
+    "key_claims": [
+      "Virtual world with 32M webpages, 1M domains",
+      "Curriculum RL with GRPO"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0118": {
+    "url": "https://huggingface.co/simplex-ai-inc/LiteResearcher-4B",
+    "title": "LiteResearcher-4B HuggingFace",
+    "level": 2,
+    "parent": "S0117",
+    "source_type": "open_source",
+    "key_claims": [
+      "71.3% GAIA, 78.0% Xbench",
+      "4B model beats 30B+ and matches Claude/GPT"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0119": {
+    "url": "https://huggingface.co/simplex-ai-inc/LiteResearcher-4B-SFT",
+    "title": "LiteResearcher-4B-SFT HuggingFace",
+    "level": 2,
+    "parent": "S0117",
+    "source_type": "open_source",
+    "key_claims": [
+      "SFT cold-start checkpoint for RL"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0120": {
+    "url": "https://mubibai.com/literesearcher-and-the-virtual-world-rl-recipe-for-deep-research-agents/",
+    "title": "LiteResearcher Analysis - Mubibai",
+    "level": 2,
+    "parent": "S0117",
+    "source_type": "blog",
+    "key_claims": [
+      "BGE-M3 + Milvus search, 0.15s/query",
+      "73.2M tool calls zero marginal cost"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0121": {
+    "url": "https://arxiv.org/abs/2606.01667",
+    "title": "ATLAS: Agentic Test-time Learning-to-Allocate Scaling",
+    "level": 1,
+    "parent": "seed: agentic test-time scaling ATLAS",
+    "source_type": "academic",
+    "key_claims": [
+      "ATLAS uses LLM orchestrator for compute allocation",
+      "60% on HLE-Verified"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0122": {
+    "url": "https://arxiv.org/abs/2602.12276",
+    "title": "CATTS: Confidence-Aware Test-Time Scaling for Web Agents",
+    "level": 1,
+    "parent": "seed: confidence-aware scaling CATTS",
+    "source_type": "academic",
+    "key_claims": [
+      "9.1% improvement using 2.3x fewer tokens",
+      "Confidence-gated arbitration on uncertain steps"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0123": {
+    "url": "https://arxiv.org/abs/2604.17931",
+    "title": "LiteResearcher: A Scalable Agentic RL Training Framework",
+    "level": 1,
+    "parent": "seed: scalable agentic RL",
+    "source_type": "academic",
+    "key_claims": [
+      "Virtual world RL enables 4B model SOTA"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0124": {
+    "url": "https://arxiv.org/abs/2604.19859",
+    "title": "DR-Venus: Edge-Scale Deep Research Agents",
+    "level": 1,
+    "parent": "seed: edge-scale 4B deep research",
+    "source_type": "academic",
+    "key_claims": [
+      "4B agent with IGPO training"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0125": {
+    "url": "https://arxiv.org/abs/2606.00660",
+    "title": "FineVerify: Fine-Grained Self-Verification for Agentic Search",
+    "level": 1,
+    "parent": "seed: fine-grained verification",
+    "source_type": "academic",
+    "key_claims": [
+      "Decomposes questions into checkable sub-questions",
+      "GPT-5-mini surpasses GPT-5 on BrowseComp Plus"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0126": {
+    "url": "https://arxiv.org/abs/2605.30290",
+    "title": "STV: Self-Trained Verification",
+    "level": 1,
+    "parent": "seed: self-trained verification",
+    "source_type": "academic",
+    "key_claims": [
+      "Reference-conditioned verifier distillation",
+      "Doubles accuracy on hard math"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0127": {
+    "url": "https://arxiv.org/abs/2601.15808",
+    "title": "DeepVerifier: Self-Evolving via Test-Time Rubric-Guided Verification",
+    "level": 1,
+    "parent": "seed: rubric-guided verification",
+    "source_type": "academic",
+    "key_claims": [
+      "12-48% improvement in verification F1",
+      "8-11% accuracy gains on GAIA"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0128": {
+    "url": "https://arxiv.org/abs/2605.10325",
+    "title": "VPR: Verifiable Process Rewards",
+    "level": 1,
+    "parent": "seed: verifiable process rewards",
+    "source_type": "academic",
+    "key_claims": [
+      "Symbolic oracles for dense turn-level rewards"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0129": {
+    "url": "https://arxiv.org/abs/2602.11136",
+    "title": "FormalJudge: Neuro-Symbolic Agentic Oversight",
+    "level": 1,
+    "parent": "seed: formal verification agentic",
+    "source_type": "academic",
+    "key_claims": [
+      "SMT solver verification",
+      "Formal-of-Thought architecture"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0130": {
+    "url": "https://arxiv.org/abs/2602.07594",
+    "title": "Learning to Self-Verify Makes Language Models Better Reasoners",
+    "level": 1,
+    "parent": "seed: learning self-verification",
+    "source_type": "academic",
+    "key_claims": [
+      "Multi-task RL for generation+verification"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0131": {
+    "url": "https://github.com/wandabwa2004/deep_research_agent",
+    "title": "Multi-Agent Deep Research System (LangGraph)",
+    "level": 2,
+    "parent": "S0064",
+    "source_type": "open_source",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0132": {
+    "url": "https://github.com/thtskaran/claude-researcher",
+    "title": "Claude-Researcher with Knowledge Graph",
+    "level": 1,
+    "parent": "seed: open source deep research agents",
+    "source_type": "open_source",
+    "key_claims": [
+      "100-300 findings from 50-150 sources"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0133": {
+    "url": "https://github.com/B143KC47/deep-research-skill",
+    "title": "Evidence-First Deep Research Skill",
+    "level": 1,
+    "parent": "seed: deep research skill evidence ledger",
+    "source_type": "open_source",
+    "key_claims": [
+      "Evidence ledger for research hops"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0134": {
+    "url": "https://github.com/2imi9/LocalPilot",
+    "title": "LocalPilot: Autonomous ML Research Agent",
+    "level": 1,
+    "parent": "seed: autonomous ML research agents",
+    "source_type": "open_source",
+    "key_claims": [
+      "Browses arXiv, runs experiments on consumer GPU"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0135": {
+    "url": "https://github.com/jasonzliang/caesar-agent",
+    "title": "Caesar: Autonomous AI Research Agent",
+    "level": 1,
+    "parent": "seed: graph-based exploration research agent",
+    "source_type": "open_source",
+    "key_claims": [
+      "Graph-based exploration, Generator-Verifier loop",
+      "Beats ChatGPT Deep Research on creative reasoning"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0136": {
+    "url": "https://ragflow.io/blog/ragflow-0.20.0-multi-agent-deep-research",
+    "title": "RAGFlow Multi-Agent Deep Research",
+    "level": 1,
+    "parent": "seed: multi-agent deep research production",
+    "source_type": "industry_blog",
+    "key_claims": [
+      "Multi-agent with BFS/DFS search orchestration"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0137": {
+    "url": "https://arxiv.org/abs/2606.07299",
+    "title": "DuMate-DeepResearch: Auditable Multi-Agent System",
+    "level": 1,
+    "parent": "seed: duMate deep research multi-agent",
+    "source_type": "academic",
+    "key_claims": [
+      "58.03% on DeepResearch Bench",
+      "Rubric-based test-time optimization"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0138": {
+    "url": "https://arxiv.org/abs/2606.15367",
+    "title": "S1-DeepResearch: Beyond Search",
+    "level": 1,
+    "parent": "seed: S1 deep research",
+    "source_type": "academic",
+    "key_claims": [
+      "Multi-dimensional trajectory verification"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0139": {
+    "url": "https://arxiv.org/abs/2602.22817",
+    "title": "HGPO: Hierarchy-of-Groups Policy Optimization",
+    "level": 1,
+    "parent": "seed: HGPO hierarchy groups policy optimization",
+    "source_type": "academic",
+    "key_claims": [
+      "Better advantage estimation for long-horizon RL"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0140": {
+    "url": "https://arxiv.org/abs/2602.16165",
+    "title": "HiPER: Hierarchical RL with Credit Assignment",
+    "level": 1,
+    "parent": "seed: HiPER hierarchical RL agent",
+    "source_type": "academic",
+    "key_claims": [
+      "Explicit plan-execute separation with HAE"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0141": {
+    "url": "https://arxiv.org/abs/2601.20975",
+    "title": "DeepSearchQA: Bridging the Comprehensiveness Gap",
+    "level": 1,
+    "parent": "seed: DeepSearchQA benchmark 2026",
+    "source_type": "academic",
+    "key_claims": [
+      "900-prompt benchmark across 17 fields"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0142": {
+    "url": "https://openreview.net/pdf?id=jjIKGiGqOo",
+    "title": "BrowseComp-Plus: Fixed Corpus Benchmark",
+    "level": 1,
+    "parent": "seed: BrowseComp Plus benchmark",
+    "source_type": "academic",
+    "key_claims": [
+      "Fixed corpus removes API costs, improves reproducibility"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0143": {
+    "url": "https://arxiv.org/abs/2602.17547",
+    "title": "KLong: Training LLM Agents for Extremely Long-Horizon Tasks",
+    "level": 1,
+    "parent": "seed: KLong long horizon agent",
+    "source_type": "academic",
+    "key_claims": [
+      "Trajectory-splitting SFT for extremely long contexts",
+      "Progressive RL with extended timeouts"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0144": {
+    "url": "https://arxiv.org/abs/2511.07327",
+    "title": "IterResearch: Rethinking Long-Horizon with Interaction Scaling",
+    "level": 1,
+    "parent": "seed: IterResearch interaction scaling",
+    "source_type": "academic",
+    "key_claims": [
+      "MDP-inspired architecture with workspace reconstruction",
+      "2048 interaction scaling, +14.5pp avg across 6 benchmarks"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0145": {
+    "url": "https://arxiv.org/abs/2602.22675",
+    "title": "SMTL: Search More, Think Less",
+    "level": 1,
+    "parent": "seed: search more think less SMTL",
+    "source_type": "academic",
+    "key_claims": [
+      "Replaces sequential reasoning with parallel evidence acquisition",
+      "48.6% BrowseComp, 75.7% GAIA"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0146": {
+    "url": "https://arxiv.org/abs/2604.08401",
+    "title": "SAVeR: Self-Audited Verified Reasoning",
+    "level": 1,
+    "parent": "seed: SAVeR self-audited verification",
+    "source_type": "academic",
+    "key_claims": [
+      "Persona-conditioned coalition for diverse belief states"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0147": {
+    "url": "https://arxiv.org/abs/2602.02018",
+    "title": "Do I Really Know? Learning Factual Self-Verification",
+    "level": 1,
+    "parent": "seed: factual self-verification hallucination",
+    "source_type": "academic",
+    "key_claims": [
+      "Internalizing post-hoc verification as learned behavior"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0148": {
+    "url": "https://arxiv.org/abs/2601.00885",
+    "title": "CSQ: Counterfactual Self-Questioning",
+    "level": 1,
+    "parent": "seed: counterfactual self-questioning verification",
+    "source_type": "academic",
+    "key_claims": [
+      "GRPO-based counterfactual critique without external critics"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0149": {
+    "url": "https://arxiv.org/abs/2602.01070",
+    "title": "What If We Allocate Test-Time Compute Adaptively?",
+    "level": 1,
+    "parent": "seed: adaptive test-time compute allocation",
+    "source_type": "academic",
+    "key_claims": [
+      "Verifier-guided adaptive test-time inference"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0150": {
+    "url": "https://arxiv.org/abs/2508.19113",
+    "title": "HybridDeepSearcher: Parallel and Sequential Search",
+    "level": 1,
+    "parent": "seed: hybrid deep searcher parallel sequential",
+    "source_type": "academic",
+    "key_claims": [
+      "3.8x F1 improvement via hybrid search",
+      "Parallel query expansion + aggregation"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0151": {
+    "url": "https://arxiv.org/abs/2510.21618",
+    "title": "DeepAgent: General Reasoning Agent with Scalable Toolsets",
+    "level": 1,
+    "parent": "seed: DeepAgent end-to-end deep reasoning",
+    "source_type": "academic",
+    "key_claims": [
+      "Memory folding for long-horizon",
+      "ToolPO for tool-use optimization"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0152": {
+    "url": "https://arxiv.org/abs/2602.05327",
+    "title": "ProAct: Agentic Lookahead in Interactive Environments",
+    "level": 1,
+    "parent": "seed: ProAct agentic lookahead planning",
+    "source_type": "academic",
+    "key_claims": [
+      "Grounded LookAhead Distillation",
+      "MC-Critic for stable policy optimization"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0153": {
+    "url": "https://arxiv.org/abs/2603.19461",
+    "title": "Hyperagents: Self-Improving Agents",
+    "level": 1,
+    "parent": "seed: hyperagents self-improving",
+    "source_type": "academic",
+    "key_claims": [
+      "Self-improving via recursive self-distillation"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0154": {
+    "url": "https://arxiv.org/abs/2603.02795",
+    "title": "VSearcher: Multimodal Search Agent via RL",
+    "level": 1,
+    "parent": "seed: VSearcher multimodal search agent",
+    "source_type": "academic",
+    "key_claims": [
+      "Multimodal search with iterative injection synthesis"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0155": {
+    "url": "https://arxiv.org/abs/2602.02486v1",
+    "title": "Re-TRAC: Recursive Trajectory Compression (arXiv html)",
+    "level": 1,
+    "parent": "seed: recursive trajectory compression re-trac",
+    "source_type": "academic",
+    "key_claims": [
+      "15-20% absolute improvement over ReAct",
+      "Context management via structured state"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0156": {
+    "url": "https://arxiv.org/abs/2508.00890",
+    "title": "AgentTTS: Test-time Compute-optimal Scaling",
+    "level": 1,
+    "parent": "seed: AgentTTS compute optimal scaling",
+    "source_type": "academic",
+    "key_claims": [
+      "LLM-based search for compute-optimal allocations"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0157": {
+    "url": "https://arxiv.org/abs/2510.06135",
+    "title": "Asymmetric Verification for Test-Time Scaling",
+    "level": 1,
+    "parent": "seed: asymmetry verification test-time scaling",
+    "source_type": "academic",
+    "key_claims": [
+      "Verifier outperforms generator at same compute budget"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0158": {
+    "url": "https://arxiv.org/abs/2508.19113",
+    "title": "HybridDeepSearcher: Scalable Parallel and Sequential Search",
+    "level": 1,
+    "parent": "seed: hybrid deep search scaling",
+    "source_type": "academic",
+    "key_claims": [
+      "Hybrid search achieves monotonic test-time scaling"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0159": {
+    "url": "https://docs.nvidia.com/aiq-blueprint/2.1.0/architecture/agents/deep-researcher.html",
+    "title": "NVIDIA AI-Q Deep Researcher Blueprint",
+    "level": 1,
+    "parent": "seed: NVIDIA deep researcher blueprint",
+    "source_type": "industry_blog",
+    "key_claims": [
+      "Citation verification via SourceRegistry",
+      "Multi-phase iterative workflow with specialized subagents"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0160": {
+    "url": "https://github.com/CodeAlive-AI/ai-driven-development/tree/main/skills/semantic-scholar-deep",
+    "title": "Semantic Scholar Deep Research Skill",
+    "level": 1,
+    "parent": "seed: semantic scholar deep research skill",
+    "source_type": "open_source",
+    "key_claims": [
+      "BFS citation graph traversal",
+      "Multi-hop Semantic Scholar API integration"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0161": {
+    "url": "https://github.com/wandabwa2004/deep_research_agent",
+    "title": "Multi-Agent Deep Research (LangGraph)",
+    "level": 1,
+    "parent": "seed: multi-agent langgraph deep research",
+    "source_type": "open_source",
+    "key_claims": [
+      "NVIDIA AIQ-inspired design",
+      "Citation audit before writing"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0162": {
+    "url": "https://github.com/sid77ai/arbor",
+    "title": "Arbor: Autonomous Research Agent",
+    "level": 1,
+    "parent": "seed: arbor research agent",
+    "source_type": "open_source",
+    "key_claims": [
+      "Hypothesis-tree refinement",
+      "Protected dev/test evaluation discipline"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0163": {
+    "url": "https://github.com/yukthapriya/ARIA-Research-Agent",
+    "title": "ARIA: Multi-Agent Academic Research",
+    "level": 1,
+    "parent": "seed: ARIA multi-agent academic research",
+    "source_type": "open_source",
+    "key_claims": [
+      "6 specialized agents for full research pipeline",
+      "Debate Agent for competing hypotheses"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0164": {
+    "url": "https://github.com/whats2000/AgentLabX",
+    "title": "AgentLabX: Modular Research Platform",
+    "level": 1,
+    "parent": "seed: AgentLabX modular research platform",
+    "source_type": "open_source",
+    "key_claims": [
+      "Modular stages with formal contracts",
+      "PI agent for oversight"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0165": {
+    "url": "https://github.com/inclusionAI/DR-Venus",
+    "title": "DR-Venus GitHub Repository",
+    "level": 2,
+    "parent": "S0124",
+    "source_type": "open_source",
+    "key_claims": [
+      "Open-data training recipe for edge agents"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0166": {
+    "url": "https://arxiv.org/abs/2603.00267",
+    "title": "WKGFC: Knowledge Graph Fact-Checking Agent",
+    "level": 1,
+    "parent": "seed: knowledge graph fact-checking agent",
+    "source_type": "academic",
+    "key_claims": [
+      "MDP for fact-checking with KG evidence"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0167": {
+    "url": "https://aclanthology.org/2025.findings-emnlp.1170.pdf",
+    "title": "Claim Verification Survey (Fact-Checking Pipeline)",
+    "level": 1,
+    "parent": "seed: claim verification survey pipeline",
+    "source_type": "academic",
+    "key_claims": [
+      "Decomposition strategies for complex claims"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0168": {
+    "url": "https://arxiv.org/abs/2604.02617",
+    "title": "AutoVerifier: Agentic LLM Verification Framework",
+    "level": 1,
+    "parent": "seed: AutoVerifier agentic verification",
+    "source_type": "academic",
+    "key_claims": [
+      "6-layer verification pipeline with knowledge graphs"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0169": {
+    "url": "https://arxiv.org/abs/2601.22361",
+    "title": "MERMAID: Multi-Agent Fact-Checking",
+    "level": 1,
+    "parent": "seed: MERMAID fact-checking memory",
+    "source_type": "academic",
+    "key_claims": [
+      "Memory-enhanced multi-agent verification"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0170": {
+    "url": "https://arxiv.org/abs/2601.19578",
+    "title": "Yunque DeepResearch: Multi-Agent Orchestration",
+    "level": 1,
+    "parent": "seed: Yunque DeepResearch multi-agent",
+    "source_type": "academic",
+    "key_claims": [
+      "SOTA on BrowseComp (62.5) and HLE (51.7)",
+      "Multi-agent with atomic capability sub-agents"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0171": {
+    "url": "https://arxiv.org/abs/2603.28376v1",
+    "title": "Marco DeepResearch (HTML version)",
+    "level": 2,
+    "parent": "S0101",
+    "source_type": "academic",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0172": {
+    "url": "https://huggingface.co/papers/2603.28376",
+    "title": "Marco DeepResearch on HF Papers",
+    "level": 2,
+    "parent": "S0101",
+    "source_type": "academic",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0173": {
+    "url": "https://pubdb.com/paper/2603.28376",
+    "title": "Marco DeepResearch on PubDB",
+    "level": 3,
+    "parent": "S0101",
+    "source_type": "academic",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0174": {
+    "url": "https://www.catalyzex.com/paper/marco-deepresearch-unlocking-efficient-deep",
+    "title": "Marco DeepResearch on CatalyzeX",
+    "level": 3,
+    "parent": "S0101",
+    "source_type": "academic",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0175": {
+    "url": "https://readabstracted.com/briefs/marco-deepresearch-unlocking-efficient-deep-research-agents-via-verification-cen--MjYwMy4yODM3Ng",
+    "title": "Marco DeepResearch Summary",
+    "level": 2,
+    "parent": "S0101",
+    "source_type": "blog",
+    "key_claims": [
+      "Adding verifier guidance improves RL baseline by +12.1 points"
+    ],
+    "extracted_refs": [],
+    "confidence": "medium"
+  },
+  "S0176": {
+    "url": "https://arxiv.org/abs/2510.08276",
+    "title": "DeepMiner: Dynamic Context for Deep Search",
+    "level": 1,
+    "parent": "seed: DeepMiner dynamic context window",
+    "source_type": "academic",
+    "key_claims": [
+      "Sliding window enables 100-turn interactions in 32K context",
+      "33.5% on BrowseComp-EN"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0177": {
+    "url": "https://arxiv.org/abs/2509.24107",
+    "title": "Fathom-DeepResearch: SLM Deep Research",
+    "level": 1,
+    "parent": "seed: Fathom deep research SLM",
+    "source_type": "academic",
+    "key_claims": [
+      "RAPO for stable multi-turn RL",
+      "DUETQA dataset via multi-agent self-play"
+    ],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0178": {
+    "url": "https://arxiv.org/abs/2509.10446",
+    "title": "DeepDive Paper",
+    "level": 1,
+    "parent": "seed: DeepDive paper",
+    "source_type": "academic",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0179": {
+    "url": "https://openreview.net/forum?id=gA8mn8eXjo",
+    "title": "DeepDive on OpenReview",
+    "level": 2,
+    "parent": "S0178",
+    "source_type": "academic",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "high"
+  },
+  "S0180": {
+    "url": "https://arxiv.gg/abs/2509.10446",
+    "title": "DeepDive on arXiv.gg",
+    "level": 2,
+    "parent": "S0178",
+    "source_type": "academic",
+    "key_claims": [],
+    "extracted_refs": [],
+    "confidence": "medium"
   }
 }
