@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "1-minute timeframe LLM/agentic AI scalping trading systems viability and architecture for solo developer 2026",
+  "started_at": "2026-06-17T17:37:58.460427+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/1min_scalping_llm_agent",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}
