@@ -1,0 +1,1 @@
+everything about principle of least action/ path of least action /path of least resistance. how it relates to wu-wei and manifestation. easiest, most effective techniquest to practice for most life effective
