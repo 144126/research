@@ -892,12 +892,6 @@ The human paradox of female ornamentation is resolved when we recognize that hum
 
 [270] Little, A. C., Burriss, R. P., Petrie, M., et al. (2013). Oral contraceptive use in women changes preferences for male facial masculinity and is associated with partner facial masculinity. *Psychoneuroendocrinology*, 38(9), 1777-1785.
 
-[271] Bovet, J., & Raymond, M. (2015). Preferred women's waist-to-hip ratio variation over the last 2,500 years. *PLoS ONE*, 10(4), e0123284.
-
-[272] Fink, B., Klappauf, D., Brewer, G., & Shackelford, T. K. (2014). Female physical characteristics and intra-sexual competition in women. *Personality and Individual Differences*, 58, 62-67.
-
-[273] Towée, M. J., Maisey, D. S., Emery, J. L., & Cornelissen, P. L. (1999). Visual cues to female physical attractiveness. *Proceedings of the Royal Society B*, 266(1415), 211-218.
-
 [274] Al-Saggaf, Y. (2021). The role of social media in Arab women's body image. *Computers in Human Behavior*, 119, 106718.
 
 [275] Mahmood, S. (2005). *Politics of Piety: The Islamic Revival and the Feminist Subject*. Princeton University Press.
@@ -952,7 +946,7 @@ This report followed a structured 8-phase pipeline:
 
 ## Source Count
 
-Total: 280 unique sources across: academic peer-reviewed (190+), industry reports (12), books/book chapters (20), historical/archival (5), news/current events (8), anthropological/ethnographic (15), contrarian/critical (14), conference proceedings (10), policy/religious texts (4), government/health databases (2).
+Total: 277 unique sources across: academic peer-reviewed (190+), industry reports (12), books/book chapters (20), historical/archival (5), news/current events (8), anthropological/ethnographic (15), contrarian/critical (14), conference proceedings (10), policy/religious texts (4), government/health databases (2).
 
 ## Data Availability
 
