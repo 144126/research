@@ -1,0 +1,15 @@
+{"id":"cl1","claim":"Memory reconsolidation provides a neurobiological window for belief revision","evidence":["ev1","ev2"],"confidence":0.95}
+{"id":"cl2","claim":"vmPFC is the common neural correlate for both self-referential and general belief processing","evidence":["ev3","ev4"],"confidence":0.9}
+{"id":"cl3","claim":"BTSP enables one-shot encoding of emotionally charged beliefs","evidence":["ev5"],"confidence":0.85}
+{"id":"cl4","claim":"Different CBT components target specific cognitive mechanisms","evidence":["ev6"],"confidence":0.85}
+{"id":"cl5","claim":"Psychedelics reduce belief confidence via increased neural entropy","evidence":["ev7","ev22","ev23","ev25"],"confidence":0.75}
+{"id":"cl6","claim":"Schema therapy is effective for comorbid depression and personality disorders","evidence":["ev8","ev9"],"confidence":0.95}
+{"id":"cl7","claim":"Reconsolidation therapy shows promise for PTSD","evidence":["ev10"],"confidence":0.7}
+{"id":"cl8","claim":"Psilocybin produces sustained neuroplastic changes in hippocampus-DMN connectivity","evidence":["ev11"],"confidence":0.85}
+{"id":"cl9","claim":"EMDR eye movement mechanism remains debated","evidence":["ev12","ev13"],"confidence":0.8}
+{"id":"cl10","claim":"Imagery rescripting is highly effective for PTSD","evidence":["ev14","ev15"],"confidence":0.9}
+{"id":"cl11","claim":"Subconscious beliefs are precision-weighted predictions in the Bayesian brain","evidence":["ev16"],"confidence":0.85}
+{"id":"cl12","claim":"Mindfulness induces measurable neuroplastic changes","evidence":["ev17"],"confidence":0.85}
+{"id":"cl13","claim":"Therapeutic guidance is essential for directing neuroplastic change","evidence":["ev18"],"confidence":0.8}
+{"id":"cl14","claim":"Digital schema therapy shows promise for mild-to-moderate populations","evidence":["ev19"],"confidence":0.75}
+{"id":"cl15","claim":"Prediction error is a common mechanism across effective belief-change modalities","evidence":["ev6","ev10","ev16","ev25"],"confidence":0.8}

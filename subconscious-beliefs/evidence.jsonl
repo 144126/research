@@ -1,0 +1,25 @@
+{"id":"ev1","source":"src1","claim":"Consolidated fear memories when reactivated return to a labile state requiring de novo protein synthesis for reconsolidation","strength":"strong","domain":"molecular_neuroscience"}
+{"id":"ev2","source":"src1","claim":"Protein synthesis inhibition in amygdala immediately after retrieval produces amnesia; 6h delay has no effect","strength":"strong","domain":"molecular_neuroscience"}
+{"id":"ev3","source":"src2","claim":"Self-referential belief and general belief share common neural correlate in vmPFC","strength":"strong","domain":"systems_neuroscience"}
+{"id":"ev4","source":"src2","claim":"dmPFC encodes uncertainty in belief evaluation supporting dual neural process model","strength":"moderate","domain":"systems_neuroscience"}
+{"id":"ev5","source":"src3","claim":"BTSP enables one-shot content-addressable memory creation with binary synapses in hippocampal CA1","strength":"strong","domain":"molecular_neuroscience"}
+{"id":"ev6","source":"src4","claim":"Goal setting intervention selectively reduces effort sensitivity; cognitive restructuring selectively reduces internal attribution of negative events","strength":"strong","domain":"cognitive_behavioral_therapy"}
+{"id":"ev7","source":"src5","claim":"Psilocybin reduces confidence in negative self-beliefs; EEG entropy correlates with belief change and improved well-being","strength":"moderate","domain":"psychedelic_therapy"}
+{"id":"ev8","source":"src7","claim":"50 vs 25 sessions of schema therapy produces greater depression reduction (d=0.53) and higher remission (74% vs 58%)","strength":"strong","domain":"schema_therapy"}
+{"id":"ev9","source":"src8","claim":"No significant difference between DBT and schema therapy for BPD; both produce large improvements","strength":"strong","domain":"schema_therapy"}
+{"id":"ev10","source":"src14","claim":"Reconsolidation therapy shows faster initial PTSD recovery than TAU at week 7; 55.4% probability of being cheaper and more effective","strength":"moderate","domain":"reconsolidation_therapy"}
+{"id":"ev11","source":"src15","claim":"Psilocybin reduces anterior hippocampus-DMN connectivity for 3+ weeks post-dose","strength":"strong","domain":"psychedelic_therapy"}
+{"id":"ev12","source":"src26","claim":"Horizontal eye movements accelerate fear extinction learning in classical conditioning (18.2% vs 40.9% CR occurrence)","strength":"moderate","domain":"emdr"}
+{"id":"ev13","source":"src27","claim":"No difference between EMDR with eye movements and retrieval-only on neurocognitive outcomes","strength":"moderate","domain":"emdr"}
+{"id":"ev14","source":"src12","claim":"Updated ImRs protocol: therapist rescripts early sessions; target hotspot; standard questions deepen processing","strength":"strong","domain":"imagery_rescripting"}
+{"id":"ev15","source":"src13","claim":"ImRs for PTSD: 70-86% remission; effect sizes d=1.40-2.66","strength":"strong","domain":"imagery_rescripting"}
+{"id":"ev16","source":"src17","claim":"Bayesian brain theory formalizes belief encoding and updating through precision-weighted prediction errors","strength":"strong","domain":"computational_psychiatry"}
+{"id":"ev17","source":"src19","claim":"MBIs induce neuroplastic changes in DMN, salience network, and central executive network","strength":"strong","domain":"mindfulness"}
+{"id":"ev18","source":"src20","claim":"Neuroplasticity without therapeutic guidance may maladaptively consolidate; psychotherapy essential to direct change","strength":"moderate","domain":"psychedelic_therapy"}
+{"id":"ev19","source":"src21","claim":"Schema-informed digital intervention: significant improvements in perfectionism, self-esteem, loneliness, anxiety (RCT n=300)","strength":"strong","domain":"digital_therapeutics"}
+{"id":"ev20","source":"src24","claim":"Chronic stress induces maladaptive neuroplasticity in PFC: dendritic retraction, spine loss, impaired LTP","strength":"strong","domain":"neuroscience"}
+{"id":"ev21","source":"src25","claim":"Jungian psychotherapy: moderate-to-large effect sizes for symptom reduction (d=0.56-1.17)","strength":"moderate","domain":"shadow_work_jungian"}
+{"id":"ev22","source":"src28","claim":"Psychedelics attenuate bottom-up DMN cortical propagations across species and compounds","strength":"strong","domain":"psychedelic_therapy"}
+{"id":"ev23","source":"src29","claim":"Psilocybin and escitalopram reduce depression through opposite hierarchical reconfiguration effects","strength":"strong","domain":"psychedelic_therapy"}
+{"id":"ev24","source":"src4","claim":"Component studies: cognitive restructuring alone may not add incremental benefit beyond behavioral strategies for most conditions","strength":"moderate","domain":"cognitive_behavioral_therapy"}
+{"id":"ev25","source":"src10","claim":"REBUS model: psychedelics relax precision of high-level priors enabling belief revision","strength":"strong","domain":"psychedelic_therapy"}
