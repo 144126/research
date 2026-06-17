@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "What is the physiological mechanism of a sugar crash (reactive/postprandial hypoglycemia) - insulin-glucose feedback loop, counter-regulatory hormone cascade, symptoms, prevalence, prevention, and controversies",
+  "started_at": "2026-06-17T16:10:53.994444+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/sugar_crash",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}

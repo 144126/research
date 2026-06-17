@@ -1,0 +1,1 @@
+look at @research/afformation_technique/ . what i wanna know is if afformations should be a specific same repeated question, e.g 'why am i so smart' or 'why am i so wealthy' repeated over and over, no variatons, or if it's better to have variations, like 'why am i so smart', 'why am i so intelligent', 'why do i always have awesome creative ideas'

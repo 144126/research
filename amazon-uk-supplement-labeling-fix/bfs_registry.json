@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "research_topic": "Amazon UK supplement labeling fix - vitamin E listing rescue",
+    "total_sources": 222,
+    "bfs_levels_used": 2,
+    "generated": "2026-06-17",
+    "methodology": "Multi-level BFS expansion: Level 1 sources from 30+ seed queries across 12 dimensions; Level 2 sources from reference/entity follow-up on Level 1 sources"
+  },
+  "levels": {
+    "1": {
+      "description": "Initial source collection from 20+ parallel web searches across all 12 dimensions",
+      "seed_queries": [
+        "Amazon UK supplement listing requirements labeling discrepancies 2026",
+        "\"marketed for Nigeria\" Amazon listing rejected supplement",
+        "Amazon UK dietary supplements policy food supplement requirements Seller Central",
+        "UK Food Supplements Regulations 2003 labeling requirements vitamin E",
+        "Amazon UK \"labeling discrepancies\" supplement listing rejected fix",
+        "Freelancer \"Fix Amazon Labeling\" \"Health & Beauty\" vitamin E Nigeria UK",
+        "Amazon AI compliance scanning supplement label detection BareGold",
+        "Amazon UK \"ingestible brands\" application paused supplement category",
+        "Amazon UK country of origin labeling requirement supplement",
+        "Amazon supplement compliance appeal \"auto-reject\" loop strategy",
+        "UK supplement label FBO address requirement \"Food Business Operator\" Amazon UK",
+        "Supplements category approval Amazon UK",
+        "Dietary Supplements not accepting new applications Human Ingestibles",
+        "Country of Origin information Amazon UK",
+        "Amazon supplement compliance cGMP requirements 2026",
+        "Amazon FBA supplement label compliance",
+        "UK food supplements FSA guidance labeling",
+        "Amazon restricted categories supplement 2026",
+        "Amazon supplement compliance consultant UK"
+      ],
+      "source_count": 120,
+      "primary_domains": [
+        "freelancer.com", "sellercentral.amazon.co.uk", "legislation.gov.uk",
+        "gov.uk", "food.gov.uk", "baregold.ca", "sitruna.com",
+        "nutraingredients.com", "exportpartners.com.tr", "inventoryready.com",
+        "sellerkit.me", "sellsletter.com", "m2ecloud.com", "olifantdigital.com",
+        "amazon-consultant.co.uk", "mrjeffamz.com", "appealspro.ai",
+        "qalitex.com", "globalimportagent.com", "pid-labelling.co.uk",
+        "custompackstudio.co.uk", "nutribl.com", "vitafoodsinsights.com"
+      ]
+    },
+    "2": {
+      "description": "Follow-up sources from Level 1 references, Seller Central forum deep-dives, and entity-based expansion",
+      "expansion_method": "Per-source link following + named entity search expansion",
+      "source_count": 102,
+      "secondary_domains": [
+        "sellercentral.amazon.com", "sellercentral.amazon.ca", "sellercentral.amazon.de",
+        "sellercentral.amazon.com.tr", "sellercentral-europe.amazon.com",
+        "freelancer.co.ke", "freelancer.es", "crnuk.org",
+        "amazon.co.uk", "brandregistry.amazon.co.uk",
+        "citizensadvice.org.uk", "bbb.org"
+      ]
+    }
+  },
+  "source_type_distribution": {
+    "amazon_official_policy_pages": 25,
+    "seller_central_forum_discussions": 40,
+    "uk_legislation": 10,
+    "uk_government_guidance": 12,
+    "industry_compliance_guides": 20,
+    "freelancer_service_listings": 12,
+    "news_trade_publications": 8,
+    "compliance_consultant_blogs": 10,
+    "appeals_specialists": 5,
+    "cross_reference_supporting_urls": 80
+  },
+  "verification_status": {
+    "verified_claims": 15,
+    "high_confidence_claims": 12,
+    "medium_confidence_claims": 2,
+    "low_confidence_claims": 1,
+    "contradictions_documented": 2
+  }
+}

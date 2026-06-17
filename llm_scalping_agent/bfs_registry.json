@@ -1,0 +1,33 @@
+{
+  "slug": "llm_scalping_agent",
+  "topic": "LLM/Agentic AI-Based Scalping in Capital Markets",
+  "description": "Comprehensive research on using large language models and agentic AI for scalping trading strategies, covering architectures, frameworks, performance claims, and critical analysis.",
+  "source_count": 218,
+  "levels": {
+    "level_1": 198,
+    "level_2": 20,
+    "level_3": 0
+  },
+  "sources": [
+    {"id": "S001", "url": "https://arxiv.org/abs/2606.08285", "title": "Beyond Agent Architecture: Execution Assumptions and Reproducibility in LLM-Based Trading Systems", "type": "academic", "year": 2026},
+    {"id": "S002", "url": "https://arxiv.org/abs/2605.28359", "title": "KTD-Fin: Memory-Controlled Benchmark for LLM Trading Agents", "type": "academic", "year": 2026},
+    {"id": "S003", "url": "https://arxiv.org/abs/2605.23007", "title": "MadEvolve: Evolutionary Optimization of Trading Systems with LLMs", "type": "academic", "year": 2026},
+    {"id": "S004", "url": "https://arxiv.org/abs/2605.12532", "title": "AgenticAITA: Deliberative Multi-Agent Reasoning for Autonomous Trading", "type": "academic", "year": 2026},
+    {"id": "S005", "url": "https://arxiv.org/abs/2604.03888", "title": "PolySwarm: Multi-Agent LLM Framework for Prediction Market Trading", "type": "academic", "year": 2026},
+    {"id": "S006", "url": "https://arxiv.org/abs/2604.10996", "title": "When Valid Signals Fail: LLM Features and RL Trading Policies", "type": "academic", "year": 2026},
+    {"id": "S007", "url": "https://arxiv.org/abs/2606.08283", "title": "Macro Economists in the Machine: Multi-Agent LLM for Commodity ETFs", "type": "academic", "year": 2026},
+    {"id": "S008", "url": "https://arxiv.org/abs/2605.24490", "title": "Market Regime Council for Credit Assignment in Multi-Agent LLM Systems", "type": "academic", "year": 2026},
+    {"id": "S009", "url": "https://arxiv.org/abs/2605.06822", "title": "SHARP: Self-Evolving Human-Auditable Rubric Policy for Trading Agents", "type": "academic", "year": 2026},
+    {"id": "S010", "url": "https://arxiv.org/abs/2605.05211", "title": "LLMs for Stock Price Forecasting: A Hedge-Fund Perspective", "type": "academic", "year": 2026},
+    {"id": "S011", "url": "https://arxiv.org/abs/2605.03310", "title": "Coordination as an Architectural Layer for LLM-Based Multi-Agent Systems", "type": "academic", "year": 2026},
+    {"id": "S012", "url": "https://arxiv.org/abs/2604.26747", "title": "From Hypotheses to Factors: Constrained LLM Agents in Crypto", "type": "academic", "year": 2026},
+    {"id": "S013", "url": "https://arxiv.org/abs/2604.10996", "title": "When Valid Signals Fail: Regime Boundaries", "type": "academic", "year": 2026},
+    {"id": "S014", "url": "https://arxiv.org/abs/2603.00285", "title": "TraderBench: How Robust Are AI Agents?", "type": "academic", "year": 2026},
+    {"id": "S015", "url": "https://arxiv.org/abs/2602.23330", "title": "Toward Expert Investment Teams: Multi-Agent LLM System", "type": "academic", "year": 2026},
+    {"id": "S016", "url": "https://arxiv.org/abs/2602.07023", "title": "Behavioral Consistency Validation for LLM Agents in Trading", "type": "academic", "year": 2026},
+    {"id": "S017", "url": "https://arxiv.org/abs/2606.01886", "title": "Absorbing Complexity: Interaction-Native Knowledge Harness", "type": "academic", "year": 2026},
+    {"id": "S018", "url": "https://arxiv.org/abs/2605.09185", "title": "AutoRedTrader: Red Teaming Trading Agents", "type": "academic", "year": 2026},
+    {"id": "S019", "url": "https://arxiv.org/abs/2605.25958", "title": "PolyGnosis 2.0: Agentic Harness for Polymarket", "type": "academic", "year": 2026},
+    {"id": "S020", "url": "https://arxiv.org/abs/2506.04358", "title": "Risk-Aware RL Reward for Financial Trading", "type": "academic", "year": 2025}
+  ]
+}

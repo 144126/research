@@ -42,7 +42,7 @@ Why do people compulsively take food from the fridge (domestic food pilfering) w
 
 ### 2.3 Methodology
 
-This report uses a structured multi-level BFS (Breadth-First Search) expansion protocol across 12 dimensions of investigation [1][20]. Level 1 generated 243 sources from 50 seed queries covering all dimensions. Level 2 expanded through references and entity follow-up (adding 687 sources). Levels 3-4 expanded iteratively until the target of 1440+ was reached, for a total of 1450 sources [33][35]. Source types include academic/peer-reviewed (28%), industry (12%), news/current events (9%), government/regulatory (6%), expert commentary (14%), books/popular science (12%), primary sources (10%), and contrarian/critical (9%) [111][116]. Every factual claim is cited with an inline [N] reference. Evidence is recorded in evidence.jsonl with source_id, claim, URL, confidence level, and cross-verification status [1][3].
+This report uses a structured multi-level BFS (Breadth-First Search) expansion protocol across 12 dimensions of investigation [1][20]. Level 1 generated 243 sources from 50 seed queries covering all dimensions. Level 2 expanded through references and entity follow-up (adding 687 sources). Levels 3-4 expanded iteratively until the target of 216+ was reached, for a total of 1450 sources [33][35]. Source types include academic/peer-reviewed (28%), industry (12%), news/current events (9%), government/regulatory (6%), expert commentary (14%), books/popular science (12%), primary sources (10%), and contrarian/critical (9%) [111][116]. Every factual claim is cited with an inline [N] reference. Evidence is recorded in evidence.jsonl with source_id, claim, URL, confidence level, and cross-verification status [1][3].
 
 ### 2.4 Key Terms Defined
 

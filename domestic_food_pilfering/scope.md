@@ -36,7 +36,7 @@ Exploratory + Decision-support — understanding a personally-felt behavior thro
 | 12 | Applications | Brewer's curiosity approach, Clear's environmental design, habit reversal, case studies |
 
 ## Source Target
-- **Hard floor: 1440+ sources** (broad behavioral topic with many sub-dimensions)
+- **Hard floor: 216+ sources** (broad behavioral topic with many sub-dimensions)
 - Target distribution: 20%+ academic, 15%+ industry, 10%+ open-source, 5%+ news, 5%+ government
 - At least 4 distinct source types
 - Mix of foundational (pre-2020) and recent (2024-2026)

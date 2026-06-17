@@ -1,0 +1,1 @@
+I've been trying to list a Health & Beauty item (vitamin E) on Amazon UK for several weeks and keep getting rejected for "labeling discrepancies." The packaging currently states "Made in the UK, marketed for Nigeria" alongside the full product description, ingredients, usage instructions, and warnings. Amazon's system flags this combination and will not approve the listing.

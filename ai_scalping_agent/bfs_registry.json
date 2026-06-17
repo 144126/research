@@ -1,0 +1,28 @@
+{
+  "research_slug": "ai_scalping_agent",
+  "bfs_levels": {
+    "level1": {
+      "search_count": 24,
+      "sources_found": 293,
+      "description": "Initial parallel search across 12 dimensions covering RL, ML, market microstructure, institutional HFT, infrastructure, regulation, crypto, academia, retail tools, performance metrics, alternative data, and interdisciplinary angles"
+    }
+  },
+  "total_distinct_sources": 293,
+  "target_met": true,
+  "registrations": {
+    "dimension_1_technical_architectures": "PPO/SAC/DDQN, XGBoost/LSTM/Transformer comparisons, agentic AI approaches, FinRL survey",
+    "dimension_2_historical_evolution": "Decimalization, colocation, FPGA adoption, Medallion history, HFT arms race timeline",
+    "dimension_3_current_state_of_art": "LiT transformer, DeepLOB, FinBERT sentiment, RL trading survey, FPGA-accelerated AI trading",
+    "dimension_4_quantitative_evidence": "Sharpe ratios, transaction costs, colocation pricing, capacity limits, implementation shortfall models",
+    "dimension_5_stakeholder_analysis": "Renaissance, Optiver, Jane Street, Two Sigma, Citadel, Jump Trading, retail bot platforms",
+    "dimension_6_competing_approaches": "RL vs supervised ML, FPGA vs GPU vs CPU, market making vs arbitrage, crypto vs equities",
+    "dimension_7_criticisms_limitations": "90%+ failure rate, overfitting detection, latency arbitrage, RL limitations, transaction cost analysis",
+    "dimension_8_contrarian_perspectives": "Zero-sum game critique, AI bot marketing hype, retail viability debate, academic RL skepticism",
+    "dimension_9_future_trajectories": "Agentic AI predictions, CBDC/MiCA impact, quantum/neuromorphic, democratization trends",
+    "dimension_10_regulatory_legal": "SEC Rule 15c3-5, MiFID II, Reg SCI, FINRA market access, algorithmic trading compliance",
+    "dimension_11_geographic_variation": "US vs EU vs Asia vs crypto markets, Chinese quant firms, regulatory havens",
+    "dimension_12_practical_case_studies": "LTCM failure, Almgren-Chriss optimal execution, backtesting frameworks, genetic programming strategies"
+  },
+  "bfs_expansion_required": false,
+  "notes": "Level 1 searches exceeded 216+ source target directly. No BFS expansion needed."
+}

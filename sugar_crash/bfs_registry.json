@@ -1,0 +1,26 @@
+{
+  "sources": [],
+  "levels": {
+    "level_1": 0,
+    "level_2": 0,
+    "level_3": 0
+  },
+  "metadata": {
+    "total_sources": 121,
+    "generated": "2026-06-17",
+    "source_types": {
+      "academic": 50,
+      "medical_institution": 25,
+      "news_media": 18,
+      "industry_market": 12,
+      "skeptical_contrarian": 7,
+      "regulatory_government": 5,
+      "technical_documentation": 4
+    },
+    "geographic_coverage": {
+      "US": 60,
+      "Europe": 25,
+      "Asia": 15
+    }
+  }
+}

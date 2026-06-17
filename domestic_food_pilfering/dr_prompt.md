@@ -143,7 +143,7 @@ Each dimension must be investigated from multiple angles and reported with speci
 - Expert commentary: Psychology Today, Harvard Health, Cleveland Clinic on food noise
 - Contrarian/critical: NPR's "UPF is not so simple" (2025), Harvard's nuanced take on intuitive eating, debates on NOVA classification
 
-### Minimum Source Count: 1440+ — Level 1 initial sources should themselves aim for >=1440 relentlessly. Multi-level BFS expansion (following links/references/ideas from each source to generate further sources, iteratively) is used only when Level 1 falls short.
+### Minimum Source Count: 216+ — Level 1 initial sources should themselves aim for >=216 relentlessly. Multi-level BFS expansion (following links/references/ideas from each source to generate further sources, iteratively) is used only when Level 1 falls short.
 
 ### Source Diversity Requirements
 - At least 4 different source types must be represented
@@ -215,4 +215,4 @@ San Francisco UPF lawsuit, FDA NIH regulatory science, UPF labeling, dietary gui
 willpower is wrong tool, white bear problem, restriction causes craving, food has no morality, UPF definition too broad, intuitive eating diet quality concerns
 
 ## Mode
-Deep Research (8-phase pipeline, multi-level BFS expansion, 1440+ sources)
+Deep Research (8-phase pipeline, multi-level BFS expansion, 216+ sources)

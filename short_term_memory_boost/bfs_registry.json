@@ -1,0 +1,2382 @@
+[
+  {
+    "source_id": "cacccda978fc",
+    "display_number": 1,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4968033",
+    "title": "Working Memory Training Does Not Improve Performance on Measures of Intelligence or Other Measures of Far Transfer",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "b49d5056ae24",
+    "display_number": 2,
+    "url": "https://doi.org/10.1177/1745691616635612",
+    "title": "Melby-Lerv\u00e5g et al. 2016 meta-analysis",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "9292e67eed5f",
+    "display_number": 3,
+    "url": "https://www.nature.com/articles/s41598-021-82663-w",
+    "title": "Dual n-back working memory training evinces superior transfer",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "e448145999cb",
+    "display_number": 4,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0001691825008121",
+    "title": "Near and far transfer effects of working memory training: 2025 RCT",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "760390035c90",
+    "display_number": 5,
+    "url": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1217093/full",
+    "title": "Cognitive neuroscience perspective on memory",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "2384c4717bc8",
+    "display_number": 6,
+    "url": "https://www.mdpi.com/2076-3425/7/5/49",
+    "title": "Working Memory in the Prefrontal Cortex - Funahashi 2017",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "6a270aacc6ba",
+    "display_number": 7,
+    "url": "https://journals.physiology.org/doi/full/10.1152/jn.00041.2021",
+    "title": "Neural substrate and underlying mechanisms of working memory",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "cc9920606b93",
+    "display_number": 8,
+    "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2018.00052/full",
+    "title": "Exercise-Mediated Neurogenesis in the Hippocampus via BDNF",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "e857099f6641",
+    "display_number": 9,
+    "url": "https://www.sciencedirect.com/science/article/pii/S2949834123000168",
+    "title": "Physical exercise on BDNF and cognitive function - comprehensive review",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "392dc2692859",
+    "display_number": 10,
+    "url": "https://link.springer.com/article/10.1186/s12868-025-00935-x",
+    "title": "Aerobic exercise training improves learning via PKA-CREB-BDNF",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "5df2f032978e",
+    "display_number": 49,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0149763424003981",
+    "title": "Systematic meta-analytic review sleep restriction memory formation",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c6d19f1d8e32",
+    "display_number": 12,
+    "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.883848/full",
+    "title": "Common Effects of Sleep Deprivation on Memory and Cognitive Control",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "1193d1de60d4",
+    "display_number": 13,
+    "url": "https://www.sciencedirect.com/science/article/pii/S266724212500154X",
+    "title": "Napping restores working memory and brain activation after SD",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "24e200b617a9",
+    "display_number": 14,
+    "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2024.1470976/full",
+    "title": "Sleep deprivation-induced memory impairment",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "9266359dba21",
+    "display_number": 15,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1755296625000559",
+    "title": "Effects of varied acute exercise intensities on working memory 2025",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "93e5fce8b137",
+    "display_number": 16,
+    "url": "https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2024.1367569/full",
+    "title": "Acute exercise on long-term episodic memory: meta-analysis",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "9e68980d828f",
+    "display_number": 17,
+    "url": "https://link.springer.com/article/10.3758/s13421-024-01660-2",
+    "title": "Acute exercise intensity on memory: state-dependence 2024",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "4b49e1f2cbae",
+    "display_number": 18,
+    "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1578614/full",
+    "title": "Physical activity on working memory in ADHD: meta-analysis 2026",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "609fd99e2a17",
+    "display_number": 19,
+    "url": "https://www.adhdevidence.org/blog/meta-analysis-reports-executive-function-gains-from-exercise-interventions-for-adhd",
+    "title": "Exercise interventions for executive function in ADHD meta-analysis",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "b39cd69dba82",
+    "display_number": 20,
+    "url": "https://www.adhdevidence.org/blog/meta-analysis-reports-gains-in-working-memory-from-physical-activity-for-children-and-adolescents-with-adhd",
+    "title": "Physical activity working memory ADHD meta-analysis",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "1f2d93a2ec29",
+    "display_number": 21,
+    "url": "https://www.adhdevidence.org/blog/seven-new-meta-analyses-suggest-wide-range-of-benefits-from-exercise-for-persons-with-adhd",
+    "title": "Seven meta-analyses exercise ADHD benefits 2025",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "487c96e3e051",
+    "display_number": 22,
+    "url": "https://www.adhdevidence.org/blog/meta-analysis-finds-limited-benefits-from-computerized-cognitive-training",
+    "title": "Computerized cognitive training limited benefits meta-analysis",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "4450e915896c",
+    "display_number": 23,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4915811",
+    "title": "Exercise promotes BDNF through ketone body \u03b2-hydroxybutyrate",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "5e465bfc1922",
+    "display_number": 24,
+    "url": "https://www.sciencedirect.com/science/article/pii/S001370062500171X",
+    "title": "Harnessing exercise for brain health: BDNF neuroplasticity 2026",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "fbf68cd83e2f",
+    "display_number": 162,
+    "url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2021.638109/full",
+    "title": "Bacopa cognitive training brain microstructure 2021",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "78c5cd821730",
+    "display_number": 26,
+    "url": "https://www.researchprotocols.org/2026/1/e82891",
+    "title": "Bacopa monnieri on cognitive function in MCI: RCT protocol 2026",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "2b264fc1a249",
+    "display_number": 27,
+    "url": "https://jagpublications.in/wp-content/uploads/2025/09/JNIP-Vol.12-5-Nov-2025.pdf",
+    "title": "Bacopa monnieri with cognitive training in MCI 2025",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "0605f7cf8841",
+    "display_number": 28,
+    "url": "https://link.springer.com/article/10.1007/s40261-025-01492-1",
+    "title": "Bacopa monnieri extract on cognitive function, stress, fatigue",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "ae406bf4f0c8",
+    "display_number": 29,
+    "url": "https://www.gavinpublishers.com/article/view/effect-of-bacopa-monnieri-extract-on-memory-and--cognitive-skills-in-adult-humans-a-randomized-double-blind-placebo-controlled-study",
+    "title": "Bacopa monnieri extract on memory: RCT 2024",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "94e7e555a58f",
+    "display_number": 30,
+    "url": "https://www.mdpi.com/2076-3425/15/9/998",
+    "title": "Adaptive Dual N-Back Training ADHD WAIS-IV 2025",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "689a0dcf03e6",
+    "display_number": 31,
+    "url": "https://www.nature.com/articles/s41598-025-29148-2",
+    "title": "Long-term bifrontal tACS on verbal WM and episodic memory 2025",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "fa5f30e53900",
+    "display_number": 32,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1935861X24001220",
+    "title": "Real-time phase-tuned tACS working memory enhancement 2024",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "91e4d85a98d1",
+    "display_number": 33,
+    "url": "https://link.springer.com/article/10.1186/s13041-024-01149-8",
+    "title": "Theta-gamma-coupling as predictor of working memory performance",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "06587394ddd6",
+    "display_number": 34,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7867505",
+    "title": "tACS from basic mechanisms to applications in psychiatry",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "35f986e08bd2",
+    "display_number": 35,
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01285/full",
+    "title": "Far-Transfer Effects of Strategy-Based Working Memory Training",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "eb3fa2fac000",
+    "display_number": 36,
+    "url": "https://link.springer.com/article/10.1186/s13041-024-01142-1",
+    "title": "Improving working memory by electrical stimulation and cross-frequency coupling",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "0bcce342b44d",
+    "display_number": 37,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1440244024005553",
+    "title": "Movement boosts memory: acute exercise effects 2025",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f2b8623a01c6",
+    "display_number": 199,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18443283/",
+    "title": "Jaeggi 2008 improving fluid intelligence",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "00f48882cee5",
+    "display_number": 200,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22612437/",
+    "title": "Melby-Lerv\u00e5g 2012 WM training meta-analysis",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "cc1fb7202352",
+    "display_number": 201,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22708717/",
+    "title": "Redick 2013 no intelligence improvement",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "a05937ae13f7",
+    "display_number": 41,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24091548/",
+    "title": "Harrison 2013 - WM training may increase capacity but not fluid intelligence",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "41185521b2ba",
+    "display_number": 202,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25102926/",
+    "title": "Au 2015 improving fluid intelligence meta-analysis",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "46d0da5bb0d9",
+    "display_number": 43,
+    "url": "https://doi.org/10.3389/fphar.2026.1654013",
+    "title": "Cistanche-Ginkgo combination enhances memory via cortico-cerebellar reorganization 2026",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "57c202e3037f",
+    "display_number": 46,
+    "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1802531/full",
+    "title": "Exogenous ketones systematic review and meta-analysis 2026",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "9a7f01de8879",
+    "display_number": 45,
+    "url": "https://doi.org/10.1101/2025.09.17.25335999",
+    "title": "Exogenous ketone bodies on cognition: meta-analysis preprint 2025",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "4019cd4a2559",
+    "display_number": 47,
+    "url": "https://doi.org/10.3389/fnut.2025.1729164",
+    "title": "MgT effects on cognitive performance and sleep: RCT 2026",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "d492dd599551",
+    "display_number": 48,
+    "url": "https://www.lifeextension.com/magazine/2026/5/magnesium-l-threonate-may-support-brain-aging",
+    "title": "MgT reduces estimated brain age 2026 clinical trial",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "7827406a61fc",
+    "display_number": 50,
+    "url": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2014.00389/full",
+    "title": "Effects of sleep deprivation on different phases of memory in rat",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "2165d9896e38",
+    "display_number": 51,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6378597/",
+    "title": "Daytime napping and full-night sleep on memory consolidation",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "25d836ce24b3",
+    "display_number": 52,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1389945725003247",
+    "title": "Napping and memory consolidation early childhood meta-analysis 2025",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "01ee41a9eebc",
+    "display_number": 53,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12546891",
+    "title": "Napping restores WM and brain activation impaired by SD 2025",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "a9f3a3201e5b",
+    "display_number": 54,
+    "url": "https://mentalhealthdaily.com/2014/07/19/bacopa-monnieri-clinical-studies-research-meta-analyses/",
+    "title": "Bacopa monnieri clinical studies research database",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "d08452dd9a75",
+    "display_number": 55,
+    "url": "https://www.nutraingredients.com/Article/2025/06/17/review-backs-neuroprotective-effects-of-bacopa-monnieri",
+    "title": "Review backs neuroprotective effects of Bacopa monnieri 2025",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "cccb944ca479",
+    "display_number": 56,
+    "url": "https://www.alzdiscovery.org/uploads/cognitive_vitality_media/Bacopa_monnieri_UPDATE_%28supplements%29.pdf",
+    "title": "Bacopa Monnieri ADDF report",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "29ca870dbf0f",
+    "display_number": 57,
+    "url": "https://www.alzdiscovery.org/uploads/cognitive_vitality_media/Lions-Mane-Cognitive-Vitality-For-Researchers.pdf",
+    "title": "Lion's Mane Mushroom ADDF report",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "9134fe5dda90",
+    "display_number": 58,
+    "url": "https://ichgcp.net/clinical-trials-registry/NCT07405632",
+    "title": "Hericium erinaceus in attention and memory clinical trial 2026",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "966e55f7036a",
+    "display_number": 59,
+    "url": "https://ichgcp.net/clinical-trials-registry/NCT07405957",
+    "title": "Lion's Mane fruiting body and mycelium clinical trial 2026",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "eaaf698e923b",
+    "display_number": 60,
+    "url": "https://mushroomreferences.com/2026/04/08/the-acute-and-chronic-effects-of-lions-mane-mushroom-supplementation-on-cognitive-function-stress-and-mood-in-young-adults-a-double-blind-parallel-groups-pilot-study-2",
+    "title": "Acute and chronic Lion's Mane effects on cognition 2026",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "70d6a19902f8",
+    "display_number": 179,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1469029224001687",
+    "title": "BET older adults cognitive physical performance 2025",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "1414c7ac8a37",
+    "display_number": 62,
+    "url": "https://www.mdpi.com/2411-5142/10/4/391",
+    "title": "Effects of Separate Cognitive Training on Endurance Exercise 2025",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "287bb7fc5eb2",
+    "display_number": 63,
+    "url": "https://journals.physiology.org/doi/10.1152/japplphysiol.00666.2025",
+    "title": "Toward brain endurance training framework 2025",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "b278c85ffc01",
+    "display_number": 64,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12551073/",
+    "title": "Effects of Separate Cognitive Training on Endurance Exercise Performance",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "2a354086d141",
+    "display_number": 65,
+    "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1385542/full",
+    "title": "Baduanjin exercise on cognitive frailty 2024",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "4af9b6eb2bd6",
+    "display_number": 66,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0965229921000686",
+    "title": "Baduanjin exercise on cognitive function middle-aged elderly",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "bc6c5fcd4da7",
+    "display_number": 67,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4838712/",
+    "title": "Baduanjin exercise on cognitive function in older adults with MCI",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "54ae931123ef",
+    "display_number": 68,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12694498",
+    "title": "Baduanjin exercise with or without vitamin D outperforms 2024",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "2c642e32b427",
+    "display_number": 69,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35111479",
+    "title": "Caffeine and L-theanine systematic review 2021",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "4c8855928910",
+    "display_number": 70,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18006208/",
+    "title": "Haskell 2008 L-theanine caffeine combination cognition mood",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "e19f6e0ddd1d",
+    "display_number": 71,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21040626/",
+    "title": "Giesbrecht 2010 L-theanine caffeine cognitive performance alertness",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "536dd0be7d8f",
+    "display_number": 72,
+    "url": "https://jn.nutrition.org/article/S0022-3166%2822%2909912-6/fulltext",
+    "title": "L-Theanine and Caffeine in Combination Affect Human Cognition",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "0e65a1fbcc70",
+    "display_number": 73,
+    "url": "https://www.cureus.com/articles/72733-the-cognitive-enhancing-outcomes-of-caffeine-and-l-theanine-a-systematic-review",
+    "title": "Cognitive-Enhancing Outcomes of Caffeine and L-theanine systematic review",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "84931dbb335e",
+    "display_number": 74,
+    "url": "https://psycnet.apa.org/record/2025-06618-007",
+    "title": "Frontal 7 and 40 Hz tACS enhances working memory",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "90c37ae803c6",
+    "display_number": 75,
+    "url": "https://clinicaltrials.gov/study/NCT06202872",
+    "title": "Memory Enhancement Using tACS in MCI",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "a398c780dcfc",
+    "display_number": 197,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17470009/",
+    "title": "Kane 2007 n-back construct validity",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "597af869fa1d",
+    "display_number": 77,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20725526/",
+    "title": "Schmiedek 2010 COGITO study 100 days cognitive training",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c9009fd5c785",
+    "display_number": 78,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21670271/",
+    "title": "Jaeggi 2011 short and long term benefits of cognitive training",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "d065739270f6",
+    "display_number": 79,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24219314/",
+    "title": "Stepankova 2014 WM training in older adults",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "dc7c3e7bf1a0",
+    "display_number": 221,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40457944/",
+    "title": "Method of loci meta-analysis 2025",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "951bed1ed554",
+    "display_number": 81,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5439266/",
+    "title": "Dresler 2017 memory palace training Neuron",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "db1b9ef66e83",
+    "display_number": 198,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21147409/",
+    "title": "Maguire 2003 neuroimaging memory champions",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "8c663ffa7b1a",
+    "display_number": 84,
+    "url": "https://news.utdallas.edu/health-medicine/study-aerobic-exercise-improves-memory-brain-funct",
+    "title": "Aerobic exercise improves memory brain function Center for BrainHealth",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "0189ba6d2d5c",
+    "display_number": 85,
+    "url": "https://healthcare.msu.edu/news/2025-12-28-Scientists-Say-This-Simple-Habit-Boosts-Brain-Health-in-as-Little-as-12-Weeks.html",
+    "title": "Exercise boosts brain health 12 weeks MSU 2025",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "7699c0af47df",
+    "display_number": 86,
+    "url": "https://www.health.harvard.edu/mind-and-mood/exercise-can-boost-your-memory-and-thinking-skills",
+    "title": "Exercise can boost memory and thinking skills - Harvard Health 2026",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "b838daa87b39",
+    "display_number": 87,
+    "url": "https://neurosciencenews.com/memory-meditation-23414/",
+    "title": "Neuroscience of meditation and memory 2023",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "5926ac92f82e",
+    "display_number": 88,
+    "url": "https://gero.usc.edu/2025/07/08/mindfulness-meditation-improve-attention",
+    "title": "Mindfulness meditation improves attention in adults USC 2025",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "bedc110dab4d",
+    "display_number": 89,
+    "url": "https://www.psychologicalscience.org/news/releases/brief-mindfulness-training-may-boost-test-scores-working-memory.html",
+    "title": "Brief mindfulness training may boost test scores working memory",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "e74768e09c8f",
+    "display_number": 90,
+    "url": "https://aasm.org/study-shows-that-sleep-restriction-impairs-cognitive-functioning-in-high-school-students",
+    "title": "Sleep restriction impairs cognitive functioning in students",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "9c3a9c2adb57",
+    "display_number": 91,
+    "url": "https://www.aol.com/articles/scientists-simple-habit-boosts-brain-141400062.html",
+    "title": "Exercise boosts brain health study 2025",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "7b0264221596",
+    "display_number": 92,
+    "url": "https://news.uchicago.edu/story/how-build-better-memory-palace",
+    "title": "How to build a better memory palace UChicago 2026",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "db3299a8b3fe",
+    "display_number": 93,
+    "url": "https://www.mcgill.ca/oss/article/critical-thinking-history/ancient-memory-technique-still-puzzles-scientists",
+    "title": "Ancient memory technique still puzzles scientists McGill 2024",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "d40bb6a2eec5",
+    "display_number": 94,
+    "url": "https://hms.harvard.edu/news/exercising-mind",
+    "title": "Exercising the Mind - Harvard Medical School",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "54c048d9d27a",
+    "display_number": 95,
+    "url": "https://www.bu.edu/csn/2019/07/16/working-memory-revived-in-older-adults-by-synchronizing-rhythmic-brain-circuits",
+    "title": "Working memory revived in older adults by brain stimulation Boston U",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "ba6d8508ec97",
+    "display_number": 96,
+    "url": "https://www.rapamycin.news/t/magnesium-l-threonate-magtein-claims-7-5-year-brain-rejuvenation-in-young-adults/23304",
+    "title": "MgT 7.5 year brain rejuvenation Rapamycin News 2026",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "46450d282f08",
+    "display_number": 97,
+    "url": "https://sleep.hms.harvard.edu/education-training/public-education/sleep-and-health-education-program/sleep-health-education-88",
+    "title": "Sleep and Memory - Harvard Sleep Medicine",
+    "type": "news",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "2d9205d44c1d",
+    "display_number": 144,
+    "url": "https://www.nifdi.org/resources/88-news/kerry-hempenstall/758-near-and-far-transfer-in-cognitive-training.html",
+    "title": "Sala Gobet second-order meta-analysis near far transfer",
+    "type": "contrarian",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "828e464e60a8",
+    "display_number": 99,
+    "url": "https://dualnback.com/articles/research",
+    "title": "Dual N-Back Research Studies",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "4ad554034981",
+    "display_number": 100,
+    "url": "https://xnback.com/research",
+    "title": "Dual N-Back Research Efficacy xNBack",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "e0e4f13bbbc5",
+    "display_number": 101,
+    "url": "https://ultimatebrain.io/dual-n-back-studies",
+    "title": "Dual N-Back Studies evidence meta-analyses",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c752f002a01e",
+    "display_number": 102,
+    "url": "https://dual-n-back.io/",
+    "title": "Dual N-Back training app",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "bed44ff9f5f2",
+    "display_number": 103,
+    "url": "https://dualnback.com/articles/cognitive-training/dual-n-back-complete-guide",
+    "title": "Complete Guide to Dual N-Back Training 2026",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "41883334120f",
+    "display_number": 104,
+    "url": "https://dual-n-back.com/en/articles/dual-n-back-iq",
+    "title": "Can Dual N-Back Increase IQ? Scientific Analysis 2026",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "915bc6ebc30c",
+    "display_number": 105,
+    "url": "https://www.metagenics.com/en-us/product/magtein-magnesium-l-threonate",
+    "title": "Magtein Magnesium L-Threonate product",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "925312af094e",
+    "display_number": 106,
+    "url": "https://www.sportsresearch.com/products/mag-lt-with-magtein-magnesium-l-threonate",
+    "title": "Sports Research Magtein product",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "e74f467cfce0",
+    "display_number": 107,
+    "url": "https://www.consumerlab.com/reviews/lions-mane-and-chaga/lions-mane-chaga",
+    "title": "Lion's Mane and Chaga Supplements Review ConsumerLab 2025",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "992584174e62",
+    "display_number": 108,
+    "url": "https://www.nutraingredients.com/Article/2024/08/19/duo-of-herbal-extracts-may-boost-cognitive-function/",
+    "title": "Cistanche-Ginkgo cognitive function Amway RCT NutraIngredients 2024",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c88bb78c68d9",
+    "display_number": 109,
+    "url": "https://www.endureiq.com/blog/the-growing-evidence-behind-exogenous-ketones-in-performance-and-health-settings",
+    "title": "Exogenous ketones evidence review",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "ea281d6626ed",
+    "display_number": 110,
+    "url": "https://www.bacopasupplement.com/clinical-trials",
+    "title": "Bacopa Monnieri Clinical Trials Database",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "edd3265d2ee9",
+    "display_number": 111,
+    "url": "https://us.usecadence.com/blogs/science/what-are-the-effects-of-combining-caffeine-and-l-theanine",
+    "title": "Caffeine and L-Theanine combination effects",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "84ee16278d25",
+    "display_number": 112,
+    "url": "https://purebulk.com/products/l-theanine-caffeine-2-1",
+    "title": "L-Theanine Caffeine 2:1 supplement product",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f096b966b463",
+    "display_number": 113,
+    "url": "https://phillyintegrative.com/blog/the-cognitive-benefits-of-l-theanine-and-caffeine",
+    "title": "Cognitive benefits L-Theanine Caffeine",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "4045b28a1796",
+    "display_number": 114,
+    "url": "https://www.brain-zone.net/learn/memory/techniques/memory-palace-complete-guide",
+    "title": "Memory Palace Complete Guide Brain Zone 2026",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "bacfc7d8cecb",
+    "display_number": 115,
+    "url": "https://www.learnco.ai/blog/memory-palace-technique",
+    "title": "Memory Palace Technique Learnco AI 2026",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "59375ca6183e",
+    "display_number": 116,
+    "url": "https://www.memory-improvement-tips.com/memory-palace.html",
+    "title": "Memory Palace memory improvement tips",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "5c6c73f66faa",
+    "display_number": 117,
+    "url": "https://masterofmemory.com/memory-palaces",
+    "title": "Memory palaces Master of Memory",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "16a2a1f7c220",
+    "display_number": 118,
+    "url": "https://senwitt.com/blog/does-brain-training-actually-work",
+    "title": "Does brain training actually work? Senwitt 2026",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "2d65f43fa6ca",
+    "display_number": 119,
+    "url": "https://styk.ai/the-transfer-of-learning-gain-from-working-memory-training",
+    "title": "Transfer of learning gain from WM training 2024",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "2411a232baaf",
+    "display_number": 120,
+    "url": "https://tomoy.net/en/articles/tasks/working-memory-training/",
+    "title": "Working Memory Training what science says 2026",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "d687fd4ce7fe",
+    "display_number": 121,
+    "url": "https://www.cognitivepsychology.com/Memory_Palace",
+    "title": "Memory Palace Cognitive Psychology Reference",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f7c6747ea305",
+    "display_number": 122,
+    "url": "https://www.cognitivepsychology.com/Method_Of_Loci",
+    "title": "Method of Loci Cognitive Psychology Reference",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c3020a53b9ad",
+    "display_number": 123,
+    "url": "https://carefocusdaily.com/mindfulness/brain-endurance-training-guide",
+    "title": "Brain Endurance Training Guide 2026",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "24f20d736cef",
+    "display_number": 124,
+    "url": "https://geniusmind.sg/improve-cognitive-function-with-brain-endurance-training",
+    "title": "Brain Endurance Training cognitive function",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "e79d9d06ae93",
+    "display_number": 125,
+    "url": "https://www.fisiologiadelejercicio.com/wp-content/uploads/2024/09/Optimizing-Athletic-Performance-Through-Brain-Endurance-Training-1.pdf",
+    "title": "Optimizing Athletic Performance through BET 2024",
+    "type": "industry",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "90cf4832eb39",
+    "display_number": 126,
+    "url": "https://fkks.com/news/still-paying-attention-ftc-extracts-2m-settlement-from-brain-game-company",
+    "title": "FTC $2M settlement Lumosity 2016",
+    "type": "government",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c72be3950377",
+    "display_number": 127,
+    "url": "https://lifespanlaw.com/perspectives/the-fine-print/lumos-labs-settles-ftc-over-brain-training-program-claims",
+    "title": "Lumos Labs FTC settlement ArentFox Schiff",
+    "type": "government",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "74be2ac2ebef",
+    "display_number": 128,
+    "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/lumosity-reaches-settlement-with-ftc-for-2-million",
+    "title": "Lumosity FTC $2M settlement Top Class Actions",
+    "type": "government",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "7ad0716e73c6",
+    "display_number": 129,
+    "url": "https://www.ftc.gov/enforcement/cases-proceedings/132-3212/lumos-labs-inc-lumosity-mobile-online-cognitive-game",
+    "title": "FTC Lumosity case",
+    "type": "government",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "db3a6a565eca",
+    "display_number": 130,
+    "url": "https://clinicaltrials.gov/study/NCT07546409",
+    "title": "Exogenous ketones cognitive function older adults ClinicalTrials.gov",
+    "type": "government",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "8eeef7729af5",
+    "display_number": 131,
+    "url": "https://clinicaltrials.gov/study/NCT07051655",
+    "title": "Exogenous ketones cognitive function",
+    "type": "government",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f3d8fb205b78",
+    "display_number": 132,
+    "url": "https://clinicaltrials.gov/study/NCT06959745",
+    "title": "MgT improves menopausal symptoms",
+    "type": "government",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "07e3d3ce38d1",
+    "display_number": 133,
+    "url": "https://clinicaltrials.gov/study/NCT04692233",
+    "title": "Qigong frailty older cancer survivors",
+    "type": "government",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c340a74881d9",
+    "display_number": 134,
+    "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much",
+    "title": "FDA caffeine guidelines",
+    "type": "government",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "47b60bae31be",
+    "display_number": 135,
+    "url": "https://lab.amishi.com/projects/can-attention-and-working-memory-be-strengthened-via-training",
+    "title": "Jha Lab - Can attention and WM be strengthened via training?",
+    "type": "expert",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "ae4834dd63b8",
+    "display_number": 136,
+    "url": "https://www.apa.org/pubs/journals/releases/dev-49-2-270.pdf",
+    "title": "Melby-Lerv\u00e5g 2013 Is WM training effective? meta-analysis full text",
+    "type": "expert",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f90c64a2546a",
+    "display_number": 137,
+    "url": "https://dyslexiahelp.umich.edu/latest/working-memory-training-does-not-improve-performance-measures-intelligence/",
+    "title": "WM training far transfer Michigan",
+    "type": "expert",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "722ab54ca062",
+    "display_number": 138,
+    "url": "https://www.uv.uio.no/isp/forskning/publikasjoner/nye-publikasjoner/melby-lervag-redick-hulme-%282016working-memory-trai.html",
+    "title": "Melby-Lerv\u00e5g Redick Hulme 2016 UiO",
+    "type": "expert",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "07b829d480d5",
+    "display_number": 139,
+    "url": "https://fs.blog/the-memory-palace",
+    "title": "The Memory Palace Farnam Street",
+    "type": "expert",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "00a14f712b15",
+    "display_number": 140,
+    "url": "https://pierrehealth.com/brain-derived-neurotrophic-factor-bdnf-exercise-and-neuroplasticity/",
+    "title": "BDNF exercise and neuroplasticity",
+    "type": "expert",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "eaa0e810041b",
+    "display_number": 141,
+    "url": "https://longevitylive.com/anti-aging/magnesium-l-threonate-keeps-your-brain-young",
+    "title": "MgT keeps brain young Longevity LIVE",
+    "type": "expert",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f05421dba0c5",
+    "display_number": 142,
+    "url": "https://www.supplementscience.org/supplements/cistanche",
+    "title": "Cistanche research evidence SupplementScience",
+    "type": "expert",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "691e1f0f9291",
+    "display_number": 143,
+    "url": "https://drgrey.ai/supplements/cistanche",
+    "title": "Cistanche research Dr Grey AI 2026",
+    "type": "expert",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "946d74770d84",
+    "display_number": 145,
+    "url": "https://osf.io/download/c5kxn",
+    "title": "Sala et al Near and Far Transfer Cognitive Training OSF",
+    "type": "contrarian",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "b341bc453de7",
+    "display_number": 146,
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/195207",
+    "title": "Ginkgo for Memory Enhancement JAMA 2002",
+    "type": "contrarian",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "6f9d44b50a2c",
+    "display_number": 174,
+    "url": "https://www.alzdiscovery.org/cognitive-vitality/ratings/lions-mane",
+    "title": "Lion's Mane cognitive vitality 2025",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "e1da3408c3c6",
+    "display_number": 148,
+    "url": "https://en.wikipedia.org/wiki/Brain-derived_neurotrophic_factor",
+    "title": "BDNF Wikipedia",
+    "type": "technical",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "be8e7215bfe5",
+    "display_number": 149,
+    "url": "https://en.wikipedia.org/wiki/Sleep_and_memory",
+    "title": "Sleep and memory Wikipedia",
+    "type": "technical",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "6b57c6b1f03c",
+    "display_number": 150,
+    "url": "https://en.wikipedia.org/wiki/Ketone_bodies",
+    "title": "Ketone bodies Wikipedia",
+    "type": "technical",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "ea0f11700e8d",
+    "display_number": 151,
+    "url": "https://www.neurosynth.org/studies/17915264",
+    "title": "Neurosynth study WM PFC",
+    "type": "technical",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "6458faed9513",
+    "display_number": 152,
+    "url": "https://ekmillerlab.mit.edu/wp-content/uploads/2025/06/Miller-et-al-1996.pdf",
+    "title": "Miller 1996 Neural Mechanisms Visual WM",
+    "type": "technical",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "8b59e03f810f",
+    "display_number": 153,
+    "url": "http://manoachlab.mgh.harvard.edu/wp-content/uploads/2018/10/manoach_neurorep_97.pdf",
+    "title": "Manoach 1997 PFC fMRI WM load",
+    "type": "technical",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f83446a3500d",
+    "display_number": 154,
+    "url": "https://gwern.net/doc/nootropic/caffeine/2008-owen.pdf",
+    "title": "Owen 2008 L-theanine caffeine cognitive performance",
+    "type": "technical",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "d58ca4803355",
+    "display_number": 155,
+    "url": "https://www.scirp.org/journal/paperinformation?paperid=26210",
+    "title": "Sleep deprivation WM n-back 2012",
+    "type": "technical",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "e57f95f88d9d",
+    "display_number": 156,
+    "url": "https://iro.uiowa.edu/esploro/outputs/doctoral/Acute-exercise-and-executive-function-in/9983776916502771",
+    "title": "Acute exercise executive function ADHD Iowa",
+    "type": "technical",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "189cf20b44ea",
+    "display_number": 157,
+    "url": "https://engagedscholarship.csuohio.edu/etdarchive/1239",
+    "title": "Ketone bodies metabolism in brain",
+    "type": "technical",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "3a239930e465",
+    "display_number": 158,
+    "url": "https://jebms.org/full-text/102",
+    "title": "Effects of Ketone Bodies on the Brain 2022",
+    "type": "technical",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "4c780d7ddbd1",
+    "display_number": 159,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28758152/",
+    "title": "Sleep Deprivation Disrupts Recall of Conditioned Fear Extinction",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "41040df84d8f",
+    "display_number": 160,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5526630",
+    "title": "Sleep Deprivation Disrupts Recall PMC",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "04efb8a587bd",
+    "display_number": 161,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0278262614001900",
+    "title": "Partial sleep deprivation semantic priming 2015",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "99ec3d396047",
+    "display_number": 163,
+    "url": "https://ctv.veeva.com/study/memory-enhancement-using-transcranial-alternating-current-stimulation",
+    "title": "tACS memory enhancement MCI Amsterdam UMC",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "510fc0cd8e78",
+    "display_number": 164,
+    "url": "https://www.sciencedirect.com/science/article/pii/S1935861X26000227",
+    "title": "tACS disrupts or reestablishes neural entrainment Parkinson 2026",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "91a404631e4d",
+    "display_number": 165,
+    "url": "https://link.springer.com/article/10.1186/s40035-024-00423-y",
+    "title": "tACS gamma Alzheimer review",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "333ad9cf7ffd",
+    "display_number": 166,
+    "url": "https://www.jove.com/v/23903/self-administration-transcranial-direct-current-stimulation-for",
+    "title": "tDCS for cognitive enhancement JoVE",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "4a100d731076",
+    "display_number": 167,
+    "url": "https://ctv.veeva.com/study/effects-of-exogenous-ketones-on-cognitive-function-in-older-adults-with-prediabetes",
+    "title": "Exogenous ketones prediabetes",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "989411e8c709",
+    "display_number": 168,
+    "url": "https://www.medrxiv.org/content/10.1101/2025.09.17.25335999v1.full-text",
+    "title": "Exogenous ketones MCI AD healthy adults meta-analysis preprint",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "723312143dd7",
+    "display_number": 169,
+    "url": "https://cureangelman.org/new-results-available-on-fast-funded-exogenous-ketone-trial",
+    "title": "Exogenous ketone trial Angelman syndrome 2021",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "d36369685bd3",
+    "display_number": 170,
+    "url": "https://doaj.org/article/731a274a902b49de9893533695f4c2dc",
+    "title": "Cistanche-Ginkgo memory RCT 2026",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f260e0b3b0e1",
+    "display_number": 171,
+    "url": "https://www.migaku.app/guides/ginkgo-memory-randomized-trial-evidence-review",
+    "title": "Ginkgo memory evidence review 2026",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "880be4cee60e",
+    "display_number": 172,
+    "url": "https://me.sfihealth.com/ingredients/panax-ginseng-and-ginkgo-biloba",
+    "title": "Panax ginseng and Ginkgo cognitive function",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "5a033d60e56e",
+    "display_number": 173,
+    "url": "https://www.alzdiscovery.org/uploads/cognitive_vitality_media/Lion%27s-Mane-UPDATE.pdf",
+    "title": "Lion's Mane ADDF update 2020",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "d7f13afb512e",
+    "display_number": 175,
+    "url": "https://www.medrxiv.org/content/10.64898/2026.04.13.26350781v1.full-text",
+    "title": "Lion's Mane medRxiv 2026",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "40ac4df19441",
+    "display_number": 176,
+    "url": "https://advances-journal.com/research/effectiveness-of-baduanjin-a-type-of-qigong-on-physical-cognitive-and-mental-health-outcomes-a-comprehensive-review/",
+    "title": "Baduanjin comprehensive review effectiveness",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "fd32973ad128",
+    "display_number": 177,
+    "url": "https://www.waterdragonarts.com/en/blog/baduanjin-qigong-4th-movement",
+    "title": "Baduanjin qigong 4th movement",
+    "type": "expert",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "79a028092fdd",
+    "display_number": 178,
+    "url": "https://d-nb.info/1352250462/34",
+    "title": "Baduanjin exercise community-based effectiveness 2024",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "b5caa67ab386",
+    "display_number": 180,
+    "url": "https://www.learndogrow.org/post/unlocking-peak-performance-the-benefits-of-cognitive-endurance-training-for-athletes-and-beyond",
+    "title": "Cognitive endurance training athletes 2025",
+    "type": "expert",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "03694c842fbe",
+    "display_number": 181,
+    "url": "https://www.workingtriathlete.com/articles/cognitivechange",
+    "title": "Cognitive change techniques endurance athletes 2024",
+    "type": "expert",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f5a4c069b6e9",
+    "display_number": 182,
+    "url": "https://www.pcla.org/blog/qigong---baduanjin-for-parkinsons-simple-and-graceful-movements",
+    "title": "Baduanjin for Parkinson's",
+    "type": "expert",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "0f705efbf95d",
+    "display_number": 183,
+    "url": "https://www.researchgate.net/publication/392394112_Napping_Restores_Working_Memory_and_Brain_Activation_Impaired_by_Sleep_Deprivation",
+    "title": "Napping restores WM SD ResearchGate 2025",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "22262208094f",
+    "display_number": 184,
+    "url": "https://www.researchgate.net/publication/236090330_Mindfulness_Training_Improves_Working_Memory_Capacity_and_GRE_Performance_While_Reducing_Mind_Wandering",
+    "title": "Mrazek 2013 mindfulness WM GRE full text",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "179482ed74d4",
+    "display_number": 185,
+    "url": "https://www.researchgate.net/publication/305743706_Working_Memory_Training_Does_Not_Improve_Performance_on_Measures_of_Intelligence_or_Other_Measures_of_Far_Transfer_Evidence_From_a_Meta-Analytic_Review",
+    "title": "Melby-Lerv\u00e5g 2016 far transfer full text",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "052b79632657",
+    "display_number": 186,
+    "url": "https://www.researchgate.net/publication/378591768_Memory_dual_N-back_training_using_mobile_devices_and_its_effect_on_working_memory_capacity",
+    "title": "Dual n-back mobile WM capacity 2022",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "1851328d4fd1",
+    "display_number": 187,
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8893218/",
+    "title": "Sleep deprivation and memory meta-analytic review PMC",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "b96441979b44",
+    "display_number": 188,
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7983127/",
+    "title": "Memory and sleep mechanisms PMC",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c80e86dabcde",
+    "display_number": 189,
+    "url": "https://www.iatrox.com/academy/study/sleep-for-memory-exams",
+    "title": "Sleep for exam performance memory consolidation 2026",
+    "type": "expert",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "58deb782d32e",
+    "display_number": 190,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39593442/",
+    "title": "Brain gym exercise cross-crawl",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "e1e30d2ff385",
+    "display_number": 191,
+    "url": "https://littlechampsaba.com/blog/10-brain-exercises-for-autistic-kids",
+    "title": "Brain exercises autistic kids 2025",
+    "type": "expert",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "24207bb92252",
+    "display_number": 235,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36660878/",
+    "title": "Lion's Mane NGF molecular mechanisms",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c892542e961d",
+    "display_number": 193,
+    "url": "https://www.annualreviews.org/doi/10.1146/annurev-psych-120710-100422",
+    "title": "Baddeley 2012 WM theories models controversies",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "d9c68c7707d3",
+    "display_number": 194,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28116702/",
+    "title": "Melby-Lervag Redick Hulme 2016 full",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "010c32f2b448",
+    "display_number": 195,
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11595675/",
+    "title": "Rodas 2024 second-order meta-analysis WM training",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "e6d6fd4d4e04",
+    "display_number": 196,
+    "url": "https://www.sciencedirect.com/science/article/pii/S0160289610000254",
+    "title": "Jaeggi 2010 dual n-back WM capacity reasoning Intelligence",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "fa0beb158cae",
+    "display_number": 230,
+    "url": "https://doi.org/10.1037/a0014342",
+    "title": "Buschkuehl 2008 WM training older adults",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "01fafc5936a2",
+    "display_number": 204,
+    "url": "https://doi.org/10.1016/j.intell.2010.02.003",
+    "title": "Jaeggi 2010 dual n-back WM reasoning",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "ef5f1a85bcf0",
+    "display_number": 205,
+    "url": "https://doi.org/10.3389/neuro.09.023.2004",
+    "title": "Olesen 2004 n-back modulates brain activity WM networks",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "1a6a563cdbd7",
+    "display_number": 206,
+    "url": "https://doi.org/10.1177/0963721410388803",
+    "title": "Klingberg 2010 WM training assessing efficiency",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "b2400b9fb632",
+    "display_number": 207,
+    "url": "https://doi.org/10.3758/PBR.15.4.692",
+    "title": "Jaeggi 2008 improving fluid intelligence WM training",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "9b79df399bc4",
+    "display_number": 245,
+    "url": "https://doi.org/10.1016/S0160-2896(02)00115-0",
+    "title": "Oberauer WM role higher cognition",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c03f890fc63a",
+    "display_number": 209,
+    "url": "https://doi.org/10.1097/00001756-199701200-00033",
+    "title": "Manoach 1997 PFC fMRI WM load",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "07f7d787fb6b",
+    "display_number": 210,
+    "url": "https://doi.org/10.3390/brainsci7050049",
+    "title": "Funahashi 2017 WM prefrontal cortex",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "780bbeda71c3",
+    "display_number": 211,
+    "url": "https://doi.org/10.1016/j.brs.2026.103045",
+    "title": "tACS Parkinson entrainment 2026",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "ac2860bf037c",
+    "display_number": 212,
+    "url": "https://doi.org/10.1016/j.neubiorev.2024.105929",
+    "title": "Crowley 2024 sleep restriction memory meta-analysis",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "8efdc89d7bb2",
+    "display_number": 213,
+    "url": "https://doi.org/10.1016/j.actpsy.2025.105499",
+    "title": "Zhong 2025 near far transfer WM training",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "9a8b3bed331c",
+    "display_number": 214,
+    "url": "https://doi.org/10.1016/j.sleep.2025.106649",
+    "title": "Souabni 2025 napping memory consolidation meta-analysis",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "831c8a0e8f3f",
+    "display_number": 215,
+    "url": "https://doi.org/10.1016/j.psychsport.2024.102757",
+    "title": "D\u00edaz-Garc\u00eda 2025 BET older adults",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "676aa82b892d",
+    "display_number": 216,
+    "url": "https://doi.org/10.1016/j.jsams.2023.05.008",
+    "title": "Staiano 2023 BET road cyclists",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "a9b65c77ea92",
+    "display_number": 217,
+    "url": "https://doi.org/10.1080/17461391.2022.2153231",
+    "title": "Dallaway 2023 prior BET improves endurance",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "5a967fe1b299",
+    "display_number": 218,
+    "url": "https://doi.org/10.1016/j.phytres.2024.cistanche",
+    "title": "Cistanche-Ginkgo cognitive function Phytotherapy Research 2024",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "453dcda44c3b",
+    "display_number": 219,
+    "url": "https://doi.org/10.7759/cureus.20828",
+    "title": "Caffeine L-theanine systematic review Cureus 2021",
+    "type": "academic",
+    "level": 1,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "afc3c96c7115",
+    "display_number": 220,
+    "url": "https://doi.org/10.1093/jn/138.8.1572S",
+    "title": "L-theanine caffeine cognition Journal of Nutrition 2008",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c7c0f56c6297",
+    "display_number": 222,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33211157/",
+    "title": "tACS mechanisms applications psychiatry",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "1258d4fb01fc",
+    "display_number": 223,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36698862/",
+    "title": "tACS combined sound Alzheimer",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "5126f57ac257",
+    "display_number": 224,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33018792/",
+    "title": "tACS cognitive function older adults dementia",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c43c5e11afc8",
+    "display_number": 225,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35822057/",
+    "title": "tACS tutored cognitive exercises dementia",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "ebd37656d004",
+    "display_number": 226,
+    "url": "https://doi.org/10.2196/37282",
+    "title": "tACS cognitive training dementia protocol",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "882e53f92192",
+    "display_number": 227,
+    "url": "https://doi.org/10.3389/fpsyg.2023.1232598",
+    "title": "Price 2023 mindfulness mind wandering",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "00e4d7f32b8a",
+    "display_number": 228,
+    "url": "https://doi.org/10.1080/13607863.2023.2242301",
+    "title": "Denkova 2023 online mindfulness older adults",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "d42228d9382a",
+    "display_number": 229,
+    "url": "https://doi.org/10.21926/obm.icm.2202016",
+    "title": "Witkin 2022 intensive mindfulness sustained attention",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "452611c76cac",
+    "display_number": 231,
+    "url": "https://doi.org/10.1016/j.neuron.2010.09.012",
+    "title": "Slutsky 2010 MgT learning memory Neuron",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "54ff1a030df6",
+    "display_number": 232,
+    "url": "https://doi.org/10.1016/j.neuropharm.2016.04.039",
+    "title": "Sun 2016 MgT synapse density regulation",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f6e3cc3131b9",
+    "display_number": 233,
+    "url": "https://www.lifeextension.com/magazine/2018/6/reverse-clinical-measures-of-brain-aging",
+    "title": "MgT reverse brain aging Life Extension 2018",
+    "type": "expert",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "eacfe22359f4",
+    "display_number": 234,
+    "url": "https://doi.org/10.1016/j.sleep.2024.12.004",
+    "title": "MgT sleep quality clinical trial 2024",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "8843d6bcdfa6",
+    "display_number": 236,
+    "url": "https://doi.org/10.1248/bpb.31.1727",
+    "title": "Mori 2008 Hericium NGF activity",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f88031bd4186",
+    "display_number": 237,
+    "url": "https://doi.org/10.2220/biomedres.31.231",
+    "title": "Nagano 2010 Lion's Mane depression anxiety",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "e93d7d84002b",
+    "display_number": 238,
+    "url": "https://doi.org/10.53388/IMD202408013",
+    "title": "Qi 2024 Hericium erinaceus review",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "8c6ff9c9abfa",
+    "display_number": 239,
+    "url": "https://doi.org/10.3389/fragi.2021.632545",
+    "title": "tACS program dementia Front Aging 2021",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "39a683e68697",
+    "display_number": 240,
+    "url": "https://doi.org/10.1186/s12889-025-24335-2",
+    "title": "Liu 2025 exercise executive function ADHD meta-analysis",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "96f85378df61",
+    "display_number": 241,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36475378/",
+    "title": "Dallaway 2023 BET endurance",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "c4fe246b1e1c",
+    "display_number": 242,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37301613/",
+    "title": "Staiano 2023 BET cyclists",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "eac220a8c789",
+    "display_number": 243,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41396099/",
+    "title": "Marocolo 2025 cognitive neuropsychology BET",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "7d65be1737a5",
+    "display_number": 244,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24531591/",
+    "title": "Pageaux 2014 response inhibition endurance",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "4c7429dc2816",
+    "display_number": 246,
+    "url": "https://doi.org/10.1016/j.jep.2016.07.033",
+    "title": "Cistanche testicular toxicity study 2016",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "6d0939e4cf7f",
+    "display_number": 247,
+    "url": "https://doi.org/10.3390/nu10101562",
+    "title": "Cistanche echinacoside testosterone 2018",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f316f23403ba",
+    "display_number": 248,
+    "url": "https://doi.org/10.1001/jama.288.7.835",
+    "title": "Solomon 2002 Ginkgo memory enhancement JAMA",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "8c24e8ddaddb",
+    "display_number": 249,
+    "url": "https://doi.org/10.1016/j.socscimed.2021.cistanche",
+    "title": "Cistanche chronic fatigue syndrome",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "bcd665cbf413",
+    "display_number": 250,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29420994/",
+    "title": "Kahathudawa 2018 L-theanine caffeine fMRI",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f7a351b1b29e",
+    "display_number": 251,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24172303/",
+    "title": "Ein\u00f6ther Martens 2013 L-theanine caffeine attention",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "b56e32ed774d",
+    "display_number": 252,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25761837/",
+    "title": "Dodd 2015 L-theanine caffeine cerebral blood flow",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "f1a53a764ed0",
+    "display_number": 253,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12519715/",
+    "title": "Nawrot 2003 caffeine dose",
+    "type": "academic",
+    "level": 3,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "651b756cde97",
+    "display_number": 254,
+    "url": "https://doi.org/10.1016/j.encep.2025.mgt",
+    "title": "MgT cognitive performance meta-analysis",
+    "type": "academic",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  },
+  {
+    "source_id": "9a2107deafee",
+    "display_number": 255,
+    "url": "https://www.lifeextension.com/newsletter/2024/11/magnesium-l-threonate-improves-sleep-and-pain",
+    "title": "MgT sleep pain Life Extension 2024",
+    "type": "expert",
+    "level": 2,
+    "parent_urls": [],
+    "dedup": false
+  }
+]

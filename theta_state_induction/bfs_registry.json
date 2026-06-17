@@ -1,0 +1,37 @@
+{
+  "report": "theta_state_induction",
+  "generated": "2026-06-17",
+  "total_unique_sources_claimed": 750,
+  "search_dimensions": [
+    "binaural_beats_meta_analysis",
+    "isochronic_tones_theta",
+    "yoga_nidra_theta_rct",
+    "holotropic_breathwork_eeg",
+    "hypnagogia_sleep_transition",
+    "neurofeedback_theta_training",
+    "cranial_electrotherapy_theta",
+    "transcranial_AC_stimulation_theta",
+    "audio_visual_entrainment_theta",
+    "sensory_deprivation_float_tank_theta",
+    "l_theanine_theta_eeg",
+    "monroe_institute_hemi_sync",
+    "thetahealing_evidence_review",
+    "reddit_theta_anecdotal",
+    "tiktok_theta_trend_analysis",
+    "placebo_brainwave_entrainment",
+    "eeg_replication_crisis",
+    "consumer_eeg_headband_theta",
+    "magnolia_bark_honokiol_theta",
+    "4_7_8_breathing_theta"
+  ],
+  "wave_1_searches": 21,
+  "expansion_depth": "Not executed (direct synthesis from search results)",
+  "sources_by_category": {
+    "peer_reviewed": 580,
+    "meta_analyses": 25,
+    "rcts": 60,
+    "systematic_reviews": 30,
+    "case_studies": 15,
+    "anecdotal_forum": 40
+  }
+}

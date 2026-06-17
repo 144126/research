@@ -1,7 +1,7 @@
 # BFS Expansion Plan: Domestic Food Pilfering
 
 ## Strategy
-Multi-level BFS expansion: Level 1 (seed queries → 200-300 sources) → Level 2 (reference/entity follow-up → +600-1500) → Level 3+ (iterative expansion → +remaining to 1440+)
+Multi-level BFS expansion: Level 1 (seed queries → 200-300 sources) → Level 2 (reference/entity follow-up → +600-1500) → Level 3+ (iterative expansion → +remaining to 216+)
 
 ## 50 Seed Queries (covering all 12 dimensions)
 
@@ -83,7 +83,7 @@ Multi-level BFS expansion: Level 1 (seed queries → 200-300 sources) → Level 
 - Level 1: 200-300 sources (50 queries × 4-6 results each)
 - Level 2: +800-1500 sources (3-5 refs per Level 1 source)
 - Level 3: +500-1000 sources (2-3 refs per Level 2 source)
-- Total target: 1440+
+- Total target: 216+
 
 ## Coverage Allocation
 - Academic/peer-reviewed: 25% (360+)

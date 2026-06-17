@@ -1,0 +1,1 @@
+i seem to have a problem with domestic food pilfering in my family home. taking food from the fridge i shouldn't. i wanna stop. i want knowledge that'll effortlessly make me stop. fundamental first principles knowledge that'll make me not desire it anymore.

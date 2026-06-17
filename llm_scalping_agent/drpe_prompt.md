@@ -1,0 +1,1 @@
+making capital market scalping LLM ai agent. what has worked best and given the absolute best results.
