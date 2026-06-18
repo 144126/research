@@ -1,0 +1,1 @@
+what's a webtool people really want/need right now. something that a lotta people would pay for immediately it was released. something that would go viral within hours of launch cuz everyone's talking about how useful it is

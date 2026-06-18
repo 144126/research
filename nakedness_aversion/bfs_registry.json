@@ -1,0 +1,69 @@
+{
+  "research_topic": "Nakedness Aversion: Roots, Causes, and Drivers",
+  "execution_date": "2026-06-18",
+  "total_sources": 220,
+  "levels": {
+    "level_1": {
+      "seeds": 42,
+      "sources": 185,
+      "dimensions_covered": [
+        "technical_mechanistic",
+        "historical_evolution",
+        "current_state_of_art",
+        "quantitative_evidence",
+        "stakeholder_analysis",
+        "competing_approaches",
+        "criticisms_limitations",
+        "contrarian_heterodox",
+        "future_trajectories",
+        "regulatory_legal",
+        "geographic_geopolitical",
+        "practical_applications"
+      ]
+    },
+    "level_2": {
+      "followed_references": true,
+      "sources": 35,
+      "expansion_basis": "level_1_source_references"
+    },
+    "level_3_plus": {
+      "sources": 0,
+      "note": "Level 1+2 reached 220 sources, threshold met"
+    }
+  },
+  "source_type_breakdown": {
+    "academic_peer_reviewed": 52,
+    "ethnographic_anthropological": 18,
+    "historical_scholarship": 22,
+    "religious_theological": 12,
+    "industry_market_data": 8,
+    "contemporary_journalism": 45,
+    "primary_sources": 15,
+    "contrarian_critical": 10,
+    "encyclopedic_reference": 28,
+    "legal_regulatory": 10
+  },
+  "geographic_coverage": {
+    "global_north": 95,
+    "global_south": 45,
+    "east_asia": 25,
+    "middle_east": 15,
+    "africa": 18,
+    "americas": 22
+  },
+  "temporal_coverage": {
+    "pre_1900": 12,
+    "1900_2000": 48,
+    "2000_2010": 30,
+    "2010_2020": 55,
+    "2020_2026": 75
+  },
+  "bfs_expansion_log": [
+    "Level 1: 42 parallel web searches across 12 dimensions",
+    "Level 1: 185 sources acquired from initial search wave",
+    "Level 2: Reference-chaining from 65 key sources",
+    "Level 2: 35 additional sources from citation following",
+    "Total unique sources: 220",
+    "Multi-level BFS expansion completed successfully"
+  ]
+}
