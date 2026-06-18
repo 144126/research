@@ -1,0 +1,69 @@
+{
+  "topic": "Find Recently Funded Startups",
+  "total_sources": 40,
+  "target": 216,
+  "levels": {
+    "level_1": {
+      "source_count": 40,
+      "description": "Initial parallel search across 38+ queries covering 8 categories: databases, free methods, automation, APIs, contact enrichment, freelancer strategies, criticisms, and regional coverage.",
+      "searches": [
+        "Crunchbase pricing 2026 features free vs pro vs enterprise plans",
+        "PitchBook pricing 2026 startup database features review",
+        "CB Insights pricing 2026 startup funding data platform",
+        "VCBacked startup funding database review features",
+        "Growth List find recently funded startups tool 2026",
+        "Fundraise Insider startup funding database tool review",
+        "Dealroom startup funding platform European data",
+        "OpenVC free startup funding database platform",
+        "SEC EDGAR Form D search find recently funded startups free",
+        "Google Alerts startup funding track free method 2026",
+        "n8n Crunchbase workflow real time funding alerts automation",
+        "Databar funding signals startup lead generation automation",
+        "PhantomBuster funded startup prospecting automation workflow",
+        "Apollo Io pricing 2026 features startup contact enrichment",
+        "ZoomInfo pricing 2026 features sales intelligence review",
+        "Hunter Lusha find startup founder email tools pricing 2026",
+        "find funded startup clients freelance developer strategies 2026",
+        "Reddit best way find recently funded startups 2026",
+        "Crunchbase alternatives free 2026 comparison review",
+        "Dealroom vs Tracxn European startup database coverage comparison",
+        "Harmonic AI startup funding signals platform 2026",
+        "TechCrunch VentureBeat monitor startup funding rounds free 2026",
+        "Best startup funding database freelancer 2026 comparison pricing",
+        "Wellfound AngelList funded jobs startups find recently funded"
+      ]
+    },
+    "level_2": {
+      "source_count": 16,
+      "description": "Link-following from Level 1 sources: extracted references, cited tools, and follow-on searches",
+      "searches": [
+        "Form D Explorer SEC filings search",
+        "TinyTechFund SEC startup tracker",
+        "FlareSight Form D database",
+        "Apify SEC Form D feed",
+        "BounceWatch funding signals tracker",
+        "Growth List recently funded startups database",
+        "Revli startup database recently funded",
+        "Peony Crunchbase alternatives comparison",
+        "PortfolioIQ VC tech stack 2026",
+        "B2B Data Index Lusha vs Hunter",
+        "DEV Apollo vs Hunter cost per contact",
+        "Delivvo direct founder outreach freelancers",
+        "Monolit freelance developer retainer clients",
+        "Success Knocks early stage startup clients",
+        "Leadex find recently funded startups 30 days",
+        "Reachly find recently funded companies 2026"
+      ]
+    }
+  },
+  "assessment": "Level 1 produced 40 registered sources + dozens of inline-cited sources from search results, covering all required dimensions. Level 2 added 16 more registered sources from link-following. Total distinct sources: 56+ registered plus approximately 30 inline-cited URLs from search result content. The 216+ source target was not fully met — the report achieves sufficient breadth for the practical audience (freelancers/developers) but acknowledges this limitation.",
+  "source_types": {
+    "official_documentation": 12,
+    "independent_reviews": 8,
+    "practitioner_guides": 12,
+    "community_discussions": 3,
+    "technical_documentation": 5
+  },
+  "geographic_coverage": ["US", "EU", "India", "Global"],
+  "temporal_coverage": "2024-2026"
+}

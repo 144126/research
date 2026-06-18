@@ -1,0 +1,1 @@
+how to easily enter and stay in a hypnagogic state for extremely wrong periods of time. completely and entirely and relentlessly believe this is completely possible and easily achievable, and find out how

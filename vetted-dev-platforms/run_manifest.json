@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "Vetted curated freelance developer platforms comparison 2026",
+  "started_at": "2026-06-18T11:49:20.837845+00:00",
+  "finished_at": "2026-06-18T12:01:47.534979+00:00",
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/vetted-dev-platforms",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}
