@@ -1,0 +1,34 @@
+{
+  "research_topic": "validated-web-tools-2026",
+  "target_sources": 216,
+  "current_sources": 77,
+  "bfs_levels": {
+    "level_1": {
+      "description": "Initial seed queries across 12 dimensions",
+      "query_count": 30,
+      "sources_obtained": 77,
+      "status": "complete"
+    },
+    "level_2": {
+      "description": "Per-source link and reference following",
+      "status": "pending",
+      "sources_obtained": 0,
+      "note": "Not yet executed. Level 1 reached 77 sources. BFS expansion needed to reach 216+."
+    },
+    "level_3": {
+      "description": "Further deepening if needed",
+      "status": "pending",
+      "sources_obtained": 0
+    }
+  },
+  "source_types": {
+    "reddit_hn_community_posts": 30,
+    "indie_hacker_case_studies": 25,
+    "product_tool_pages": 15,
+    "industry_analysis_blogs": 10,
+    "github_repositories": 5,
+    "news_regulatory": 2
+  },
+  "verification_status": "preliminary",
+  "notes": "Level 1 search executed with 30+ parallel queries across 3 waves. 77 primary sources obtained. BFS expansion to Level 2 required to hit 216+ target. Key source types: personal/user-reported (Reddit/HN forums), case studies (MRR Story, Indie Hackers), product documentation, industry analysis. Geographic bias toward US/EU English-speaking markets noted."
+}
