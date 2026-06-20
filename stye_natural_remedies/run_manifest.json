@@ -1,0 +1,28 @@
+{
+  "version": "3.0.0",
+  "query": "What are the most effective natural remedies for treating an external hordeolum (stye) and what is the quality of evidence supporting each remedy?",
+  "started_at": "2026-06-20T13:40:59.063974+00:00",
+  "finished_at": "2026-06-20T14:44:00.000000+00:00",
+  "assumptions": [
+    "Uncomplicated external hordeolum, not internal/chalazion/cellulitis",
+    "No known allergies to proposed natural remedies",
+    "No immunocompromising conditions",
+    "Medical care is accessible if needed",
+    "Natural does not automatically mean safe for periocular use"
+  ],
+  "provider_config": {
+    "primary": "websearch",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/stye_natural_remedies",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "index.md"
+  },
+  "continuation": null,
+  "source_count": 106,
+  "word_count": 7389,
+  "validation": "PASSED with warnings (exec summary >400 words, sources <270)"
+}

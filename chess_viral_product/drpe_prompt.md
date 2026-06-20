@@ -1,0 +1,1 @@
+what's a software chess tool that a lot of people want, a lot. a tool or feature that a lot of people would immediately pay for because of how much they want it. a tool or feature that would go worldwide viral immediately on launch because of how much people want it. think deeply about how to find the best alpha fundamentally from first principles

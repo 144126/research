@@ -1,0 +1,32 @@
+{
+  "version": "3.0.0",
+  "query": "What is the single most in-demand, viral-potential software chess tool or feature that millions of chess players desperately want but don't yet have?",
+  "started_at": "2026-06-20T14:33:47.888444+00:00",
+  "finished_at": "2026-06-20T15:10:00.000000+00:00",
+  "assumptions": [
+    "Chess.com user growth trends continue at current trajectory",
+    "LLM capabilities continue improving at current rate",
+    "Stockfish WASM remains free and open-source",
+    "No major regulatory changes to AI coaching tools",
+    "Duolingo Chess+ launched to at least 10M users within 12 months"
+  ],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/chess_viral_product",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "index.md"
+  },
+  "metrics": {
+    "total_sources": 60,
+    "total_evidence": 10,
+    "report_length_lines": 610,
+    "findings_count": 8,
+    "citations_in_report": 60
+  },
+  "continuation": null
+}
