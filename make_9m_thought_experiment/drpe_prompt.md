@@ -1,0 +1,1 @@
+i wanna make 9m $ rn. as a thought experiment, completely assume it's possible, ignore any idea or fact or feeling or probablity that it isn't, as a thought experiment. say nothing about how it isn't possible or likely or feasible. as a thought experiment: assume it is perfectly and easily possible and find every way how.
