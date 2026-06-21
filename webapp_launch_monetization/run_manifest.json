@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "What are the proven strategies, tactics, frameworks, and psychological principles that enable a webapp founder to get people to pay immediately upon launch?",
+  "started_at": "2026-06-21T15:51:49.839581+00:00",
+  "finished_at": "2026-06-21T15:56:33.903143+00:00",
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/webapp_launch_monetization",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "index.md"
+  },
+  "continuation": null
+}
