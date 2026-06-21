@@ -1,22 +1,19 @@
 {
-  "query": "Which open-source LLM demonstrates the best chess understanding as of mid-2026?",
-  "mode": "deep-research",
-  "run_date": "2026-06-22",
-  "assumptions": [
-    "Chess benchmarks approximate understanding",
-    "Open-weight models remain under permissive licenses",
-    "No single metric captures chess understanding fully"
-  ],
-  "source_count": 123,
-  "phases_completed": [
-    "SCOPE",
-    "PLAN",
-    "RETRIEVE",
-    "TRIANGULATE",
-    "OUTLINE_REFINEMENT",
-    "SYNTHESIZE",
-    "CRITIQUE",
-    "REFINE",
-    "PACKAGE"
-  ]
+  "version": "3.0.0",
+  "query": "Best open-source LLM at playing chess as of mid-2026",
+  "started_at": "2026-06-21T23:35:52.890977+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/open_source_llm_chess",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
 }
