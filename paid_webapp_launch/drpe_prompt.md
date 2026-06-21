@@ -1,0 +1,1 @@
+webapps people payed for immediately they launched, how it was achieved

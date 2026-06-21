@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "Is it safe to stop masturbating midway? Medical evidence on edging, stop-start technique, epididymal hypertension, and pelvic health consequences.",
+  "started_at": "2026-06-21T22:52:29.370838+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/stop_masturbation_midway_safety",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}

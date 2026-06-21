@@ -1,0 +1,10 @@
+{"id": "src-001", "raw_url": "https://arxiv.org/abs/2603.20510", "title": "Grounded Chess Reasoning in Language Models via Master Distillation", "source_type": "academic", "credibility_score": 92}
+{"id": "src-002", "raw_url": "https://arxiv.org/abs/2509.24239", "title": "ChessArena: A Chess Testbed for Evaluating Strategic Reasoning Capabilities of Large Language Models", "source_type": "academic", "credibility_score": 93}
+{"id": "src-003", "raw_url": "https://dev.to/maximsaplin/deepseek-r1-vs-openai-o1-1ijm", "title": "DeepSeek R1 vs OpenAI o1", "source_type": "industry", "credibility_score": 80}
+{"id": "src-004", "raw_url": "https://arxiv.org/abs/2501.12948", "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning", "source_type": "academic", "credibility_score": 94}
+{"id": "src-005", "raw_url": "https://arxiv.org/abs/2605.17565", "title": "Generalization or Memorization? Brittleness Testing for Chess-Trained Language Models", "source_type": "academic", "credibility_score": 90}
+{"id": "src-006", "raw_url": "https://arxiv.org/abs/2402.04494", "title": "Amortized Planning with Large-Scale Transformers: A Case Study on Chess", "source_type": "academic", "credibility_score": 95}
+{"id": "src-007", "raw_url": "https://arxiv.org/abs/2507.00726", "title": "Can Large Language Models Develop Strategic Reasoning? Post-training Insights from Learning Chess", "source_type": "academic", "credibility_score": 91}
+{"id": "src-008", "raw_url": "https://arxiv.org/abs/2510.23948", "title": "ChessQA: Evaluating Large Language Models for Chess Understanding", "source_type": "academic", "credibility_score": 93}
+{"id": "src-009", "raw_url": "https://arxiv.org/abs/2512.01992", "title": "LLM CHESS: Benchmarking Reasoning and Instruction-Following in LLMs through Chess", "source_type": "academic", "credibility_score": 92}
+{"id": "src-010", "raw_url": "https://github.com/lightnesscaster/Chess-LLM-Benchmark", "title": "Chess LLM Benchmark", "source_type": "technical", "credibility_score": 85}

@@ -1,0 +1,22 @@
+{
+  "query": "Which open-source LLM demonstrates the best chess understanding as of mid-2026?",
+  "mode": "deep-research",
+  "run_date": "2026-06-22",
+  "assumptions": [
+    "Chess benchmarks approximate understanding",
+    "Open-weight models remain under permissive licenses",
+    "No single metric captures chess understanding fully"
+  ],
+  "source_count": 123,
+  "phases_completed": [
+    "SCOPE",
+    "PLAN",
+    "RETRIEVE",
+    "TRIANGULATE",
+    "OUTLINE_REFINEMENT",
+    "SYNTHESIZE",
+    "CRITIQUE",
+    "REFINE",
+    "PACKAGE"
+  ]
+}
