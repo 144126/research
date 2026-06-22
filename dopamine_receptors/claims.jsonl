@@ -1,0 +1,11 @@
+{"claim_id": "C1", "claim": "Cold exposure increases dopamine 250% acutely in humans", "evidence_type": "primary_data", "confidence": "medium", "sources": ["1", "2", "3"]}
+{"claim_id": "C2", "claim": "Cold exposure may upregulate D2/D3 receptors through repeated catecholamine challenge", "evidence_type": "extrapolation", "confidence": "low_medium", "sources": ["1", "2", "21"]}
+{"claim_id": "C3", "claim": "High-intensity aerobic exercise upregulates striatal D2/D3 receptor density over 8-12 weeks", "evidence_type": "pet_imaging", "confidence": "high", "sources": ["4", "5", "6", "7"]}
+{"claim_id": "C4", "claim": "Morning sunlight exposure correlates with 25-30% higher seasonal D2/D3 availability", "evidence_type": "pet_imaging_replicated", "confidence": "high", "sources": ["8", "9", "24"]}
+{"claim_id": "C5", "claim": "Dopamine fasting/abstinence does not change D2/D3 receptor density", "evidence_type": "expert_consensus", "confidence": "high", "sources": ["10", "11", "12"]}
+{"claim_id": "C6", "claim": "Dopamine fasting can resensitize reward circuitry through opponent-process recovery", "evidence_type": "established_theory", "confidence": "medium", "sources": ["13", "14", "46", "47"]}
+{"claim_id": "C7", "claim": "Sleep deprivation reduces D2/D3 receptor availability in human striatum", "evidence_type": "pet_imaging", "confidence": "high", "sources": ["26", "27"]}
+{"claim_id": "C8", "claim": "Meditation has indirect dopamine effects through cortisol reduction and prefrontal regulation", "evidence_type": "systematic_review", "confidence": "low_medium", "sources": ["33", "34", "35"]}
+{"claim_id": "C9", "claim": "Structured goal pursuit with sub-goal scheduling sustains dopamine signaling through RPE", "evidence_type": "primary_study_and_theory", "confidence": "medium", "sources": ["15", "16", "17"]}
+{"claim_id": "C10", "claim": "Music triggers acute dopamine release in striatum but no evidence for receptor changes", "evidence_type": "pet_imaging", "confidence": "medium", "sources": ["39"]}
+{"claim_id": "C11", "claim": "Green exercise boosts dopamine more than indoor exercise", "evidence_type": "primary_study", "confidence": "low_medium", "sources": ["40"]}
