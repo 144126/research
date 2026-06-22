@@ -1,0 +1,11 @@
+{
+  "query": "What is the complete, step-by-step practical protocol for applying memory reconsolidation to change one's own subconscious beliefs — synthesizing the RECON protocol (Courtney Armstrong), the Therapeutic Reconsolidation Process / TRP (Ecker, Ticic, Hulley), the LessWrong practical guides, and other clinical methodologies into a single actionable self-help protocol?",
+  "mode": "deep_research",
+  "date": "2026-06-22",
+  "assumptions": [
+    "Memory reconsolidation is the brain's native mechanism for belief change",
+    "Self-application is possible without a therapist for sufficiently motivated individuals",
+    "The RECON protocol, TRP, and Coherence Therapy share core mechanisms"
+  ],
+  "provider_config": "multi-source"
+}
