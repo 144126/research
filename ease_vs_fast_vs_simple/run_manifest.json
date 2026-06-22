@@ -1,0 +1,17 @@
+{
+  "query": "What is the complete distinction between the concepts of 'ease', 'fast', and 'simple' in software engineering and product design — including their definitions, trade-offs, relationships, and practical implications?",
+  "mode": "deep_research",
+  "slug": "ease_vs_fast_vs_simple",
+  "date": "2026-06-22",
+  "assumptions": [
+    "Hickey's 'Simple Made Easy' is the primary framework reference",
+    "Target audience is software engineers making design decisions",
+    "Conceptual/philosophical focus rather than empirical",
+    "Systems are non-trivial, multi-developer projects"
+  ],
+  "provider_config": {
+    "search_providers": ["websearch"],
+    "source_count": 38,
+    "quality_gates_passed": 10
+  }
+}
