@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "Which LLM API provider delivers the fastest time-to-first-token (TTFT) as of mid-2026, and what are the architectural, geographic, workload-specific, and cost trade-offs that determine the right choice for different use cases?",
+  "started_at": "2026-06-22T03:12:48.366482+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/fastest-ttft-llm-api",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}

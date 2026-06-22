@@ -1,0 +1,15 @@
+{"source_id": "cfc3be46b8573363", "claim": "Cerebras leads TTFT at ~120ms p50 on Llama-3.3-70B", "quote": "Cerebras llama-3.3-70b ~120ms p50 TTFT", "confidence": 0.9, "category": "benchmark"}
+{"source_id": "29710cb79d699ce5", "claim": "Groq delivers 0.15s TTFT on Llama 3.3 8B", "quote": "Groq Llama 3.3 8B at 0.15s TTFT", "confidence": 0.85, "category": "benchmark"}
+{"source_id": "c4034c8560c4b614", "claim": "GPT-4o Mini TTFT approximately 150ms", "quote": "GPT-4o Mini TTFT 150ms p50", "confidence": 0.8, "category": "benchmark"}
+{"source_id": "4d9f3714be852ed1", "claim": "OpenAI TTFT ranges 820ms-1900ms on GPT-4o", "quote": "OpenAI gpt-4o ~820ms p50 ~1900ms p95", "confidence": 0.85, "category": "benchmark"}
+{"source_id": "c4034c8560c4b614", "claim": "Gemini 2.5 Flash achieves ~100-250ms TTFT", "quote": "Gemini 2.5 Flash 100ms TTFT p50", "confidence": 0.8, "category": "benchmark"}
+{"source_id": "aa71da320c66e3f4", "claim": "Claude Haiku 4.5 TTFT approximately 597ms on medium prompts", "quote": "Claude Haiku 4.5 took ~597ms TTFT", "confidence": 0.85, "category": "practitioner"}
+{"source_id": "ab37f1d5cf580848", "claim": "vLLM startup latency is predominantly CPU-bound across 6 steps", "quote": "startup process is predominantly bounded by CPU", "confidence": 0.95, "category": "academic"}
+{"source_id": "83fa2e8fe0991017", "claim": "Foundry reduces cold-start latency by up to 99%", "quote": "Foundry reduces cold-start latency by up to 99%", "confidence": 0.9, "category": "academic"}
+{"source_id": "86d05db6cb21fc1e", "claim": "Cerebras CS-3 delivers ~6x higher inference speeds than Groq LPU", "quote": "Cerebras CS-3 outperforms Groq LPU across almost all key metrics", "confidence": 0.7, "category": "vendor"}
+{"source_id": "f83f3f5c5ed7fee8", "claim": "DeepSeek V4 Flash delivers 180ms TTFT from US-East", "quote": "DeepSeek V4 Flash 180ms TTFT", "confidence": 0.8, "category": "benchmark"}
+{"source_id": "e795638bb3dc00c7", "claim": "IBM Research presents first systematic vLLM startup latency breakdown", "quote": "first detailed performance characterization of vLLM startup latency", "confidence": 0.95, "category": "academic"}
+{"source_id": "f41f028b7062673e", "claim": "OpenAI GPT-4o has 820ms p50 and 8400ms p99 total latency", "quote": "OpenAI GPT-4o p50 820ms p99 8400ms", "confidence": 0.85, "category": "benchmark"}
+{"source_id": "8b709640d1d37a4f", "claim": "Real-time voice AI requires under ~700ms end-to-end", "quote": "Under ~700ms of end-to-end response time feels human", "confidence": 0.85, "category": "practitioner"}
+{"source_id": "7bc82b9711b6c980", "claim": "Voice AI latency budget: LLM TTFT 100-200ms, STT 50-100ms, TTS 50-80ms", "quote": "LLM time-to-first-token 100-200ms", "confidence": 0.85, "category": "practitioner"}
+{"source_id": "18613ef89c95e37f", "claim": "Cerebras delivers 2000+ tokens/sec on Llama 3.3 70B", "quote": "Cerebras Inference delivers 2,000+ tokens per second on Llama 3.3 70B", "confidence": 0.85, "category": "benchmark"}

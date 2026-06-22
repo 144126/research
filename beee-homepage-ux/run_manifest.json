@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "Premium UI/UX design patterns for youth chess championship registration homepage targeting parents",
+  "started_at": "2026-06-22T02:50:54.022906+00:00",
+  "finished_at": "2026-06-22T03:45:00.000000+00:00",
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/beee-homepage-ux",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}
