@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "What constitutes the best AI agent flyer design skill - optimal combination of AI tools, prompt engineering frameworks, design knowledge, and workflow patterns for professional-quality flyers in 2026?",
+  "started_at": "2026-06-22T20:46:16.766675+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/flyer-design-skill",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}
