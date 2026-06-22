@@ -1,0 +1,19 @@
+{
+  "query": "Best AI agent research framework in 2026 — comprehensive comparison of LangGraph, CrewAI, AG2/AutoGen, OpenAI Agents SDK, Claude Agent SDK, Microsoft Agent Framework, Google ADK, Mastra, Agno, DSPy, smolagents, LlamaIndex, Haystack, Strands Agents.",
+  "mode": "deep-research",
+  "assumptions": [
+    "June 2026 is current date",
+    "All 14 frameworks are actively maintained",
+    "Enterprise production readiness is a primary criterion",
+    "MCP and A2A protocols represent the emerging standard for agent interoperability"
+  ],
+  "provider_config": {
+    "model": "deepseek-v4-flash-free",
+    "date": "2026-06-22"
+  },
+  "scope_boundaries": {
+    "in_scope": ["LangGraph", "CrewAI", "AG2", "AutoGen", "OpenAI Agents SDK", "Claude Agent SDK", "Microsoft Agent Framework", "Google ADK", "Mastra", "Agno", "DSPy", "smolagents", "LlamaIndex", "Haystack", "Strands Agents"],
+    "out_of_scope": ["no-code builders", "domain-specific tools", "browser automation only", "coding-agent-only tools", "research-only frameworks"],
+    "min_sources": 270
+  }
+}
