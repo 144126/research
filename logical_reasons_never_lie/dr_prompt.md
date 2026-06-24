@@ -1,0 +1,1 @@
+# First principles, fundamental, purely logical reasons to never lie

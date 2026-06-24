@@ -1,0 +1,21 @@
+{
+  "query": "What are the best Slack communities for full-stack freelance developers to find clients, network with peers, and access job opportunities in 2026?",
+  "mode": "deep_research",
+  "assumptions": [
+    "User is a full-stack freelance developer seeking client acquisition and networking",
+    "User prefers free or low-cost (<$100) Slack communities",
+    "Slack communities are more useful than Discord/Telegram for professional networking",
+    "Active communities are those with recent messages (2025-2026 data)",
+    "Global/remote-friendly communities are preferred over local-only",
+    "User will join multiple communities, not rely on one"
+  ],
+  "target_sources": "30-60 (practical scope per user request)",
+  "provider": "opencode_deep_research",
+  "date": "2026-06-22",
+  "slug": "freelance-slack-hubs",
+  "source_count": 49,
+  "evidence_count": 40,
+  "total_communities_profiled": 20,
+  "recommended_free": 5,
+  "recommended_paid": 2
+}
