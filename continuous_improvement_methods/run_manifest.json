@@ -1,0 +1,28 @@
+{
+  "query": "What are the simplest, most practical methodologies for continuously and iteratively improving processes, products, and outcomes in an ongoing project \u2014 and how should someone choose, implement, and sustain them?",
+  "mode": "Deep Research (8-phase pipeline, 270+ sources)",
+  "assumptions": [
+    "Reader wants lowest-friction approach that actually sticks",
+    "Target audience includes technical founders and a 9-year-old child",
+    "Focus on PDCA, Kaizen, Toyota Kata, Agile Retrospectives, CI/CD",
+    "Emphasis on 2020-2026 modern practice with foundational sources"
+  ],
+  "provider_config": "websearch + webfetch",
+  "generated": "2026-06-25T00:00:00Z",
+  "report_slug": "continuous_improvement_methods",
+  "word_count": 10372,
+  "unique_citations": 178,
+  "evidence_entries": 178,
+  "html_generated": true,
+  "validation_passed": "with_warnings",
+  "date_completed": "2026-06-25",
+  "output_dir": "/home/ed/research/continuous_improvement_methods",
+  "files": [
+    "index.md",
+    "index.html",
+    "evidence.jsonl",
+    "sources.jsonl",
+    "dr_prompt.md",
+    "run_manifest.json"
+  ]
+}

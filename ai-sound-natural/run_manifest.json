@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "What are the proven techniques, principles, and tools for making AI-generated text and speech sound natural and human-like?",
+  "started_at": "2026-06-26T07:36:36.099192+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/ai-sound-natural",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}
