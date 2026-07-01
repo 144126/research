@@ -1,0 +1,135 @@
+{
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5664556/",
+  "source_title": "Perceiving social interactions in the posterior superior temporal sulcus",
+  "credibility_score": 95,
+  "insights": [
+    {
+      "type": "factual_claim",
+      "claim": "A specific subregion of the right pSTS (SI-fROI) responds strongly and selectively to viewing social interactions between two agents, and is functionally dissociable from nearby TPJ, pSTS-face, and MT regions.",
+      "exact_quote": "We observe a strong univariate response in the posterior superior temporal sulcus (pSTS) to stimuli depicting social interactions between two agents, compared with (i) pairs of agents not interacting with each other, (ii) physical interactions between inanimate objects, and (iii) individual animate agents pursuing goals and interacting with inanimate objects.",
+      "confidence": 0.95,
+      "evidence_class": "expert",
+      "novelty": "new"
+    },
+    {
+      "type": "data_point",
+      "claim": "The SI-fROI peak activation is at MNI coordinates [54, -43, 18] in the right pSTS, detected via whole-brain random-effects group analysis of 14 subjects viewing point-light walker dyads.",
+      "exact_quote": "This group analysis revealed a region in the right pSTS (MNI coordinates of voxel with peak significance: [54, -43, 18]) that responded significantly more strongly to social interactions than to independent actions.",
+      "confidence": 0.97,
+      "evidence_class": "expert",
+      "novelty": "new"
+    },
+    {
+      "type": "data_point",
+      "claim": "The SI-fROI responds approximately twice as strongly when viewing point-light videos of two people interacting compared with two people acting independently.",
+      "exact_quote": "Here we report a region of the pSTS, detectable in most subjects individually, that responds approximately twice as strongly when viewing simple point-light videos of two people interacting compared with two people acting independently.",
+      "confidence": 0.93,
+      "evidence_class": "expert",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "The SI-fROI response to social interactions generalizes across very different stimulus formats — from point-light displays to abstract shape animations (Heider-Simmel style).",
+      "exact_quote": "The strong sensitivity to social interactions depicted in the point-light displays in experiment 1 generalizes to the very different depictions of social interactions in animated shapes in experiment 2.",
+      "confidence": 0.94,
+      "evidence_class": "expert",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "The presence of animacy and individual goals alone is NOT sufficient to activate the SI-fROI; a social interaction between agents is required.",
+      "exact_quote": "The SI-fROI showed no difference in response to the animate vs. physical interaction conditions (P = 0.44, paired t test).",
+      "confidence": 0.95,
+      "evidence_class": "expert",
+      "novelty": "confirms"
+    },
+    {
+      "type": "data_point",
+      "claim": "An SVM classifier can decode helping vs. hindering interactions from SI-fROI activity patterns with above-chance accuracy (P = 1.2 × 10⁻⁴), and also from TPJ (P = 5.0 × 10⁻⁴) and pSTS-face (P = 0.0086), but not from MT (P = 0.39).",
+      "exact_quote": "We can robustly decode helping vs. hindering in the SI-fROI (P = 1.2 × 10⁻⁴) and TPJ (P = 5.0 × 10⁻⁴), as well as to a lesser extent in the STS-face region (P = 0.0086). Importantly, we cannot decode help vs. hinder in the MT (P = 0.39).",
+      "confidence": 0.94,
+      "evidence_class": "expert",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "The SI-fROI is spatially distinct but partially overlapping with nearby TPJ (8% overlap) and pSTS-face region (1% overlap); it resides anterior to TPJ and superior to pSTS-face region.",
+      "exact_quote": "These fROIs showed a systematic spatial organization across subjects, with the SI-fROI generally residing anterior to the TPJ and superior to the pSTS face region. The overlap between the SI-fROI and the TPJ constituted on average 8% of the SI-fROI.",
+      "confidence": 0.92,
+      "evidence_class": "expert",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "There are at least four dissociable functional areas in the pSTS/TPJ region: TPJ (theory of mind), pSTS-face (dynamic face/voice), an STS region responsive to agency/goal-directed actions, and the SI-fROI (social interaction perception).",
+      "exact_quote": "The currently available evidence suggests the existence of at least four areas of dissociable responses in this general region: the TPJ, specialized for inferring the thoughts of others; the pSTS-face region; another STS region responsive to the agency and/or goal-directed actions of individual actors; and the selective response to social interactions reported here.",
+      "confidence": 0.90,
+      "evidence_class": "expert",
+      "novelty": "new"
+    },
+    {
+      "type": "implication",
+      "claim": "The social interaction sensitivity is better conceptualized as a peak in a landscape of partially overlapping sensitivities, not a discrete cortical module with sharp boundaries.",
+      "exact_quote": "The sensitivity to social interactions reported here may be better considered not as a discrete module, but rather as a peak in the landscape of partially overlapping sensitivities to multiple dimensions of social information in the STS.",
+      "confidence": 0.88,
+      "evidence_class": "expert",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "Macaque monkeys have frontal and parietal regions selectively responsive to social interactions, but these are unlikely to be homologous to the human pSTS SI-fROI; macaque temporal cortex responds to both social and inanimate object interactions.",
+      "exact_quote": "The regions selectively responsive to social interactions in macaques are situated in the frontal and parietal lobes, not in the temporal lobe, and thus are unlikely to be strictly homologous to the region described here. Macaques do show a sensitivity to social interactions in the lateral temporal lobe, but that region responds similarly to interactions between inanimate objects, in sharp contrast to the region reported here in humans.",
+      "confidence": 0.91,
+      "evidence_class": "expert",
+      "novelty": "confirms"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "The pSTS-face region — known to respond to dynamic faces and voices — also shows sensitivity to both the presence and nature of social interactions, suggesting its face response may be partially driven by implied off-screen social interaction.",
+      "exact_quote": "Here we found that this region also shows some sensitivity to both the presence and nature of social interactions depicted with point-light displays and animated shapes, implicating this region in the perception of third-party social interactions.",
+      "confidence": 0.85,
+      "evidence_class": "expert",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "Social interactions reveal the structure of our social world (friend/foe, group membership, power relations) and are crucial for deciding how to behave socially, which may explain why a dedicated cortical region exists for this function.",
+      "exact_quote": "Social interactions reveal the structure of our social world: who is a friend (or foe) of whom, who belongs to which social group, and who has power over whom. Understanding these social relationships is crucial for deciding how to behave in the social world.",
+      "confidence": 0.82,
+      "evidence_class": "expert",
+      "novelty": "confirms"
+    },
+    {
+      "type": "implication",
+      "claim": "For HADD theory: The pSTS SI-fROI provides a neural substrate for detecting social agency between interacting agents, distinct from individual agent/goal detection. This suggests agency detection may be hierarchically organized — detecting agents, then detecting interactions between them.",
+      "exact_quote": "The sensitivity to social interactions reported here may further inform our understanding of previously reported cortical responses to social stimuli... our data suggest that these activations cannot be driven primarily by either the animacy or goals of these shapes, but instead likely reflect the perception of social interactions.",
+      "confidence": 0.78,
+      "evidence_class": "third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "implication",
+      "claim": "The SI-fROI's response to helping vs. hindering interactions demonstrates the pSTS encodes valence of social interactions, which may serve as input to higher-order social evaluation circuits (mPFC, amygdala).",
+      "exact_quote": "We can robustly decode helping vs. hindering in the SI-fROI (P = 1.2 × 10⁻⁴).",
+      "confidence": 0.83,
+      "evidence_class": "expert",
+      "novelty": "new"
+    },
+    {
+      "type": "data_point",
+      "claim": "An independent study (Landsiedel et al., 2022, NeuroImage) confirmed bilateral SI-pSTS plays a central role in dynamic social interaction perception and showed that EBA and pSTS work together when interactions are conveyed via body information; motion selectivity alone does not drive interactive sensitivity.",
+      "exact_quote": "We confirm that bilateral SI-pSTS plays a central role in dynamic social interaction perception but is much less involved when 'interactiveness' is conveyed solely with static cues... selectivity for simple visual motion does not in itself drive interactive sensitivity in either SI-pSTS or EBA.",
+      "confidence": 0.90,
+      "evidence_class": "third-party",
+      "novelty": "confirms"
+    },
+    {
+      "type": "implication",
+      "claim": "For HADD theory: The study did not test threat-induced hyper-detection, so it cannot directly validate or refute the 'hypersensitivity' claim of HADD. However, the automaticity and selectivity of pSTS for social interactions provides a plausible neural mechanism for rapid agency detection that could become hyperactive under threat.",
+      "exact_quote": "We do not yet have evidence that this region is causally engaged in the perception of social interactions... Future studies might investigate this question with transcranial magnetic stimulation or studies of patients with brain damage.",
+      "confidence": 0.75,
+      "evidence_class": "third-party",
+      "novelty": "new"
+    }
+  ]
+}

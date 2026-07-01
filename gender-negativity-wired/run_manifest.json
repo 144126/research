@@ -1,0 +1,21 @@
+{
+  "query": "Are women wired to think they're in a worse situation than they truly are?",
+  "mode": "Deep Research (8-phase, 270+ sources)",
+  "assumptions": [
+    "The question presumes a dichotomy (wiring vs social) that is itself debated",
+    "Self-report measures are imperfect but informative",
+    "Meta-analytic effect sizes are the most reliable metric",
+    "DSM-based categories capture genuine distress but may be incomplete"
+  ],
+  "output_files": {
+    "report": "index.md",
+    "prompt": "dr_prompt.md",
+    "knowledge_draft": "knowledge_draft.md",
+    "evidence": "evidence.jsonl",
+    "sources": "sources.jsonl",
+    "scope": "scope.md",
+    "manifest": "run_manifest.json"
+  },
+  "generated": "2026-06-30",
+  "provider_config": "websearch + task agents"
+}

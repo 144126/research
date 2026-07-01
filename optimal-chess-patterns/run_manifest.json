@@ -1,0 +1,43 @@
+{
+  "research_question": "Which chess patterns unlock the most understanding per unit of time? (Item #2 from grandmaster_60min report's Further Research Needs)",
+  "mode": "deep-research-pipeline (SCOPE -> PLAN -> RETRIEVE -> TRIANGULATE -> SYNTHESIZE -> CRITIQUE -> REFINE -> PACKAGE)",
+  "date": "2026-06-26",
+  "output_directory": "/home/ed/research/optimal-chess-patterns",
+  "total_sources": 35,
+  "total_evidence_records": 25,
+  "assumptions": [
+    "60-minute time compression is the constraint (board only, no technology)",
+    "CHREST model time parameters (~8-10s per chunk, ~60s per template) are accurate for estimating installation times",
+    "Pattern frequency from puzzle databases generalizes to real game frequency",
+    "The 'typical learner' is an adult novice (0-1200 Elo) with basic rules knowledge",
+    "Individual differences in learning style may affect the optimal sequence",
+    "Disco Chess platform data (431,899 puzzle attempts) is representative of the broader chess-improving population",
+    "The Zone of Proximal Development framework applies to chess pattern learning",
+    "Pattern synergy/interference relationships from CHREST simulations transfer to human learning"
+  ],
+  "search_dimensions": [
+    "Core tactical patterns ranked by frequency + leverage",
+    "Pattern synergy/interference relationships",
+    "Geodesic curriculum / optimal sequencing in skill space",
+    "CHREST model installation times per pattern type",
+    "Disco Chess & Woodpecker analytics on per-theme improvement rates",
+    "Chess pedagogy literature on what to teach first, second, third",
+    "Transitional problems and curriculum learning research",
+    "Beginner-to-intermediate pattern acquisition studies",
+    "User-reported data (Reddit, Chess.com forums, Lichess community)",
+    "Platform analytics (Disco Chess, Lichess puzzle database, Chess.com stats)"
+  ],
+  "key_findings": [
+    "Fork, pin, skewer, and discovered attack (the 'Big Four') deliver ~5-10x the understanding-per-minute of advanced patterns",
+    "Removal of defender has highest multiplier effect (appears in 40-60% of multi-move combinations) despite being only 6th most common",
+    "The geodesic curriculum requires 4 foundation patterns -> 3 force multipliers -> 2 capstone patterns -> 1 cycling review session, fitting exactly in 60 minutes",
+    "Pattern plasticity varies dramatically: capturing defender improves +14.7pp via woodpecker vs pin +1.0pp",
+    "User-reported data strongly converges with academic findings on pattern priority"
+  ],
+  "file_manifest": {
+    "index.md": "Full research report (42,412 characters)",
+    "evidence.jsonl": "25 claim-level evidence records with confidence ratings",
+    "sources.jsonl": "35 source records with URLs, types, and metadata",
+    "run_manifest.json": "This file -- query, mode, assumptions, output inventory"
+  }
+}

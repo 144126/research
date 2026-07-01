@@ -1,0 +1,240 @@
+{
+  "source_url": "https://en.wikipedia.org/wiki/Agent_detection",
+  "source_title": "Agent Detection - Wikipedia",
+  "credibility_score": 72,
+  "notes_on_credibility": "Wikipedia article is reasonable for basic framing but (a) attributes HADD term to Gray & Wegner instead of original coiner Justin Barrett, (b) omits the substantial 2019-2025 empirical challenges to HADD, (c) includes legitimate evolutionary biology criticism but overstates the 'no specialized brain mechanisms' conclusion. Score lowered from ~85 due to omissions of recent evidence.",
+  "insights": [
+    {
+      "type": "factual_claim",
+      "claim": "Agent detection is the inclination for animals and humans to presume purposeful intervention of a sentient or intelligent agent in situations that may or may not involve one",
+      "exact_quote": "Agent detection is the inclination for animals, including humans, to presume the purposeful intervention of a sentient or intelligent agent in situations that may or may not involve one.",
+      "confidence": 0.95,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "Agent detection is linked to the evolutionary origins of religion",
+      "exact_quote": "This has been linked to the origins of religion.",
+      "confidence": 0.8,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "Humans evolved agent detection as a survival strategy based on cost asymmetry: false negatives (missing agents) cost more than false positives (wrongly detecting them)",
+      "exact_quote": "It is believed that humans evolved agent detection as a survival strategy. In situations where one is unsure of the presence of an intelligent agent (such as an enemy or a predator), there is survival value in assuming its presence so that precautions can be taken.",
+      "confidence": 0.9,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "Kurt Gray and Daniel Wegner described the HADD as a cognitive module that readily ascribes events to agent behavior",
+      "exact_quote": "The high cost of failing to detect agents and the low cost of wrongly detecting them has led researchers to suggest that people possess a Hyperactive Agent Detection Device, a cognitive module that readily ascribes events in the environment to the behavior of agents.",
+      "confidence": 0.95,
+      "evidence_class": "expert/third-party",
+      "novelty": "extends"
+    },
+    {
+      "type": "correction",
+      "claim": "The term HADD was actually coined by Justin Barrett (not Gray & Wegner), developed in late 1990s lectures and formalized in 2000 Trends in Cognitive Sciences paper and 2004 book",
+      "exact_quote": "This tendency has been termed the 'hyperactive (or hypersensitive) agency detection device' – HADD – coined by Justin Barrett.",
+      "confidence": 0.95,
+      "evidence_class": "expert/third-party",
+      "novelty": "contradicts"
+    },
+    {
+      "type": "data_point",
+      "claim": "The cost asymmetry of agent detection maps to Signal Detection Theory with four outcomes: Hit, Miss (worst), False Positive (less costly), Correct Rejection",
+      "exact_quote": "This decision process can be mapped as below using Signal Detection Theory",
+      "confidence": 0.9,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "Agency detection involves a two-step process: (1) action tendency recognition via hypersensitive agency detection, (2) agent attribution via theory of mind (mentalization, particularly human)",
+      "exact_quote": "1. An action tendency is recognized by the hypersensitive agency detection. 2. After recognition of the action, attribution of the agent is considered to understand the agent's beliefs, desires, and intentions. Second step represents mentalization (theory of mind) for humans in particular.",
+      "confidence": 0.8,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "Belief in acting gods is an evolutionary by-product of agent detection, classified as a spandrel (non-adaptive trait from adaptive side effect)",
+      "exact_quote": "Scientists think that the belief in acting gods is an evolutionary by-product of agent detection, and can be considered a spandrel, which is a non-adaptive trait formed as a side effect of an adaptive trait.",
+      "confidence": 0.85,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "Pascal Boyer's 'Religion Explained' (2001) is the primary source for the spandrel theory of religious belief as a by-product of agency detection",
+      "exact_quote": "Religion Explained, by Pascal Boyer",
+      "confidence": 0.95,
+      "evidence_class": "expert/third-party",
+      "novelty": "confirms"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "The psychological trait underlying agent detection is: 'if you hear a twig snap in the forest, some sentient force is probably behind it'",
+      "exact_quote": "The psychological trait in question is 'if you hear a twig snap in the forest, some sentient force is probably behind it'",
+      "confidence": 0.9,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "implication",
+      "claim": "Even when a sound is caused by wind, modern humans still attribute it to a sentient agent and 'call this person a god'",
+      "exact_quote": "Even if the snapping was caused by the wind, modern humans are still inclined to attribute the sound to a sentient agent; they call this person a god",
+      "confidence": 0.85,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "Religion may have played a role in group cohesion via the social brain hypothesis — larger brains enabled language, knowledge sharing, and increased fitness",
+      "exact_quote": "According to Ulrich Kühnen et al., religion also may have played a role in the formation of group cohesion. As the human brain evolved, the increased cognitive capacity enabled humans to better organize and survive due to increased cognitive computation.",
+      "confidence": 0.7,
+      "evidence_class": "expert/third-party",
+      "novelty": "confirms"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "The neocortex is 2% of body weight but consumes 20% of energy ingested (Dunbar & Shultz, 2007)",
+      "exact_quote": "The neocortex ratio (volume of gray matter) of the human brain is much larger as compared to other animals as it is only 2% of body weight while consuming 20% of the energy ingested.",
+      "confidence": 0.9,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "Sacred rules and roles from shared agency ideas resolved the free-rider problem in groups (Haidt, The Righteous Mind)",
+      "exact_quote": "Sacred rules and roles ensured that all members had a role and followed a hierarchical structure. This structure also mostly resolved the free-rider problem",
+      "confidence": 0.8,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "Gray and Wegner argued agent detection alone cannot fully account for belief in God; theory of mind and 'existential theory of mind' are also required",
+      "exact_quote": "Gray and Wegner assert that agent detection is likely to be a 'foundation for human belief in God' but 'simple over attribution of agency cannot entirely account for the belief in God...' because the human ability to form a theory of mind and what they refer to as 'existential theory of mind' are also required to 'give us the basic cognitive capacity to conceive of God.'",
+      "confidence": 0.95,
+      "evidence_class": "expert/third-party",
+      "novelty": "extends"
+    },
+    {
+      "type": "counterargument",
+      "claim": "Evolutionary biologists argue that simple reflex reactions to stimuli (not time-consuming agent speculation) would be selected instead, concluding there are no specialized brain mechanisms for agent detection",
+      "exact_quote": "Since it takes time to think of why a stimulus is present while simply reacting to it goes much faster, some evolutionary biologists criticize the assumption that agent detection would enhance the ability to escape predators... These biologists state that simple reactions to stimuli that do not take a by-route over speculation about causes, such as running from the shape of certain footprints or a pair of eyes by simple reflex... would be selected instead by saving one step and therefore time. As a result, these biologists conclude that there are no specialized brain mechanisms for agent detection.",
+      "confidence": 0.8,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "counterargument",
+      "claim": "Maij et al. (2019) conducted 6 threat-induction experiments (N=233) and found threat did not increase agent detection, contrary to HADD predictions",
+      "exact_quote": "In six threat-inducing experiments (N=233) we have investigated whether threat induction increases agent detection... threat manipulations that worked as intended did not increase agent detection compared to a control condition.",
+      "confidence": 0.9,
+      "evidence_class": "expert/third-party",
+      "novelty": "contradicts"
+    },
+    {
+      "type": "counterargument",
+      "claim": "Szymanek, Nenadalová & Van Leeuwen (2024) preregistered VR study (N=199) found no elevated false agent detections under threat, contradicting HADD and supporting predictive processing",
+      "exact_quote": "Contrary to HADD expectations, no elevated false agent detections occurred under threat; instead, detection aligned more with prior expectations and sensory reliability, challenging evolutionary hyperactivity accounts and favoring adaptive, context-sensitive models.",
+      "confidence": 0.9,
+      "evidence_class": "expert/third-party",
+      "novelty": "contradicts"
+    },
+    {
+      "type": "counterargument",
+      "claim": "Kat Ford (PhD 2022, Brunel) and multiple other researchers (Gervais, Willard) found no empirical evidence for HADD after attempting to study it",
+      "exact_quote": "During my PhD I tried to investigate a link between heightened sensitivity to agents and religious belief and found… nothing. During their postgraduate days, Will Gervais and fellow researcher Aiyana Willard also tried to investigate the link between HADD and religion but found no evidence that HADD even existed.",
+      "confidence": 0.85,
+      "evidence_class": "expert/third-party",
+      "novelty": "contradicts"
+    },
+    {
+      "type": "counterargument",
+      "claim": "Lisdorf (2007) argued the HADD lacks coherent neural basis and proposed HIDD (Hyperactive Intentionality Detection Device) as more parsimonious alternative",
+      "exact_quote": "Problems, however, arise when we begin to consider the neural basis of this: It doesn't add up, or more precisely the HADD does not work that way. Like the magician pulling rabbits from the hat this explanation may be a 'self'-conjuring trick",
+      "confidence": 0.8,
+      "evidence_class": "expert/third-party",
+      "novelty": "contradicts"
+    },
+    {
+      "type": "gap",
+      "claim": "Neuroscience has not identified a singular neural mechanism corresponding to HADD; agency attribution arises from distributed systems serving broader perceptual/social functions",
+      "exact_quote": "Neuroscientific investigations have failed to identify a singular neural mechanism corresponding to HADD; instead, agency attribution appears to arise from distributed brain systems, including the fusiform face area for biological motion detection and the temporo-parietal junction for intentional stance-taking",
+      "confidence": 0.9,
+      "evidence_class": "expert/third-party",
+      "novelty": "extends"
+    },
+    {
+      "type": "gap",
+      "claim": "The Wikipedia article omits the substantial 2019-2025 empirical challenges to HADD (Maij 2019, Szymanek 2024, Ford 2024) and the predictive processing alternative",
+      "exact_quote": "CRITICAL OMISSION: No mention of post-2018 empirical work challenging HADD",
+      "confidence": 1.0,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "data_point",
+      "claim": "Steven Novella (neurologist) states the visual system separates objects from agents at a fundamental level, with distinct brain regions for inanimate vs animate objects",
+      "exact_quote": "This is reflected even in our visual system, which separates out visual information into different streams according to the type of information. One division is between information about actions and information about objects. The object stream is also divided into brain regions that deal with inanimate objects and other regions that deal with living things or animate objects.",
+      "confidence": 0.9,
+      "evidence_class": "expert/third-party",
+      "novelty": "confirms"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "HADD is more likely triggered when stimuli are ambiguous, and more active when individuals feel less control over their environment",
+      "exact_quote": "Studies have also demonstrated that HADD is more likely to be triggered when a stimulus is ambiguous – therefore it tends to be our default assumption – an object is an agent until we are sure it's just an object. Also, in situations where we have less control our HADD becomes more active still.",
+      "confidence": 0.7,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "implication",
+      "claim": "HADD-like biases are linked to conspiracy theorizing, paranormal beliefs, and superstition through over-attribution of hidden agency",
+      "exact_quote": "When HADD is triggered we tend to see a hidden agent working behind the scenes, making events unfold the way they do... When HADD is triggered and we think we see the hidden agent, it speaks to us in a very primal way. For some people the perception of hidden agency becomes overwhelming... We know these people as conspiracy theorists. But there is a little conspiracy theorist inside each of us.",
+      "confidence": 0.75,
+      "evidence_class": "expert/third-party",
+      "novelty": "extends"
+    },
+    {
+      "type": "factual_claim",
+      "claim": "HADD functions partly by detecting non-inertial movement — things that appear to move of their own volition rather than by passive physical forces",
+      "exact_quote": "According to Barrett, HADD works in part by detecting any movement that is non-inertial – something which seems to be moving of its own volition. We then assume it is acting with agency and react accordingly.",
+      "confidence": 0.85,
+      "evidence_class": "expert/third-party",
+      "novelty": "new"
+    },
+    {
+      "type": "counterargument",
+      "claim": "The predictive processing model offers an alternative explanation: agency detection results from Bayesian inference combining prior expectations and sensory reliability, not a specialized hyperactive module",
+      "exact_quote": "Van Leeuwen and van Elk (2019) reviewed and revised HADD models based on accumulating evidence, arguing that while agency detection biases exist, they are better explained by learned priors and cultural influences rather than a dedicated, hyperactive module",
+      "confidence": 0.85,
+      "evidence_class": "expert/third-party",
+      "novelty": "contradicts"
+    },
+    {
+      "type": "gap",
+      "claim": "The field currently lacks direct empirical evidence that individual differences in agency detection predict religious belief, despite the foundational theoretical claim",
+      "exact_quote": "No evidence that HADD even existed",
+      "confidence": 0.8,
+      "evidence_class": "expert/third-party",
+      "novelty": "contradicts"
+    },
+    {
+      "type": "data_point",
+      "claim": "Atkinson (2023) establishes that HADD concept origins trace to Barrett but cannot be attributed to any single author; Barrett galvanized the concept",
+      "exact_quote": "Although history does not support the origins of the HADD idea as having any one single author, it is Barrett who spearheaded it and defended it, thusly galvanising his name to the concept historically",
+      "confidence": 0.9,
+      "evidence_class": "expert/third-party",
+      "novelty": "extends"
+    }
+  ]
+}

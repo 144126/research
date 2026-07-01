@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "What is the absolute best way to learn chess? Optimal study methods, time allocation per rating level, coaching vs self-study, evidence-backed training techniques, and resources per skill band.",
+  "started_at": "2026-07-01T11:27:24.442786+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/chess_learning",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}

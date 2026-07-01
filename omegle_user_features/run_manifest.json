@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "What features do Omegle and similar random chat app users want the most?",
+  "started_at": "2026-06-30T18:52:17.544042+00:00",
+  "finished_at": "2026-06-30T19:56:00.000000+00:00",
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/omegle_user_features",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}

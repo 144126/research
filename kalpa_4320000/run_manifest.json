@@ -1,0 +1,18 @@
+{
+  "query": "How was the number 4,320,000 years (the Maha Yuga / Kalpa unit) arrived at in Hindu cosmology?",
+  "delivered_to": "drpe",
+  "mode": "Deep Research (8-phase pipeline, 200+ sources)",
+  "assumptions": [
+    "Extant Sanskrit texts reflect real historical developments",
+    "Divine-to-human year conversion (1:360) has verifiable textual basis",
+    "Cross-cultural parallels may indicate diffusion or independent emergence",
+    "Contrarian theories evaluated on evidential merit"
+  ],
+  "provider": "WebSearch (multi-round batch retrieval + sequential per-source integration)",
+  "date_generated": "2026-07-01",
+  "phases_executed": ["SCOPE", "PLAN", "RETRIEVE", "TRIANGULATE", "OUTLINE_REFINEMENT", "SYNTHESIZE", "CRITIQUE", "REFINE", "PACKAGE"],
+  "total_sources_cited": 67,
+  "total_sources_registered": 50,
+  "evidence_records": 20,
+  "deliverables": ["index.md", "dr_prompt.md", "evidence.jsonl", "sources.jsonl", "run_manifest.json"]
+}
