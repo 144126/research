@@ -1,0 +1,24 @@
+{
+  "version": "3.0.0",
+  "query": "What does cognitive science, educational psychology, and neuroscience research tell us about how to learn to learn?",
+  "started_at": "2026-07-02T20:05:51.356838+00:00",
+  "finished_at": "2026-07-02T23:30:00.000000+00:00",
+  "assumptions": [
+    "Evidence-based learning techniques generalize across domains and populations",
+    "Meta-analytic effect sizes are upper-bound estimates due to publication bias",
+    "Individual differences moderate all reported effects"
+  ],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/learning-to-learn",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "index.md",
+    "html": "index.html"
+  },
+  "continuation": null
+}
