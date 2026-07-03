@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "Why does Master Chess Player sound cringe to Gen Z? Cultural, linguistic, generational, branding mechanisms",
+  "started_at": "2026-07-03T08:59:39.859239+00:00",
+  "finished_at": "2026-07-03T09:30:00+00:00",
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/master-chess-player-cringe",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}
