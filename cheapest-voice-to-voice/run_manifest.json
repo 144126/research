@@ -1,0 +1,16 @@
+{
+  "query": "What is the absolute cheapest voice-to-voice AI model/API that can be integrated into a browser-based webapp (SvelteKit + Cloudflare Workers) as of mid-2026?",
+  "mode": "deep",
+  "date": "2026-07-03",
+  "assumptions": [
+    "Browser-based only (no telephony/PSTN)",
+    "Indie developer budget ($0-200/month total spend)",
+    "SvelteKit 2 + Cloudflare Workers deployment",
+    "English language primary, possible multilingual future",
+    "Low to moderate volume (100-1000 minutes/month initially)"
+  ],
+  "output_dir": "/home/ed/research/cheapest-voice-to-voice",
+  "total_sources": 30,
+  "total_evidence_entries": 25,
+  "pipeline_completed": ["SCOPE", "PLAN", "RETRIEVE", "TRIANGULATE", "OUTLINE_REFINEMENT", "SYNTHESIZE", "CRITIQUE", "REFINE", "PACKAGE"]
+}

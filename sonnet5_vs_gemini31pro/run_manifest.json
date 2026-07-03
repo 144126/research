@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "How do Anthropic's Claude Sonnet 5 and Google's Gemini 3.1 Pro compare?",
+  "started_at": "2026-07-02T20:10:14.043154+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/sonnet5_vs_gemini31pro",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}
