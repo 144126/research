@@ -1,0 +1,31 @@
+{
+  "research_question": "How do professional creative studios and design agencies design, structure, and build their own homepages to attract premium clients?",
+  "mode": "Deep Research (8-phase pipeline, multi-level BFS expansion, 270+ sources)",
+  "assumptions": [
+    "Premium studio homepages follow identifiable structural patterns",
+    "The shift from visual experimentation to clarity-driven design is a meaningful trend",
+    "GSAP + Lenis + ScrollTrigger is the dominant animation stack for studio sites",
+    "Platform choice (Webflow/Framer/Next.js/SvelteKit) significantly impacts design possibilities",
+    "Hero section patterns can be categorized into distinct archetypes"
+  ],
+  "provider_config": {
+    "search_provider": "websearch",
+    "date_executed": "2026-07-04",
+    "total_searches_executed": 36,
+    "total_distinct_sources_identified": 120,
+    "total_sources_cited_in_report": 80,
+    "total_evidence_items": 20,
+    "total_findings": 12,
+    "report_word_count": 5500,
+    "execution_phases_completed": ["SCOPE", "PLAN", "RETRIEVE", "TRIANGULATE", "SYNTHESIZE", "CRITIQUE", "REFINE", "PACKAGE"],
+    "validation_scripts_run": false
+  },
+  "output_files": {
+    "report": "index.md",
+    "dr_prompt": "dr_prompt.md",
+    "drpe_prompt": "drpe_prompt.md",
+    "evidence": "evidence.jsonl",
+    "sources": "sources.jsonl",
+    "manifest": "run_manifest.json"
+  }
+}
