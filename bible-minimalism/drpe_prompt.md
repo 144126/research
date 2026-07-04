@@ -1,0 +1,1 @@
+the Bible on minimalism

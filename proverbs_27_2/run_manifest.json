@@ -1,0 +1,23 @@
+{
+  "query": "Biblical prohibition against self-praise — Proverbs 27:2 — theological, historical, cultural, practical meaning",
+  "mode": "deep-research",
+  "date": "2026-07-05",
+  "provider_config": "websearch + commentary sources",
+  "assumptions": [
+    "Masoretic Text is primary textual basis",
+    "Proverbs is canonical Scripture",
+    "Honor-shame cultural framework is legitimate hermeneutical lens",
+    "Modern psychological research can illuminate biblical wisdom",
+    "Tension between biblical humility and modern self-promotion requires nuanced application"
+  ],
+  "phase_execution": {
+    "phase_1_scope": true,
+    "phase_2_plan": true,
+    "phase_3_retrieve": true,
+    "phase_4_triangulate": true,
+    "phase_5_synthesize": true,
+    "phase_6_critique": true,
+    "phase_7_refine": true,
+    "phase_8_package": true
+  }
+}

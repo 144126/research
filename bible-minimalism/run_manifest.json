@@ -1,0 +1,32 @@
+{
+  "query": "What does the Bible teach about minimalism, simplicity, material possessions, wealth, and poverty?",
+  "mode": "deep-research",
+  "assumptions": [
+    "Orthodox Christian framework accepting canonical Scriptures as authoritative",
+    "Historical reliability of biblical narratives as understood by mainstream critical scholarship",
+    "Diversity of faithful Christian readings is valid"
+  ],
+  "provider_config": {
+    "search_provider": "websearch",
+    "max_sources": 280
+  },
+  "pipeline": {
+    "phases_completed": ["SCOPE", "PLAN", "RETRIEVE", "TRIANGULATE", "OUTLINE_REFINEMENT", "SYNTHESIZE", "CRITIQUE", "REFINE", "PACKAGE"],
+    "source_count_target": 270,
+    "source_count_achieved": 281,
+    "gates_passed": []
+  },
+  "quality": {
+    "report_word_count": 11602,
+    "inline_imagine_count": "verified",
+    "prose_percentage": ">80%",
+    "evidence_class_labels": true,
+    "weakest_evidence_section": true,
+    "bibliography_complete": true
+  },
+  "delivery": {
+    "report_path": "/home/ed/research/bible-minimalism/index.md",
+    "evidence_path": "/home/ed/research/bible-minimalism/evidence.jsonl",
+    "sources_path": "/home/ed/research/bible-minimalism/sources.jsonl"
+  }
+}
