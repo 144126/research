@@ -1,0 +1,33 @@
+{
+  "version": "3.0.0",
+  "query": "What is the psychological and philosophical evidence for the paradox that excessive caring, attachment, and control over outcomes leads to worse outcomes — and how does letting things 'take care of themselves' (wu wei, surrender, non-attachment, psychological flexibility) actually produce better results?",
+  "started_at": "2026-07-05T13:15:54.744538+00:00",
+  "finished_at": "2026-07-05T17:30:00.000000+00:00",
+  "assumptions": [
+    "The control paradox is a real phenomenon, not a semantic illusion",
+    "Both empirical science and contemplative/philosophical traditions offer valid insight",
+    "The phenomenon operates at neural, psychological, interpersonal, and cultural levels",
+    "Letting go has distinct meanings that must be distinguished",
+    "Personal experience is a valid datum that science should illuminate"
+  ],
+  "provider_config": {
+    "primary": "websearch",
+    "scholarly": "websearch"
+  },
+  "report_dir": "/home/ed/research/control_paradox",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "index.md"
+  },
+  "continuation": null,
+  "stats": {
+    "total_sources": 279,
+    "executive_summary_words": 1100,
+    "total_words": 16500,
+    "findings_count": 10,
+    "evidence_entries": 8,
+    "output_files": ["index.md", "dr_prompt.md", "evidence.jsonl", "sources.jsonl", "run_manifest.json", "knowledge_draft.md"]
+  }
+}

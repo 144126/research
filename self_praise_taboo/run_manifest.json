@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "self-praise taboo across cultures: psychological linguistic social dimensions",
+  "started_at": "2026-07-05T08:08:27.606841+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/self_praise_taboo",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}
