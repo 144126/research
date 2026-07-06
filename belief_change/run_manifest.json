@@ -1,0 +1,28 @@
+{
+  "version": "3.0.0",
+  "query": "What is the easiest, fastest, and most reliable way for a person to make themselves fully, completely, and even subconsciously believe something new",
+  "started_at": "2026-07-05T21:30:53.957073+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/belief_change",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null,
+  "status": "complete",
+  "completed_at": "2026-07-05",
+  "validation_status": "passed_with_warnings",
+  "report_word_count": 4390,
+  "sources_cited": 61,
+  "warnings": [
+    "Missing recommended sections: Counterevidence Register, Claims-Evidence Table",
+    "Only 61 sources cited (target 270+)"
+  ]
+}

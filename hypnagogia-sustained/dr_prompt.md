@@ -1,0 +1,3 @@
+The prompt used for this deep research was crafted by deep-research-prompt-engineer and saved to /home/ed/.agents/skills/deep-research-prompt-engineer/drpe_prompt.md. See that file for full prompt.
+
+Summary: Research question was "What are the easiest, most reliable techniques to enter and sustain the hypnagogic state (N1 sleep onset) for extended periods (20+ minutes), and what are the mechanisms, protocols, and evidence behind them?" with 13 research dimensions covering technical, historical, state-of-art, quantitative, stakeholder, competing approaches, criticisms, contrarian, future, regulatory, geographic, practical, and user sentiment angles.

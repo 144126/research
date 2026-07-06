@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "What are the neural mechanisms underlying the control paradox — where excessive cognitive control degrades performance and relinquishing control restores optimal function?",
+  "started_at": "2026-07-05T15:16:31.846451+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/control_paradox_neuroscience",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}

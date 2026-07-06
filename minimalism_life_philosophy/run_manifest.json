@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "What is the evidence for minimalism as a life philosophy — its origins, psychological effects, criticisms, and practical outcomes? Does owning less and living more simply actually make people happier, or is it a privileged aesthetic for the affluent?",
+  "started_at": "2026-07-05T15:20:00.526034+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/minimalism_life_philosophy",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}

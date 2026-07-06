@@ -1,0 +1,21 @@
+{
+  "query": "easiest way to enter and stay in hypnagogic state for long period",
+  "mode": "deep-research (8-phase pipeline)",
+  "assumptions": [
+    "User is a healthy sleeper without insomnia or sleep disorders",
+    "User has ~20-30 minutes available for practice",
+    "User is willing to invest 2-4 weeks of daily practice",
+    "User has normal sleep architecture (can reach N1 naturally)"
+  ],
+  "provider": "websearch + webfetch",
+  "date": "2026-07-06",
+  "total_sources": 50,
+  "source_types": {
+    "peer-reviewed": 18,
+    "user-reported": 12,
+    "practical_guides": 8,
+    "technical_theses": 5,
+    "historical": 4,
+    "industry": 3
+  }
+}
