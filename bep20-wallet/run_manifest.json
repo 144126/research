@@ -1,0 +1,16 @@
+{
+  "query": "best BEP-20 wallet",
+  "mode": "deep_research",
+  "assumptions": [
+    "BNB Chain remains a top-3 L1 by TVL",
+    "BSC gas fees stay under $0.50",
+    "Self-custody is preferred by crypto users"
+  ],
+  "provider_config": {
+    "search": "websearch",
+    "sources_used": 30,
+    "evidences_recorded": 30,
+    "report_lines": 478
+  },
+  "date": "2026-07-08"
+}

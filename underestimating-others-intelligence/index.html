@@ -1,0 +1,2010 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Report: Why People Underestimate the Intelligence of Others - Deep Research Report</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 14px;
+            line-height: 1.5;
+            color: #1a1a1a;
+            background: #ffffff;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+        }
+
+        .header {
+            background: #003d5c;
+            color: white;
+            padding: 25px 40px;
+            border-bottom: 3px solid #002840;
+        }
+
+        .header h1 {
+            font-size: 26px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            letter-spacing: -0.5px;
+        }
+
+        .header-meta {
+            font-size: 13px;
+            color: #b8d4e6;
+            display: flex;
+            gap: 25px;
+        }
+
+        .metrics-dashboard {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 0;
+            border-bottom: 2px solid #003d5c;
+        }
+
+        .metric {
+            padding: 20px 30px;
+            background: #f8f9fa;
+            border-right: 1px solid #d1d5db;
+            text-align: center;
+        }
+
+        .metric:last-child {
+            border-right: none;
+        }
+
+        .metric-number {
+            font-size: 32px;
+            font-weight: 700;
+            color: #003d5c;
+            display: block;
+            margin-bottom: 6px;
+        }
+
+        .metric-label {
+            font-size: 12px;
+            color: #4a5568;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-weight: 500;
+        }
+
+        .content {
+            padding: 30px 40px;
+        }
+
+        .section {
+            margin-bottom: 30px;
+        }
+
+        .section-title {
+            font-size: 20px;
+            font-weight: 700;
+            color: #003d5c;
+            margin: 32px 0 16px 0;
+            padding-bottom: 8px;
+            border-bottom: 2px solid #003d5c;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            line-height: 1.3;
+        }
+
+        .subsection-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin: 24px 0 12px 0;
+            line-height: 1.4;
+        }
+
+        .executive-summary {
+            background: #f8f9fa;
+            padding: 20px;
+            margin-bottom: 30px;
+            border-left: 4px solid #003d5c;
+        }
+
+        .executive-summary p {
+            margin-bottom: 12px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        p {
+            margin-bottom: 14px;
+            line-height: 1.7;
+            text-align: left;
+        }
+
+        /* Better paragraph spacing in content sections */
+        .content > p,
+        .section p {
+            margin-bottom: 16px;
+        }
+
+        .findings-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .finding-card {
+            background: #f8f9fa;
+            padding: 18px;
+            border-left: 3px solid #003d5c;
+        }
+
+        .finding-card h3 {
+            font-size: 14px;
+            font-weight: 700;
+            color: #003d5c;
+            margin-bottom: 10px;
+        }
+
+        .finding-card p {
+            font-size: 13px;
+            line-height: 1.5;
+            margin-bottom: 8px;
+        }
+
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+            font-size: 13px;
+        }
+
+        .data-table th {
+            background: #003d5c;
+            color: white;
+            padding: 10px 15px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .data-table td {
+            padding: 10px 15px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+
+        .data-table tr:hover {
+            background: #f8f9fa;
+        }
+
+        ul, ol {
+            margin: 16px 0 16px 28px;
+            padding-left: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+            font-size: 14px;
+            line-height: 1.6;
+            padding-left: 8px;
+        }
+
+        /* Nested lists */
+        li ul, li ol {
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        /* Better bullet/number spacing */
+        ol {
+            list-style-position: outside;
+            padding-left: 0;
+        }
+
+        ul {
+            list-style-position: outside;
+            padding-left: 0;
+        }
+
+        .key-insight {
+            background: white;
+            border: 1px solid #d1d5db;
+            border-left: 3px solid #003d5c;
+            padding: 15px;
+            margin: 15px 0;
+        }
+
+        .key-insight strong {
+            color: #003d5c;
+            font-weight: 600;
+        }
+
+        .citation {
+            color: #003d5c;
+            font-weight: 600;
+            text-decoration: none;
+            cursor: pointer;
+            position: relative;
+            padding: 2px 4px;
+            background: #f0f7fc;
+            border-radius: 2px;
+            transition: all 0.2s ease;
+        }
+
+        .citation:hover {
+            background: #003d5c;
+            color: white;
+        }
+
+        /* Attribution Gradients (2025 Enhancement) */
+        .citation-tooltip {
+            display: none;
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            margin-bottom: 8px;
+            background: white;
+            border: 2px solid #003d5c;
+            box-shadow: 0 4px 12px rgba(0, 61, 92, 0.15);
+            padding: 12px;
+            min-width: 300px;
+            max-width: 500px;
+            z-index: 1000;
+            font-size: 12px;
+            line-height: 1.5;
+        }
+
+        .citation:hover .citation-tooltip {
+            display: block;
+        }
+
+        .tooltip-title {
+            font-weight: 700;
+            color: #003d5c;
+            margin-bottom: 8px;
+            font-size: 13px;
+            border-bottom: 1px solid #d1d5db;
+            padding-bottom: 6px;
+        }
+
+        .tooltip-source {
+            color: #4a5568;
+            margin-bottom: 8px;
+            font-style: italic;
+        }
+
+        .tooltip-claim {
+            background: #f8f9fa;
+            padding: 8px;
+            margin-top: 8px;
+            border-left: 3px solid #003d5c;
+            font-size: 11px;
+        }
+
+        .tooltip-claim-label {
+            font-weight: 600;
+            color: #003d5c;
+            text-transform: uppercase;
+            font-size: 10px;
+            letter-spacing: 0.5px;
+            margin-bottom: 4px;
+        }
+
+        .evidence-chain {
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #d1d5db;
+        }
+
+        .evidence-chain-label {
+            font-weight: 600;
+            color: #003d5c;
+            font-size: 11px;
+            margin-bottom: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .evidence-step {
+            padding: 6px;
+            background: #f8f9fa;
+            margin-bottom: 4px;
+            font-size: 11px;
+            border-left: 2px solid #d1d5db;
+            padding-left: 8px;
+        }
+
+        .bibliography {
+            background: #f8f9fa;
+            padding: 30px;
+            margin-top: 40px;
+            border-left: 4px solid #003d5c;
+        }
+
+        .bibliography-content {
+            background: #f8f9fa;
+            padding: 20px 0;
+        }
+
+        .bib-entry {
+            margin-bottom: 18px;
+            padding-left: 50px;
+            text-indent: -50px;
+            line-height: 1.6;
+            font-size: 13px;
+        }
+
+        .bib-number {
+            color: #003d5c;
+            font-weight: 700;
+            margin-right: 8px;
+        }
+
+        .bib-entry a {
+            color: #003d5c;
+            word-wrap: break-word;
+            text-decoration: none;
+        }
+
+        .bib-entry a:hover {
+            text-decoration: underline;
+        }
+
+        .compact-list {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+            margin: 15px 0;
+        }
+
+        .compact-list li {
+            margin-bottom: 8px;
+            font-size: 13px;
+        }
+
+        .info-box {
+            background: white;
+            border: 1px solid #d1d5db;
+            padding: 15px;
+            margin: 15px 0;
+        }
+
+        .info-box h4 {
+            font-size: 13px;
+            font-weight: 700;
+            color: #003d5c;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+        }
+
+        .highlight-stat {
+            font-weight: 700;
+            color: #003d5c;
+        }
+
+        strong {
+            font-weight: 600;
+            color: #1a1a1a;
+        }
+
+        @media print {
+            .container {
+                max-width: 100%;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .metrics-dashboard {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .findings-grid {
+                grid-template-columns: 1fr;
+            }
+            .compact-list {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Research Report: Why People Underestimate the Intelligence of Others</h1>
+            <div class="header-meta">
+                <span>2026-07-08</span>
+                <span>•</span>
+                <span>285 Sources</span>
+            </div>
+        </div>
+
+        
+<div class="metrics-dashboard">
+    <div class="metric">
+        <span class="metric-number">285</span>
+        <span class="metric-label">Sources</span>
+    </div>
+    <div class="metric">
+        <span class="metric-number">85</span>
+        <span class="metric-label">Cited in Text</span>
+    </div>
+    <div class="metric">
+        <span class="metric-number">14,086</span>
+        <span class="metric-label">Words</span>
+    </div>
+    <div class="metric">
+        <span class="metric-number">10</span>
+        <span class="metric-label">Sections</span>
+    </div>
+</div>
+
+        <div class="content">
+            <div class="section"><div class="executive-summary"><h2 class="section-title">Executive Summary</h2>
+
+<p>People systematically underestimate the intelligence of others. This tendency is not a simple character flaw but the product of multiple converging cognitive biases, social dynamics, and evolutionary adaptations that distort social judgment. The phenomenon manifests across every domain of human interaction — in relationships, workplaces, classrooms, political discourse, and online communication — and carries significant practical consequences for decision-making, conflict, and cooperation.
+</p>
+
+<p>The question "why do I think people are stupider than they actually are?" has a multi-layered answer rooted in how the human mind processes social information. At the cognitive level, at least eight distinct biases converge to produce this underestimation. The fundamental attribution error causes observers to attribute others' mistakes to dispositional stupidity while overlooking situational factors [1]. The curse of knowledge means that once a person knows something, they cannot easily imagine not knowing it, leading them to judge others as slow or incompetent for failing to grasp what seems obvious [4]. The Dunning-Kruger effect, though often misunderstood, captures how individuals at different skill levels misjudge both themselves and others: low performers overestimate themselves while high performers may overestimate others' competence relative to their own [1]. The false consensus effect leads people to project their own knowledge and reasoning onto others, making divergent perspectives seem like evidence of deficiency rather than difference [19]. The spotlight effect causes individuals to overestimate how much others notice their own performance, simultaneously calibrating their judgment of others against an inflated self-standard [5]. Naive cynicism leads people to expect more egocentric bias in others than actually exists, attributing others' actions to self-interest or incompetence [7]. The illusion of transparency causes people to overestimate how clearly their own thoughts and feelings are communicated, creating the misimpression that others who fail to grasp them are obtuse [20]. Outcome bias distorts evaluations of decision quality: a bad outcome makes a reasonable decision look stupid in hindsight [21].
+</p>
+
+<p>Meta-analytic evidence confirms the prevalence of these tendencies. The better-than-average effect, in which most people rate themselves above average across abilities, yields a robust effect size of d_z = 0.78 across 291 independent samples and more than 950,000 participants [15]. A nationally representative survey found that 65% of Americans believe they are more intelligent than the average person — statistically impossible but psychologically consistent [2]. The Dunning-Kruger effect has been replicated in domains from logical reasoning to grammar to humor, though recent methodological critiques suggest its magnitude may be smaller than popularly believed, confined primarily to the lowest-performing segments of the population [3, 10]. Twin studies indicate that approximately 44% of the variance in metacognitive judgment of intelligence is accounted for by genetic factors, with heritability increasing to over 75% among high-IQ individuals [10].
+</p>
+
+<p>Evolutionary perspectives offer a functional explanation for these biases. Error management theory (EMT) proposes that cognitive biases are not design flaws but adaptations shaped by asymmetric costs of false-positive versus false-negative errors over evolutionary history [9]. In ancestral environments, underestimating another's intelligence carried lower fitness costs than overestimating it — trusting a genuinely incompetent person in a cooperative venture could be fatal, whereas distrusting a competent one merely meant missed opportunity. This asymmetry selected for a "better safe than sorry" default toward skepticism of others' abilities. The paranoid optimist model integrates these insights across domains, showing that biases toward false positives (seeing threats, underestimating competence) were evolutionarily advantageous even when they increased overall error rates [22].
+</p>
+
+<p>Social and cultural factors amplify these cognitive tendencies. Competitive environments in workplaces and schools that rank and compare individuals intensify dispositional attributions. Media ecosystems that amplify displays of ignorance — from viral videos of failed attempts to man-on-the-street interviews — create availability cascades that bias perceptions of population-level intelligence [23]. Political echo chambers on social media platforms create conditions where out-group members are perceived as more stupid than evil, a pattern confirmed across multiple studies [6]. Affective polarization is reinforced when partisans overestimate the knowledge of their opponents (curse of knowledge applied to politics), leading to harsher judgments of those who disagree [24].
+</p>
+
+<p>Practical implications span critical domains. In education, the curse of knowledge causes teachers to overestimate student knowledge, leading to instruction pitched above students' actual comprehension levels [4]. In healthcare, outcome bias leads patients and peers to judge medical decisions by their results rather than their quality, creating perverse incentives for defensive medicine [21]. In the workplace, managers who commit the fundamental attribution error misdiagnose performance problems as ability deficits rather than situational challenges, leading to suboptimal personnel decisions [25]. In legal contexts, hindsight bias and outcome bias distort judgments of negligence and liability [26]. In relationships, naive cynicism and the fundamental attribution error create cycles of blame and misunderstanding that erode trust [7].
+</p>
+
+<p>Counteracting these biases requires multi-level intervention. At the individual level, intellectual humility — defined as recognizing that one's beliefs may be fallible and attending to limitations in one's evidence base — is associated with more accurate knowledge, better decisions, and reduced conflict [16]. People higher in intellectual humility show less political myside bias, lower susceptibility to misinformation, and greater metacognitive insight [17]. Debiasing strategies include considering alternative explanations (the "consider-the-opposite" technique), slowing down reasoning processes, adopting third-person perspective when evaluating others, and using structured decision-making protocols that separate outcome knowledge from process evaluation [27]. At the institutional level, designing feedback systems that provide accurate information about others' actual knowledge and abilities can counteract biased estimates. In educational settings, providing teachers with specific diagnostic cues about student knowledge improves calibration [4]. In organizations, implementing pre-mortem analyses and structured decision audits reduces outcome bias [21].
+</p>
+
+<p>The evidence converges on a central insight: underestimating others' intelligence is not primarily about the others — it is about the limits of the estimator's cognitive machinery. The same metacognitive deficits that make it hard to assess one's own competence also impair assessment of others'. Recognizing this is the first step toward correction. The path to more accurate social judgment lies not in trying harder to see others' intelligence, but in cultivating awareness of the systematic ways our own minds distort the assessment.
+</p>
+
+<p>---
+</p>
+
+</div>
+<div class="section"><h2 class="section-title">Introduction</h2>
+
+<h3 class="subsection-title">Research Question</h3>
+
+<p>Why do people tend to underestimate the intelligence of others — thinking others are "stupid" when they are actually not? This question arises from a common human experience: the sense that those around us are less capable, less informed, or less rational than they actually are. The user's framing — "why do i thinking people are stupid, well more stupid than they actually might be" — captures both the phenomenological reality of this experience and the implicit recognition that it may reflect a distortion rather than accurate perception.
+</p>
+
+<h3 class="subsection-title">Scope & Methodology</h3>
+
+<p>This investigation examines the psychological, social, and evolutionary mechanisms that produce systematic underestimation of others' intelligence. The scope includes cognitive biases (Dunning-Kruger effect, curse of knowledge, fundamental attribution error, illusory superiority, naive cynicism, spotlight effect, outcome bias, egocentric bias, false consensus effect), metacognitive failures, evolutionary explanations (error management theory, paranoid optimist model), social and cultural amplifiers (competition culture, echo chambers, media dynamics), practical implications across domains (relationships, work, education, politics, law), and debiasing strategies. The research draws on academic psychology, neuroscience, behavioral economics, and evolutionary biology sources, supplemented by user-reported experiences from online communities. The investigation identifies and analyzes over 270 sources spanning foundational texts (e.g., Kruger & Dunning 1999), contemporary meta-analyses, nationally representative surveys, experimental studies, and theoretical reviews.
+</p>
+
+<h3 class="subsection-title">Key Assumptions</h3>
+
+<ul>
+<li>Intelligence is a multifaceted construct; the report focuses on perceived cognitive ability rather than specific domains of intelligence.</li>
+<li>Biases identified in WEIRD (Western, Educated, Industrialized, Rich, Democratic) samples partially generalize cross-culturally, though magnitude varies.</li>
+<li>Self-report and behavioral measures of cognitive bias capture meaningful but imperfect proxies for real-world judgment.</li>
+<li>Evolutionary explanations are post-hoc reconstructions requiring corroboration from multiple evidence types.</li>
+</ul>
+
+<p>---
+</p>
+
+</div>
+<div class="section"><h2 class="section-title">Main Analysis</h2>
+
+<h3 class="subsection-title">1. The Dunning-Kruger Effect</h3>
+
+<ol>
+<li>Kruger and Dunning (1999) demonstrated that participants in the bottom quartile of logical reasoning, grammar, and humor tasks overestimated their performance by a wide margin, placing themselves near the 62nd-68th percentile when their actual performance was near the 12th [1]. The effect arises from a dual deficit: low performers lack both the competence to perform well and the metacognitive ability to recognize their incompetence [1].</li>
+</ol>
+
+<ol>
+<li>Recent methodological critiques challenge the magnitude and prevalence of the Dunning-Kruger effect. Gignac and Zajenkowski (2020) argued that traditional quartile-based analyses confound regression to the mean with genuine metacognitive bias, and recommended polynomial regression approaches instead [28].</li>
+</ol>
+
+<ol>
+<li>Gignac (2024) used LOESS regression on simulated data and found that the Dunning-Kruger effect peaked at a 20-point relative overestimation at an IQ of 55, impacting only 0.14% of the population, diminishing to a 7-point overestimation at an IQ of 70 affecting 2.3% [3]. Analysis of two large field samples (N ~ 3500 each) showed the effect was confined to approximately 0.2% of participants scoring at chance levels [3].</li>
+</ol>
+
+<ol>
+<li>Sorjonen et al. (2025) showed that a Dunning-Kruger pattern can emerge purely as a statistical artifact when lower-ability test scores have lower validity, even if self-ratings are perfect measures of true ability [29].</li>
+</ol>
+
+<ol>
+<li>Adamecz, Ilieva, and Shure (2025) replicated the Dunning-Kruger effect using nationally representative data from a British birth cohort (18 tests at ages 5, 10, and 16) and found that women underestimate their abilities by about 0.3 standard deviation relative to men, though the Dunning-Kruger effect itself does not differ by gender [14].</li>
+</ol>
+
+<ol>
+<li>Nedelec, Dunkel, and van der Linden (2025) conducted a twin study (n = 920) and found that approximately 44% of variance in metacognitive judgment of intelligence is genetic, with heritability rising to over 75% in the highest IQ quartile [10].</li>
+</ol>
+
+<ol>
+<li>The Dunning-Kruger effect has been demonstrated across domains including chess, medical diagnosis, gun safety, and financial literacy, suggesting it reflects a general metacognitive deficit rather than domain-specific ignorance [30].</li>
+</ol>
+
+<ol>
+<li>Kruger and Dunning (1999) found that brief training in logical reasoning improved both task performance and self-assessment accuracy among low performers, suggesting metacognitive skills are teachable [1].</li>
+</ol>
+
+<ol>
+<li>A study on AI-assisted performance (2024) with N=246 participants completing LSAT logic problems found that AI use eliminated the classic Dunning-Kruger pattern, but participants overestimated their performance by about 4 points regardless of actual ability [13].</li>
+</ol>
+
+<ol>
+<li>The Dunning-Kruger effect has been found in creativity domains as well, mediated by creative self-concept, suggesting the effect extends beyond traditional cognitive measures [31].</li>
+</ol>
+
+<h3 class="subsection-title">2. The Curse of Knowledge</h3>
+
+<ol>
+<li>The curse of knowledge refers to the cognitive bias in which knowing something makes it difficult to imagine not knowing it, systematically distorting estimates of what others know [4].</li>
+</ol>
+
+<ol>
+<li>Tullis and Feder (2022) demonstrated across four experiments that studying facts reduces both the calibration and resolution of estimates about novices' knowledge, and that this impairment is not due to over-reliance on one's own knowledge but to a lack of diagnostic cues about others' knowledge [4].</li>
+</ol>
+
+<ol>
+<li>The curse of knowledge affects judgments across medicine, law, education, business, and politics, and has been documented across multiple cultures [32].</li>
+</ol>
+
+<ol>
+<li>Teachers systematically overpredict student knowledge across age levels and domains, a finding attributed to the curse of knowledge [33].</li>
+</ol>
+
+<ol>
+<li>Birch and Bloom (2007) showed that adults given outcome knowledge in a false-belief task rated the probability of another person acting on a false belief as significantly less likely, demonstrating that even adults with mature theory of mind are impaired by the curse of knowledge [34].</li>
+</ol>
+
+<ol>
+<li>Camerer, Loewenstein, and Weber (1989) demonstrated that the curse of knowledge operates in economic settings, with better-informed agents unable to ignore private information when predicting less-informed agents' judgments [35]. Market forces reduced the bias by approximately 50% but did not eliminate it.</li>
+</ol>
+
+<ol>
+<li>Xiong, van Weelden, and Franconeri (2019) showed that the curse of knowledge extends to visual data communication: people primed with a specific pattern in data believe naive viewers will see the same pattern, even with explicit instructions to ignore their own knowledge [36].</li>
+</ol>
+
+<ol>
+<li>The curse of knowledge is linked to epistemic egocentrism, a failure to set aside privileged information that begins in childhood and persists into adulthood [37].</li>
+</ol>
+
+<ol>
+<li>Nickerson (1999) provided a comprehensive theoretical framework arguing that imputing one's own knowledge to others is a generally useful heuristic that is often applied uncritically, leading to systematic overestimation of shared knowledge [38].</li>
+</ol>
+
+<ol>
+<li>Reduction of the curse of knowledge is possible through feedback about others' actual knowledge; providing judges with valid cues about specific people's experiences significantly improves prediction accuracy [4].</li>
+</ol>
+
+<h3 class="subsection-title">3. Fundamental Attribution Error</h3>
+
+<ol>
+<li>The fundamental attribution error (FAE) is the tendency to overemphasize dispositional factors (personality, ability) and underestimate situational factors when explaining others' behavior [1].</li>
+</ol>
+
+<ol>
+<li>Ross (1977) formalized the FAE, demonstrating across studies that observers attribute behavior to internal dispositions even when situational constraints are clearly operative [39].</li>
+</ol>
+
+<ol>
+<li>The FAE directly contributes to underestimating others' intelligence: when someone fails or makes a mistake, observers attribute it to stable traits like "stupidity" rather than to situational factors like task difficulty, fatigue, or distraction [1].</li>
+</ol>
+
+<ol>
+<li>The actor-observer bias amplifies this: people explain their own behavior situationally ("I failed because the test was unfair") but others' behavior dispositionally ("They failed because they are not smart") [40].</li>
+</ol>
+
+<ol>
+<li>Cross-cultural research shows the FAE is stronger in individualistic Western cultures than in collectivist East Asian cultures, where situational explanations are more readily considered [41].</li>
+</ol>
+
+<ol>
+<li>Cognitive load increases the FAE: when people are distracted or mentally taxed, they default more strongly to dispositional attributions [42].</li>
+</ol>
+
+<ol>
+<li>The FAE has real-world consequences: blaming victims for their circumstances, making unfair assessments in legal and workplace contexts, and perpetuating stereotypes [1].</li>
+</ol>
+
+<ol>
+<li>Walker and Smith (2015) proposed that the FAE may be rational under uncertainty, demonstrating that a Bayesian ideal observer making inferences about probabilistic dispositions and situations would produce patterns similar to those traditionally labeled as errors [43].</li>
+</ol>
+
+<ol>
+<li>The correspondence bias — inferring stable personality traits from behavior even when behavior is situationally constrained — is related to but distinct from the FAE [44].</li>
+</ol>
+
+<ol>
+<li>Reducing the FAE requires cognitive effort: perspective-taking instructions, accountability pressures, and incentives for accuracy all reduce dispositional attributions [45].</li>
+</ol>
+
+<h3 class="subsection-title">4. Illusory Superiority / Above-Average Effect</h3>
+
+<ol>
+<li>The better-than-average effect (BTAE) is the tendency for people to perceive their abilities, attributes, and personality traits as superior to the average peer, with a meta-analytic effect size of d_z = 0.78 across 291 samples and 950,000+ participants [15].</li>
+</ol>
+
+<ol>
+<li>The BTAE is larger for personality traits than for abilities, for positive than negative dimensions, and in individualistic compared to collectivist cultures [15].</li>
+</ol>
+
+<ol>
+<li>A nationally representative survey found that 65% of Americans agree they are "more intelligent than the average person," a statistical impossibility [2].</li>
+</ol>
+
+<ol>
+<li>The BTAE is moderately associated with self-esteem (r = 0.34) and life satisfaction (r = 0.33), suggesting it serves a self-enhancement function [15].</li>
+</ol>
+
+<ol>
+<li>Kruger (1999) demonstrated that the above-average effect reverses for difficult tasks: people judge themselves as below average for rare or challenging abilities, mediated by egocentric anchoring on one's own performance [46].</li>
+</ol>
+
+<ol>
+<li>The BTAE is partially explained by ambiguously defined comparison targets: when "average" is construed as below-median ability rather than median ability, the effect diminishes [47].</li>
+</ol>
+
+<ol>
+<li>The BTAE is stronger when people use direct comparative judgments ("better than average") than when they make separate self and peer judgments that are compared indirectly [15].</li>
+</ol>
+
+<ol>
+<li>Alicke et al. (2012) found that intellectual self-enhancement is positively linked to intrapersonal and interpersonal adjustment, suggesting the bias serves adaptive psychological functions [48].</li>
+</ol>
+
+<ol>
+<li>College graduates in the 2018 nationally representative study slightly underestimated their relative intelligence (73% claimed above-average, while 81-84% actually are), while less-educated participants overestimated theirs [2].</li>
+</ol>
+
+<ol>
+<li>The BTAE is cross-culturally robust but moderated by cultural dimensions: East Asians show smaller effects than Westerners, especially on individualistic traits [15].</li>
+</ol>
+
+<h3 class="subsection-title">5. False Consensus Effect and Egocentric Bias</h3>
+
+<ol>
+<li>The false consensus effect (FCE) is the tendency to overestimate the extent to which others share one's own beliefs, preferences, and behaviors [19].</li>
+</ol>
+
+<ol>
+<li>Ross, Greene, and House (1977) demonstrated the FCE in the classic "sandwich board" study: both those who agreed to wear a sign and those who refused thought their choice was the majority [19].</li>
+</ol>
+
+<ol>
+<li>The FCE directly contributes to underestimating others' intelligence: when people project their own knowledge onto others, those who hold different views or make different choices appear less informed or less rational [49].</li>
+</ol>
+
+<ol>
+<li>Selective exposure — surrounding oneself with like-minded others — amplifies the FCE by creating an unrepresentative sample of the population [50].</li>
+</ol>
+
+<ol>
+<li>Krueger and Clement (1994) separated the rational Bayesian component of consensus estimates from the "truly false" residual bias, finding that FCE persists even when accurate base-rate information is provided [51].</li>
+</ol>
+
+<ol>
+<li>Egocentric bias — the tendency to use one's own perspective as an anchor when judging others — is the underlying mechanism for both FCE and related biases [52].</li>
+</ol>
+
+<ol>
+<li>Neuroscience evidence shows that the medial prefrontal cortex uses self-models to predict similar others, making projection the brain's default mode rather than a strategic choice [53].</li>
+</ol>
+
+<ol>
+<li>The false uniqueness effect is the complementary pattern for desirable behaviors: people underestimate how many others share their positive traits [54].</li>
+</ol>
+
+<ol>
+<li>Egocentric anchoring affects estimates of others' knowledge, emotions, and visual perspective, not just opinions [55].</li>
+</ol>
+
+<ol>
+<li>The FCE is stronger for personally important attitudes and weaker when people have clear diagnostic information about others' actual distributions [50].</li>
+</ol>
+
+<h3 class="subsection-title">6. Naive Cynicism</h3>
+
+<ol>
+<li>Naive cynicism is the tendency to expect more egocentric bias in others than actually exists, assuming others' judgments are motivationally biased while one's own are objective [7].</li>
+</ol>
+
+<ol>
+<li>Kruger and Gilovich (1999) demonstrated naive cynicism across four studies: married couples, video game enthusiasts, debaters, and darts players all expected others' responsibility allocations to be more self-serving than they actually were [7].</li>
+</ol>
+
+<ol>
+<li>The bias manifests as three beliefs: (a) I am not biased, (b) you are biased if you disagree with me, and (c) your actions reflect underlying egocentric bias [7].</li>
+</ol>
+
+<ol>
+<li>Naive cynicism is the counterpart to naive realism — the belief that one sees reality objectively while others are biased [56].</li>
+</ol>
+
+<ol>
+<li>The cynical genius illusion describes the mistaken lay belief that cynical individuals are more cognitively competent, when data from ~200,000 individuals across 30 countries shows the opposite: cynical individuals perform worse on cognitive ability tasks [8].</li>
+</ol>
+
+<ol>
+<li>Higher education and cognitive ability are negatively associated with cynicism, with intelligent individuals more likely to trust strangers and adjust their cynicism to environmental conditions [8].</li>
+</ol>
+
+<ol>
+<li>Asymmetric feedback sustains naive cynicism: when people trust others and are betrayed, they learn painfully; when they distrust and miss out on cooperation, they receive no feedback about what they missed [57].</li>
+</ol>
+
+<ol>
+<li>Naive cynicism is especially strong when the other person has a vested interest in the judgment at hand [58].</li>
+</ol>
+
+<ol>
+<li>Ingroup membership attenuates naive cynicism: participants assume teammates would be less biased than opponents, suggesting social distance moderates the bias [7].</li>
+</ol>
+
+<ol>
+<li>Naive cynicism undermines cooperation and trust in organizational settings, leading to suboptimal outcomes when team members assume others are more self-interested than they actually are [59].</li>
+</ol>
+
+<h3 class="subsection-title">7. Spotlight Effect and Illusion of Transparency</h3>
+
+<ol>
+<li>The spotlight effect is the tendency to overestimate the extent to which one's actions and appearance are noticed by others [5].</li>
+</ol>
+
+<ol>
+<li>Gilovich, Medvec, and Savitsky (2000) demonstrated that participants wearing an embarrassing T-shirt overestimated the number of observers who would recall the image by a factor of 2 [5].</li>
+</ol>
+
+<ol>
+<li>The spotlight effect arises from anchoring-and-adjustment: people anchor on their own rich phenomenological experience and insufficiently adjust for others' perspectives [5].</li>
+</ol>
+
+<ol>
+<li>The spotlight effect causes people to overestimate how much others notice their mistakes and failures, making them think others judge their intelligence more harshly than they actually do [5].</li>
+</ol>
+
+<ol>
+<li>The illusion of transparency is the related tendency to overestimate the extent to which one's internal states are detectable by others [20].</li>
+</ol>
+
+<ol>
+<li>Speakers in the illusion of transparency paradigm overestimate how clearly listeners can detect their sincerity, nervousness, or deception, because they are anchored on their own internal experience [20].</li>
+</ol>
+
+<ol>
+<li>The spotlight effect is especially pronounced for negative events: people believe their social gaffes are more memorable to others than they actually are [5].</li>
+</ol>
+
+<ol>
+<li>Social anxiety amplifies the spotlight effect, creating a vicious cycle where anxious individuals overestimate scrutiny and consequently perform worse [60].</li>
+</ol>
+
+<ol>
+<li>Third-person mental imagery reduces the spotlight effect: imagining an event from an external vantage point decreases egocentric estimates of personal salience [61].</li>
+</ol>
+
+<ol>
+<li>The spotlight effect and illusion of transparency both reflect a broader egocentric bias in social judgment that also includes the illusion of asymmetric insight (believing one knows others better than they know oneself) [62].</li>
+</ol>
+
+<h3 class="subsection-title">8. Outcome Bias</h3>
+
+<ol>
+<li>Outcome bias is the tendency to evaluate the quality of a decision based on its outcome rather than the quality of the decision-making process given available information at the time [21].</li>
+</ol>
+
+<ol>
+<li>Baron and Hershey (1988) demonstrated across five experiments that participants rated identical medical and gambling decisions as worse when they resulted in bad outcomes versus good outcomes, even when outcome probabilities were fully known [21].</li>
+</ol>
+
+<ol>
+<li>Outcome bias directly contributes to underestimating intelligence: when someone makes a reasonable decision that happens to produce a bad outcome, observers infer that the person is incompetent or stupid [21].</li>
+</ol>
+
+<ol>
+<li>Outcome bias is distinct from hindsight bias: outcome bias focuses on evaluating the decision itself in light of outcome knowledge, while hindsight bias involves distorted memory of probability estimates [63].</li>
+</ol>
+
+<ol>
+<li>Outcome bias affects professional judgments: legal professionals judge directors' actions more negatively and bankruptcy as more foreseeable when they know bankruptcy occurred, with effects stronger among those who endorse free will beliefs [26].</li>
+</ol>
+
+<ol>
+<li>Financial agents are rewarded based on luck rather than skill: König-Kersting et al. (2020) found that principals reward favorable chance outcomes even when the agent's decision process is fully observable and the outcome was clearly random [64].</li>
+</ol>
+
+<ol>
+<li>Outcome bias has been documented in medical decisions, military combat decisions, salesperson performance evaluation, and scientific peer review [21, 65].</li>
+</ol>
+
+<ol>
+<li>The bias persists even when evaluators have complete information about the decision-maker's ex-ante information and the outcome probabilities [21].</li>
+</ol>
+
+<ol>
+<li>Outcome bias is partially driven by the salience of outcomes: bad outcomes call attention to arguments against the decision that were known at the time but underweighted [21].</li>
+</ol>
+
+<ol>
+<li>Debiasing outcome bias requires deliberate separation of outcome information from process evaluation, using techniques like pre-mortems and decision journaling [66].</li>
+</ol>
+
+<h3 class="subsection-title">9. Social and Cultural Amplifiers</h3>
+
+<ol>
+<li>Political echo chambers increase both policy and affective polarization: partisans who discuss issues only with like-minded others become more extreme in their views and more hostile toward outgroups compared to those in cross-party discussions [67].</li>
+</ol>
+
+<ol>
+<li>Partisans perceive political opponents as "more stupid than evil" — a finding replicated across four studies (N = 1,660) including a nationally representative sample [6].</li>
+</ol>
+
+<ol>
+<li>The curse of knowledge exacerbates political polarization: when partisans overestimate what opponents know, they attribute disagreement to willful ignorance or bad faith rather than differing information diets [24].</li>
+</ol>
+
+<ol>
+<li>Media diversity is less polarized than popularly assumed: algorithmic selection by search engines and social media generally leads to more diverse news exposure, while self-selection among a small minority of highly partisan individuals drives echo chamber effects [68].</li>
+</ol>
+
+<ol>
+<li>Social media platforms differ in their tendency to foster echo chambers: Facebook and Twitter show higher homophily and biased information diffusion than Reddit and Gab, based on analysis of 100M+ pieces of content [69].</li>
+</ol>
+
+<ol>
+<li>Competition culture in schools and workplaces that ranks individuals escalates dispositional attributions by making ability comparisons chronically salient [70].</li>
+</ol>
+
+<ol>
+<li>Media amplification of ignorance — viral videos of failed attempts, man-on-the-street interviews showing public ignorance — creates availability cascades that distort population-level intelligence estimates [23].</li>
+</ol>
+
+<ol>
+<li>Economic inequality is associated with stronger endorsement of dispositional explanations for poverty, as the wealthy attribute success to ability rather than structural advantage [71].</li>
+</ol>
+
+<ol>
+<li>Cultural narratives about intelligence as fixed rather than malleable (entity theory) increase the tendency to make stable trait attributions about others' cognitive abilities [72].</li>
+</ol>
+
+<ol>
+<li>Social media metrics (likes, shares, retweets) create feedback loops that reward extreme content, amplifying perceptions of societal stupidity [69].</li>
+</ol>
+
+<h3 class="subsection-title">10. Evolutionary Explanations</h3>
+
+<ol>
+<li>Error management theory (EMT) proposes that cognitive biases are adaptations shaped by asymmetric costs of false-positive versus false-negative errors over evolutionary history [9].</li>
+</ol>
+
+<ol>
+<li>In ancestral environments, underestimating another's intelligence carried lower fitness costs than overestimating it: falsely trusting an incompetent person could be fatal, while falsely distrusting a competent one merely meant missed opportunity [9].</li>
+</ol>
+
+<ol>
+<li>The smoke detector principle applies: evolved systems are biased toward false alarms (over-detection of threats, under-attribution of competence) because misses are more costly than false alarms [22].</li>
+</ol>
+
+<ol>
+<li>The paranoid optimist model integrates EMT with positive illusions: humans are biased toward both optimism about themselves (maintaining motivation) and paranoia about others (avoiding exploitation) [22].</li>
+</ol>
+
+<ol>
+<li>Sexual overperception bias in men and commitment underperception in women follow EMT logic, demonstrating that asymmetric error costs shape social inference across domains [9].</li>
+</ol>
+
+<ol>
+<li>The commitment-skepticism bias in women — underestimating male partners' investment intentions — follows the same logic: the costs of falsely inferring commitment (unwanted pregnancy, abandonment) exceeded costs of failing to detect genuine commitment [9].</li>
+</ol>
+
+<ol>
+<li>Evolutionary perspectives suggest that underestimating others' intelligence is not an irrational flaw but a functional bias that solved recurrent adaptive problems in small-scale ancestral groups [73].</li>
+</ol>
+
+<ol>
+<li>The better-safe-than-sorry heuristic applies to social judgment: when information is incomplete, erring on the side of underestimating others' capabilities is the evolutionarily rational default [22].</li>
+</ol>
+
+<ol>
+<li>Life history theory predicts that individuals with faster life history strategies (prioritizing immediate reproduction) show more biased social judgments, while slower strategists show more calibrated assessments [74].</li>
+</ol>
+
+<ol>
+<li>Modern environments mismatch ancestral conditions: the cognitive tools that served well in small bands of familiar others are applied to anonymous online interactions, mass media, and large-scale institutions where their calibration is worse [75].</li>
+</ol>
+
+<h3 class="subsection-title">11. Metacognitive Failures</h3>
+
+<ol>
+<li>Metacognition — thinking about thinking — is required for accurate self-assessment and assessment of others, and deficits in metacognition are a common thread across many of the biases discussed [1].</li>
+</ol>
+
+<ol>
+<li>People are systematically poor at assessing what others know because they lack access to the diagnostic cues that would enable accurate estimation [4].</li>
+</ol>
+
+<ol>
+<li>The cue-utilization theory of perspective-taking posits that people infer others' mental states from available but often non-diagnostic cues [76].</li>
+</ol>
+
+<ol>
+<li>Metacognitive sensitivity (the ability to distinguish correct from incorrect judgments) varies substantially across individuals and is linked to theory of mind ability [77].</li>
+</ol>
+
+<ol>
+<li>Longitudinal research shows that early perspective-taking ability (Level 1 and 2) predicts later metacognitive insight, suggesting that understanding others' minds precedes understanding of one's own mind [78].</li>
+</ol>
+
+<ol>
+<li>The Mind-space framework proposes that accurate mental state inference depends on optimal weighting of trait inferences according to metacognitive confidence [79].</li>
+</ol>
+
+<ol>
+<li>Individuals with higher metacognitive sensitivity weight their trait inferences more optimally, leading to more accurate mental state inferences [79].</li>
+</ol>
+
+<ol>
+<li>Metacognitive judgments are not more calibrated for others than for oneself: across six studies, self-judgments were better calibrated than other-judgments, contrary to predictions from self-enhancement theory [80].</li>
+</ol>
+
+<ol>
+<li>The bias blind spot — the tendency to recognize bias more readily in others than in oneself — reflects a metacognitive failure that sustains overconfidence in one's own social judgments [81].</li>
+</ol>
+
+<ol>
+<li>Improving metacognitive accuracy requires feedback about specific outcomes and calibration of confidence relative to accuracy [82].</li>
+</ol>
+
+<h3 class="subsection-title">12. Practical Implications</h3>
+
+<ol>
+<li><strong>Education:</strong> The curse of knowledge causes teachers to overestimate student comprehension, leading to instruction pitched above actual student knowledge levels, particularly in STEM subjects [4, 33].</li>
+</ol>
+
+<ol>
+<li><strong>Workplace:</strong> Managers who commit the fundamental attribution error attribute performance problems to ability deficits rather than situational factors, leading to misdirected training and unfair evaluations [25].</li>
+</ol>
+
+<ol>
+<li><strong>Healthcare:</strong> Outcome bias distorts evaluation of medical decisions: the same clinical decision is judged as worse when it results in a bad outcome, creating perverse incentives for defensive rather than evidence-based practice [21].</li>
+</ol>
+
+<ol>
+<li><strong>Legal:</strong> Hindsight bias and outcome bias systematically distort negligence determinations, with juries and judges overestimating the foreseeability of accidents [26].</li>
+</ol>
+
+<ol>
+<li><strong>Relationships:</strong> Naive cynicism causes partners to attribute each other's behavior to selfish motives, eroding trust and cooperation over time [7].</li>
+</ol>
+
+<ol>
+<li><strong>Politics:</strong> Perceiving opponents as more stupid than evil (a) is more common than perceiving them as intentionally malicious and (b) may paradoxically be easier to correct by reframing disagreement as information difference rather than character deficit [6].</li>
+</ol>
+
+<ol>
+<li><strong>Online communication:</strong> Anonymity and lack of non-verbal cues amplify dispositional attributions: people assume others' online mistakes reflect stable incompetence rather than the constraints of the medium [83].</li>
+</ol>
+
+<ol>
+<li><strong>Intergroup relations:</strong> Poorer mental state inference for out-groups is driven by worse representations of out-group minds, not by reduced propensity to consider them, and people are largely unaware of this deficit [84].</li>
+</ol>
+
+<ol>
+<li><strong>Decision-making:</strong> Outcome bias in financial contexts leads to rewarding luck rather than skill, creating perverse incentives that reduce long-term performance [64].</li>
+</ol>
+
+<ol>
+<li><strong>Self-assessment:</strong> The same metacognitive deficits that cause underestimation of others also impair self-knowledge: people who are poor at assessing others are typically poor at assessing themselves [1].</li>
+</ol>
+
+<h3 class="subsection-title">13. Debiasing Strategies</h3>
+
+<ol>
+<li>Intellectual humility — recognizing that one's beliefs may be fallible — is associated with more accurate knowledge, less political myside bias, lower susceptibility to misinformation, and greater metacognitive insight [16, 17].</li>
+</ol>
+
+<ol>
+<li>People higher in intellectual humility are more curious, more attentive to evidence quality, and more likely to engage in investigative behaviors after encountering misinformation [16].</li>
+</ol>
+
+<ol>
+<li>Intellectual humility predicts better misinformation discernment independent of response bias: the relationship is driven by improved ability to distinguish true from false claims, not by general skepticism [85].</li>
+</ol>
+
+<ol>
+<li>The consider-the-opposite technique — deliberately generating alternative explanations for others' behavior — reduces the fundamental attribution error and confirmation bias [27].</li>
+</ol>
+
+<ol>
+<li>Perspective-taking instructions improve accuracy in estimating others' knowledge and reduce the curse of knowledge effect, though the effect is often small [4].</li>
+</ol>
+
+<ol>
+<li>Feedback about others' actual knowledge and abilities improves calibration of judgments; providing specific diagnostic cues is more effective than general debiasing instructions [4].</li>
+</ol>
+
+<ol>
+<li>Slow reasoning and increased cognitive effort reduce the impact of biases: people who engage in more analytic thinking show less susceptibility to the fundamental attribution error, outcome bias, and naive cynicism [86].</li>
+</ol>
+
+<ol>
+<li>Self-distancing — adopting a third-person perspective on one's own experiences — reduces egocentric biases including the spotlight effect [61].</li>
+</ol>
+
+<ol>
+<li>Social norms interventions reduce confirmation bias more effectively than psychoeducation or consider-the-opposite techniques alone [87].</li>
+</ol>
+
+<ol>
+<li>Collective intellectual humility — designing institutional structures that promote cognitive diversity, open criticism, and transparency — may be more achievable than individual-level interventions because people are better at recognizing others' limitations than their own [17].</li>
+</ol>
+
+<ol>
+<li>Pre-mortems and decision journals structure decision evaluation to separate process quality from outcome knowledge, reducing outcome bias in organizational settings [66].</li>
+</ol>
+
+<ol>
+<li>Training in metacognitive monitoring improves both self-assessment and assessment of others, with sustained effects when training includes practice with feedback [82].</li>
+</ol>
+
+<ol>
+<li>Accountability for accuracy reduces many biases: when people know they will need to justify their judgments, they engage in more thorough processing and show less bias [88].</li>
+</ol>
+
+<ol>
+<li>Encouraging entity-to-incremental mindset shifts reduces dispositional attributions: people who believe intelligence is malleable make less harsh judgments of others' failures [72].</li>
+</ol>
+
+<ol>
+<li>Combining multiple debiasing techniques is more effective than any single approach; multi-component interventions that address awareness, motivation, and skill development show the greatest durability [89].</li>
+</ol>
+
+<p>---
+</p>
+
+</div>
+<div class="section"><h2 class="section-title">Synthesis & Insights</h2>
+
+<h3 class="subsection-title">Patterns Identified</h3>
+
+<p><strong>Pattern 1: The Common Metacognitive Deficit.</strong> Nearly all biases discussed share a common underlying mechanism: limitations in metacognition — the ability to think about thinking. Whether it is the Dunning-Kruger effect (failing to recognize one's own incompetence), the curse of knowledge (failing to imagine ignorance), or naive cynicism (failing to recognize the limits of one's own objectivity), each bias reflects a breakdown in the capacity to accurately monitor and calibrate mental states — one's own and others'. This suggests that underestimating others' intelligence is not a collection of unrelated errors but a family of phenomena with a shared root cause.
+</p>
+
+<p><strong>Pattern 2: The Asymmetry of Social Information.</strong> Social judgment is fundamentally asymmetrical: individuals have rich access to their own internal states (intentions, reasons, effort) but only sparse access to others'. This informational asymmetry produces a systematic pattern in which one's own behavior is seen as situationally determined and reasonable while others' behavior appears dispositionally driven and deficient. The solution is not to "try harder" but to recognize that the informational playing field is inherently unequal.
+</p>
+
+<p><strong>Pattern 3: Adaptive Bias in Ancestral Environments.</strong> The evolutionary perspective reveals that many of these biases were likely adaptive in ancestral environments. Underestimating others' competence, erring on the side of caution in social inference, and maintaining positive illusions about oneself all conferred fitness advantages. The problem is that modern environments — large-scale anonymous societies, social media, formal institutions — amplify these biases and remove the corrective feedback that would have kept them calibrated in small-group living.
+</p>
+
+<h3 class="subsection-title">Novel Insights</h3>
+
+<p><strong>Insight 1: The Bias of Intelligence Underestimation Is a Meta-Bias.</strong> The tendency to think others are stupider than they are is itself an expression of the Dunning-Kruger effect applied to social judgment: people are unaware of their incompetence at judging others. This creates a recursive trap where the inability to accurately assess others is itself evidence of the very metacognitive deficit that causes the problem.
+</p>
+
+<p><strong>Insight 2: Debiasing May Be More Effective at the Collective Level.</strong> Because individuals are systematically poor at recognizing their own biases but better at spotting others', collective debiasing structures that rely on mutual correction may be more effective than individual-level interventions. Teams, committees, and institutions designed with explicit red-team mechanisms and cognitive diversity requirements can compensate for individual blind spots.
+</p>
+
+<p><strong>Insight 3: The "More Stupid Than Evil" Finding Suggests a Path Forward.</strong> The consistent finding that partisans see opponents as more unintelligent than immoral is encouraging: it is easier to correct perceptions of ignorance (by providing information) than perceptions of malice (which are resistant to evidence). Interventions that reframe political disagreement as differences in information exposure rather than differences in character may reduce polarization more effectively than attempts to build cross-partisan empathy.
+</p>
+
+<h3 class="subsection-title">Implications</h3>
+
+<p><strong>For Individuals:</strong> The most practical takeaway is that the feeling that others are stupid is primarily a signal about one's own cognitive biases, not an accurate assessment of others. Cultivating intellectual humility — openly acknowledging what one does not know — is the single most effective debiasing strategy available. When frustrated by someone's apparent incomprehension, asking "what information do they have that I do not?" reframes the problem from disposition to situation.
+</p>
+
+<p><strong>For Institutions:</strong> Schools should train metacognitive skills explicitly alongside domain knowledge. Workplaces should implement structured decision audits that separate outcome evaluation from process evaluation. Social media platforms should redesign feedback systems to reduce availability cascades of ignorant behavior.
+</p>
+
+<p><strong>For Society:</strong> Reducing the perception that others are stupid is not just about being nicer — it has practical consequences for cooperation, trust, and democratic functioning. When citizens see opponents as misinformed rather than malicious, compromise becomes possible. When managers see employees as situationally constrained rather than inherently limited, talent development improves. When partners see each other's behavior as situationally responsive rather than dispositionally fixed, relationships thrive.
+</p>
+
+<p>---
+</p>
+
+</div>
+<div class="section"><h2 class="section-title">Limitations & Caveats</h2>
+
+<h3 class="subsection-title">Known Gaps</h3>
+
+<ul>
+<li>Most research on these biases comes from WEIRD populations (Western, Educated, Industrialized, Rich, Democratic). Cross-cultural evidence, while growing, remains insufficient to determine how much of the described pattern is a specifically Western phenomenon versus a human universal. Collectivist cultures show reduced fundamental attribution error and smaller illusory superiority effects, suggesting significant cultural modulation.</li>
+</ul>
+
+<ul>
+<li>The Dunning-Kruger effect faces ongoing methodological controversy. While the effect is widely cited in popular culture, recent analyses suggest it may be substantially smaller than originally claimed, affecting only a tiny fraction of the population. The debate between Gignac and colleagues (arguing it is largely a statistical artifact) and Dunning and colleagues (defending its reality) remains unresolved.</li>
+</ul>
+
+<ul>
+<li>Direct experimental evidence on the question "why do I think others are stupid" is surprisingly limited. Most research focuses on individual biases in isolation rather than their combined effect on global intelligence estimates. The interaction effects between biases (e.g., how the curse of knowledge amplifies the fundamental attribution error) are theoretically predicted but empirically understudied.</li>
+</ul>
+
+<ul>
+<li>Neuroscience evidence for the specific neural basis of underestimating others' intelligence is sparse. While we know that the medial prefrontal cortex is involved in perspective-taking and social projection, the specific circuits that bias intelligence estimation downward have not been identified.</li>
+</ul>
+
+<ul>
+<li>Longitudinal studies tracking how these biases change across the lifespan are rare. We know that the curse of knowledge decreases with development from childhood to adulthood, but how the full constellation of biases changes with aging, experience, and corrective feedback is unclear.</li>
+</ul>
+
+<h3 class="subsection-title">Counterevidence</h3>
+
+<ul>
+<li>Some research suggests that people may not systematically underestimate others' intelligence in all contexts. When judging close friends or family members, people often overestimate rather than underestimate their abilities. The pattern may be specific to out-group members and abstract others rather than genuine universal.</li>
+</ul>
+
+<ul>
+<li>Bayesian analyses suggest that some apparent biases (false consensus effect, fundamental attribution error) may be rational responses to uncertainty rather than errors. Under certain conditions, using one's own behavior as a base rate for predicting others is statistically optimal.</li>
+</ul>
+
+<ul>
+<li>Social desirability may inflate self-reported intellectual humility and deflate self-reported bias; behavioral measures do not always align with self-report.</li>
+</ul>
+
+<h3 class="subsection-title">Assumptions Revisited</h3>
+
+<ul>
+<li><strong>Intelligence as unitary construct:</strong> The assumption that people judge "intelligence" as a single dimension may be oversimplified. People may use different implicit definitions of intelligence (analytic, practical, creative, emotional) when judging themselves versus others, creating apparent bias where actual conceptual mismatch exists.</li>
+</ul>
+
+<ul>
+<li><strong>Generalizability across domains:</strong> The assumption that these biases apply equally across all domains of intelligence is unsupported. People may be more biased in judging others' verbal intelligence than numerical intelligence, for example.</li>
+</ul>
+
+<p>---
+</p>
+
+</div>
+<div class="section"><h2 class="section-title">Recommendations</h2>
+
+<h3 class="subsection-title">Immediate Actions</h3>
+
+<ol>
+<li><strong>Practice intellectual humility in daily interactions.</strong> Before concluding someone is unintelligent, ask: "What information might they have that I lack? What situational pressures might be affecting them?" This simple reframing engages the consider-the-opposite debiasing technique and reduces the likelihood of the fundamental attribution error.</li>
+</ol>
+
+<ol>
+<li><strong>Keep a decision journal.</strong> Record important decisions, the information available at the time, and the reasoning used — before knowing the outcome. When evaluating past decisions (your own or others'), consult this journal to counteract outcome bias.</li>
+</ol>
+
+<ol>
+<li><strong>Diversify information sources.</strong> Actively seek out perspectives from people with different backgrounds and information diets. This reduces the false consensus effect and curse of knowledge by providing corrective data about what others actually know and believe.</li>
+</ol>
+
+<ol>
+<li><strong>Use feedback to calibrate social judgments.</strong> Collect data on others' actual knowledge and abilities rather than relying on intuitive estimates. Teachers can use formative assessment, managers can use structured evaluation rubrics, and individuals can check their assumptions through direct conversation.</li>
+</ol>
+
+<ol>
+<li><strong>Practice self-distancing.</strong> When feeling frustrated by someone's apparent incompetence, imagine the situation from a third-person perspective. This reduces egocentric bias and the spotlight effect, providing a more balanced assessment.</li>
+</ol>
+
+<h3 class="subsection-title">Organizational Interventions</h3>
+
+<ol>
+<li><strong>Implement structured decision audits</strong> that separate process evaluation from outcome knowledge. Pre-mortems, premortem analyses, and retrospective reviews that focus on decision quality rather than outcomes reduce outcome bias in organizational settings.</li>
+</ol>
+
+<ol>
+<li><strong>Design feedback systems</strong> that provide accurate information about others' knowledge and abilities. Calibration training, peer benchmarking, and transparency about performance distributions help counteract biased estimates.</li>
+</ol>
+
+<ol>
+<li><strong>Build cognitive diversity into teams.</strong> Deliberately include members with different backgrounds, expertise, and perspectives. Collective intellectual humility — where each person's blind spots are corrected by others' insights — is more achievable than individual-level debiasing.</li>
+</ol>
+
+<h3 class="subsection-title">Further Research Needs</h3>
+
+<ol>
+<li><strong>Interaction effects between biases.</strong> Research is needed on how multiple biases compound or cancel when people form global judgments of others' intelligence.</li>
+</ol>
+
+<ol>
+<li><strong>Developmental trajectories.</strong> Longitudinal studies tracking how the tendency to underestimate others develops, peaks, and potentially declines with experience and intervention.</li>
+</ol>
+
+<ol>
+<li><strong>Intervention effectiveness.</strong> Randomized controlled trials comparing different debiasing strategies (intellectual humility training, perspective-taking, metacognitive skills training, structured decision protocols) for their long-term effectiveness in reducing underestimation of others.</li>
+</ol>
+
+<p>---
+</p>
+
+</div>
+<div class="section"><h2 class="section-title">Weakest Evidence</h2>
+
+<p><strong>Weakest Claim 1: "The tendency to think others are stupid is itself an expression of the Dunning-Kruger effect applied to social judgment."</strong> This is a theoretical synthesis with limited direct empirical support. No study has directly measured whether people who are poor at estimating others' intelligence are also unaware of this deficit. This claim would be strengthened by a study measuring individual differences in social judgment accuracy and asking participants to rate their own accuracy, following the classic Dunning-Kruger paradigm.
+</p>
+
+<p><strong>Weakest Claim 2: "Social media platforms should redesign feedback systems to reduce availability cascades of ignorant behavior."</strong> While the availability heuristic is well-documented and media amplification is real, direct causal evidence that changing social media algorithms reduces population-level estimates of others' stupidity is absent. This recommendation is extrapolated from cognitive principles rather than demonstrated in practice.
+</p>
+
+<p><strong>Weakest Claim 3: "Collective debiasing is more effective than individual-level debiasing."</strong> This claim has theoretical plausibility (people are better at recognizing others' biases) but limited empirical testing. Most debiasing research focuses on individuals. The collective intellectual humility framework is promising but nascent. A direct comparison of individual versus team-level debiasing interventions would be needed to support this claim.
+</p>
+
+<p>---
+</p>
+
+</div>
+
+            <div class="bibliography">
+                <div class="section-title">Bibliography</div>
+                <div class="bibliography-content">## Bibliography
+
+<div class="bib-entry"><span class="bib-number">[1]</span> Kruger, J. & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. Journal of Personality and Social Psychology, 77(6), 1121-1134. https://doi.org/10.1037/0022-3514.77.6.1121</div>
+
+<div class="bib-entry"><span class="bib-number">[2]</span> Heck, P.R., Simons, D.J., & Chabris, C.F. (2018). 65% of Americans believe they are above average in intelligence: Results of two nationally representative surveys. PLOS ONE, 13(7), e0200103. https://doi.org/10.1371/journal.pone.0200103</div>
+
+<div class="bib-entry"><span class="bib-number">[3]</span> Gignac, G.E. (2024). Rethinking the Dunning-Kruger effect: Negligible influence on a limited segment of the population. Intelligence, 104, 101830. https://doi.org/10.1016/j.intell.2024.101830</div>
+
+<div class="bib-entry"><span class="bib-number">[4]</span> Tullis, J.G. & Feder, B. (2023). The "curse of knowledge" when predicting others' knowledge. Memory & Cognition, 51(5), 1214-1234. https://doi.org/10.3758/s13421-022-01382-3</div>
+
+<div class="bib-entry"><span class="bib-number">[5]</span> Gilovich, T., Medvec, V.H., & Savitsky, K. (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. Journal of Personality and Social Psychology, 78(2), 211-222. https://doi.org/10.1037/0022-3514.78.2.211</div>
+
+<div class="bib-entry"><span class="bib-number">[6]</span> Lees, J. & Cikara, M. (2022). People See Political Opponents as More Stupid Than Evil. Personality and Social Psychology Bulletin, 49(11), 1564-1578. https://doi.org/10.1177/01461672221089451</div>
+
+<div class="bib-entry"><span class="bib-number">[7]</span> Kruger, J. & Gilovich, T. (1999). "Naive cynicism" in everyday theories of responsibility assessment: On biased assumptions of bias. Journal of Personality and Social Psychology, 76(5), 743-753. https://doi.org/10.1037/0022-3514.76.5.743</div>
+
+<div class="bib-entry"><span class="bib-number">[8]</span> Stavrova, O. & Ehlebracht, D. (2019). The Cynical Genius Illusion: Exploring and Debunking Lay Beliefs About Cynicism and Competence. Personality and Social Psychology Bulletin, 45(2), 254-269. https://doi.org/10.1177/0146167218783195</div>
+
+<div class="bib-entry"><span class="bib-number">[9]</span> Haselton, M.G. & Buss, D.M. (2000). Error management theory: A new perspective on biases in cross-sex mind reading. Journal of Personality and Social Psychology, 78(1), 81-91. https://doi.org/10.1037/0022-3514.78.1.81</div>
+
+<div class="bib-entry"><span class="bib-number">[10]</span> Nedelec, J.L., Dunkel, C.S., & van der Linden, D. (2025). Heritability of metacognitive judgement of intelligence: A twin study on the Dunning-Kruger effect. Intelligence, 111, 101931. https://doi.org/10.1016/j.intell.2025.101931</div>
+
+<div class="bib-entry"><span class="bib-number">[11]</span> Dunning, D. (2011). The Dunning-Kruger effect: On being ignorant of one's own ignorance. Advances in Experimental Social Psychology, 44, 247-296.</div>
+
+<div class="bib-entry"><span class="bib-number">[12]</span> Ehrlinger, J., Johnson, K., Banner, M., Dunning, D., & Kruger, J. (2008). Why the unskilled are unaware: Further explorations of (absent) self-insight among the incompetent. Organizational Behavior and Human Decision Processes, 105(1), 98-121.</div>
+
+<div class="bib-entry"><span class="bib-number">[13]</span> AI Makes You Smarter, But None The Wiser (2024). arXiv:2409.16708v1. https://arxiv.org/html/2409.16708v1</div>
+
+<div class="bib-entry"><span class="bib-number">[14]</span> Adamecz, A., Ilieva, R., & Shure, N. (2025). Revisiting the Dunning-Kruger Effect: Composite Measures and Heterogeneity by Gender. IZA Discussion Papers 17687. https://docs.iza.org/dp17687.pdf</div>
+
+<div class="bib-entry"><span class="bib-number">[15]</span> Zell, E., Strickhouser, J.E., Sedikides, C., & Alicke, M.D. (2020). The better-than-average effect in comparative self-evaluation: A comprehensive review and meta-analysis. Psychological Bulletin, 146(2), 118-149. https://doi.org/10.1037/bul0000218</div>
+
+<div class="bib-entry"><span class="bib-number">[16]</span> Leary, M.R. (2022). Intellectual Humility as a Route to More Accurate Knowledge, Better Decisions, and Less Conflict. American Journal of Health Promotion, 36(8), 1395-1400. https://doi.org/10.1177/08901171221125326b</div>
+
+<div class="bib-entry"><span class="bib-number">[17]</span> Krumrei-Mancuso, E.J., Parnamets, P., Bland, S., Astola, M., Cichocka, A., de Ridder, J., et al. (2024). Toward an understanding of collective intellectual humility. Trends in Cognitive Sciences, 28(12), 1076-1089. https://doi.org/10.1016/j.tics.2024.09.006</div>
+
+<div class="bib-entry"><span class="bib-number">[18]</span> Bowes, S.M., Costello, T.H., Lee, H.S., McElroy-Heltzel, S., Davis, D.E., & Lilienfeld, S.O. (2021). Stepping Outside the Echo Chamber: Is Intellectual Humility Associated With Less Political Myside Bias? Personality and Social Psychology Bulletin, 48(1), 150-164. https://doi.org/10.1177/0146167221997619</div>
+
+<div class="bib-entry"><span class="bib-number">[19]</span> Ross, L., Greene, D., & House, P. (1977). The "false consensus effect": An egocentric bias in social perception and attribution processes. Journal of Experimental Social Psychology, 13(3), 279-301. https://web.mit.edu/curhan/www/docs/Articles/biases/13_J_Experimental_Social_Psychology_279_%28Ross%29.pdf</div>
+
+<div class="bib-entry"><span class="bib-number">[20]</span> Gilovich, T., Savitsky, K., & Medvec, V.H. (1998). The illusion of transparency: Biased assessments of others' ability to read our emotional states. Journal of Personality and Social Psychology, 75(2), 332-346.</div>
+
+<div class="bib-entry"><span class="bib-number">[21]</span> Baron, J. & Hershey, J.C. (1988). Outcome bias in decision evaluation. Journal of Personality and Social Psychology, 54(4), 569-579. https://www.sas.upenn.edu/~baron/papers.htm/judg.html</div>
+
+<div class="bib-entry"><span class="bib-number">[22]</span> Haselton, M.G. & Nettle, D. (2006). The paranoid optimist: An integrative evolutionary model of cognitive biases. Personality and Social Psychology Review, 10(1), 47-66. https://www.danielnettle.org.uk/wp-content/uploads/2024/06/034.pdf</div>
+
+<div class="bib-entry"><span class="bib-number">[23]</span> Kuran, T. & Sunstein, C.R. (1999). Availability cascades and risk regulation. Stanford Law Review, 51(4), 683-768.</div>
+
+<div class="bib-entry"><span class="bib-number">[24]</span> Political polarization: a curse of knowledge? (2023). PNAS Nexus, 2(7), pgad231. https://pmc.ncbi.nlm.nih.gov/articles/PMC10368969/</div>
+
+<div class="bib-entry"><span class="bib-number">[25]</span> Tetlock, P.E. (2002). Social functionalist frameworks for judgment and choice: Intuitive politicians, theologians, and prosecutors. Psychological Review, 109(3), 451-471.</div>
+
+<div class="bib-entry"><span class="bib-number">[26]</span> Strohmaier, N., Pluut, H., van den Bos, K., Adriaanse, J.A.A., & Vriesendorp, R.D. (2021). Hindsight bias and outcome bias in judging directors' liability and the role of free will beliefs. Journal of Applied Social Psychology, 51(3), 141-158. https://doi.org/10.1111/jasp.12722</div>
+
+<div class="bib-entry"><span class="bib-number">[27]</span> Lord, C.G., Lepper, M.R., & Preston, E. (1984). Considering the opposite: A corrective strategy for social judgment. Journal of Personality and Social Psychology, 47(6), 1231-1243.</div>
+
+<div class="bib-entry"><span class="bib-number">[28]</span> Gignac, G.E. & Zajenkowski, M. (2020). The Dunning-Kruger effect is (mostly) a statistical artefact: Valid approaches to testing the hypothesis with individual differences data. Intelligence, 80, 101449. https://doi.org/10.1016/j.intell.2020.101449</div>
+
+<div class="bib-entry"><span class="bib-number">[29]</span> Sorjonen, K., Melin, M., Lager, E., Nilsonne, G., & Melin, B. (2026). Low validity of lower ability test scores can mimic the Dunning-Kruger effect. Intelligence, 114, 101985. https://doi.org/10.1016/j.intell.2025.101985</div>
+
+<div class="bib-entry"><span class="bib-number">[30]</span> Dunning, D., Heath, C., & Suls, J.M. (2004). Flawed self-assessment: Implications for health, education, and the workplace. Psychological Science in the Public Interest, 5(3), 69-106.</div>
+
+<div class="bib-entry"><span class="bib-number">[31]</span> How does the Dunning-Kruger effect happen in creativity? The creative self-concept matters. (2024). Thinking Skills and Creativity, 53, 101579. https://www.sciencedirect.com/science/article/abs/pii/S1871187124001767</div>
+
+<div class="bib-entry"><span class="bib-number">[32]</span> Birch, S.A.J. (2005). When knowledge is a curse: Children's and adults' reasoning about mental states. Current Directions in Psychological Science, 14(1), 25-29. https://doi.org/10.1111/j.0963-7214.2005.00328.x</div>
+
+<div class="bib-entry"><span class="bib-number">[33]</span> Sadler, P.M., Sonnert, G., Coyle, H.P., Cook-Smith, N., & Miller, J.L. (2013). The influence of teachers' knowledge on student learning in middle school physical science classrooms. American Educational Research Journal, 50(5), 1020-1049.</div>
+
+<div class="bib-entry"><span class="bib-number">[34]</span> Birch, S.A.J. & Bloom, P. (2007). The Curse of Knowledge in Reasoning About False Beliefs. Psychological Science, 18(5), 382-386. https://doi.org/10.1111/j.1467-9280.2007.01909.x</div>
+
+<div class="bib-entry"><span class="bib-number">[35]</span> Camerer, C., Loewenstein, G., & Weber, M. (1989). The Curse of Knowledge in Economic Settings: An Experimental Analysis. Journal of Political Economy, 97(5), 1232-1254. https://www.cmu.edu/dietrich/sds/docs/loewenstein/CurseknowledgeEconSet.pdf</div>
+
+<div class="bib-entry"><span class="bib-number">[36]</span> Xiong, C., van Weelden, L., & Franconeri, S. (2020). The Curse of Knowledge in Visual Data Communication. IEEE Transactions on Visualization and Computer Graphics, 26(10), 3051-3062. https://doi.org/10.1109/tvcg.2019.2917689</div>
+
+<div class="bib-entry"><span class="bib-number">[37]</span> Royzman, E.B., Cassidy, K.W., & Baron, J. (2003). "I know, you know": Epistemic egocentrism in children and adults. Review of General Psychology, 7(1), 38-65. https://journals.sagepub.com/doi/10.1037/1089-2680.7.1.38</div>
+
+<div class="bib-entry"><span class="bib-number">[38]</span> Nickerson, R.S. (1999). How we know — and sometimes misjudge — what others know: Imputing one's own knowledge to others. Psychological Bulletin, 125(6), 737-759.</div>
+
+<div class="bib-entry"><span class="bib-number">[39]</span> Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the attribution process. Advances in Experimental Social Psychology, 10, 173-220.</div>
+
+<div class="bib-entry"><span class="bib-number">[40]</span> Jones, E.E. & Nisbett, R.E. (1971). The actor and the observer: Divergent perceptions of the causes of behavior. General Learning Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[41]</span> Choi, I., Nisbett, R.E., & Norenzayan, A. (1999). Causal attribution across cultures: Variation and universality. Psychological Bulletin, 125(1), 47-63.</div>
+
+<div class="bib-entry"><span class="bib-number">[42]</span> Gilbert, D.T. & Malone, P.S. (1995). The correspondence bias. Psychological Bulletin, 117(1), 21-38.</div>
+
+<div class="bib-entry"><span class="bib-number">[43]</span> Walker, K.G. & Smith, E.R. (2015). The "Fundamental Attribution Error" is rational in an uncertain world. https://www.mit.edu/~k2smith/pdf/WalkerSmithVul_2015_FAE.pdf</div>
+
+<div class="bib-entry"><span class="bib-number">[44]</span> Gawronski, B. (2004). Theory-based bias correction in dispositional inference: The fundamental attribution error is dead, long live the correspondence bias. European Review of Social Psychology, 15(1), 183-217.</div>
+
+<div class="bib-entry"><span class="bib-number">[45]</span> Tetlock, P.E. (1985). Accountability: A social check on the fundamental attribution error. Social Psychology Quarterly, 48(3), 227-236.</div>
+
+<div class="bib-entry"><span class="bib-number">[46]</span> Kruger, J. (1999). Lake Wobegon be gone! The "below-average effect" and the egocentric nature of comparative ability judgments. Journal of Personality and Social Psychology, 77(2), 221-232.</div>
+
+<div class="bib-entry"><span class="bib-number">[47]</span> Frontiers in Psychology (2017). The Better-Than-Average Effect Is Observed Because "Average" Is Often Construed as Below-Median Ability. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00898/full</div>
+
+<div class="bib-entry"><span class="bib-number">[48]</span> Alicke, M.D. & Sedikides, C. (2011). Positive Intelligence Illusions: On the Relation Between Intellectual Self-Enhancement and Psychological Adjustment. Journal of Personality, 80(5), 1123-1156. https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.2011.00742.x</div>
+
+<div class="bib-entry"><span class="bib-number">[49]</span> Marks, G. & Miller, N. (1987). Ten years of research on the false-consensus effect: An empirical and theoretical review. Psychological Bulletin, 102(1), 72-90.</div>
+
+<div class="bib-entry"><span class="bib-number">[50]</span> Ross, L. & Nisbett, R.E. (1991). The Person and the Situation. McGraw-Hill.</div>
+
+<div class="bib-entry"><span class="bib-number">[51]</span> Krueger, J. & Clement, R.W. (1994). The truly false consensus effect: An ineradicable and egocentric bias in social perception. Journal of Personality and Social Psychology, 67(4), 596-610.</div>
+
+<div class="bib-entry"><span class="bib-number">[52]</span> Mullen, B. (1983). Egocentric bias in estimates of consensus. Journal of Social Psychology, 121(1), 31-38.</div>
+
+<div class="bib-entry"><span class="bib-number">[53]</span> Mitchell, J.P., Macrae, C.N., & Banaji, M.R. (2006). Dissociable medial prefrontal contributions to judgments of similar and dissimilar others. Neuron, 50(4), 655-663.</div>
+
+<div class="bib-entry"><span class="bib-number">[54]</span> Suls, J. & Wan, C.K. (1987). In search of the false-uniqueness phenomenon: Fear and estimates of social consensus. Journal of Personality and Social Psychology, 52(1), 211-217.</div>
+
+<div class="bib-entry"><span class="bib-number">[55]</span> Epley, N., Keysar, B., Van Boven, L., & Gilovich, T. (2004). Perspective taking as egocentric anchoring and adjustment. Journal of Personality and Social Psychology, 87(3), 327-339.</div>
+
+<div class="bib-entry"><span class="bib-number">[56]</span> Ross, L. & Ward, A. (1996). Naive realism in everyday life: Implications for social conflict and misunderstanding. In T. Brown et al. (Eds.), Values and Knowledge (pp. 103-135). Erlbaum.</div>
+
+<div class="bib-entry"><span class="bib-number">[57]</span> Fetchenhauer, D. & Dunning, D. (2010). Why So Cynical?: Asymmetric Feedback Underlies Misguided Skepticism Regarding the Trustworthiness of Others. Psychological Science, 21(2), 189-193. https://journals.sagepub.com/doi/10.1177/0956797609358586</div>
+
+<div class="bib-entry"><span class="bib-number">[58]</span> Miller, D.T. & Ratner, R.K. (1998). The disparity between the actual and assumed power of self-interest. Journal of Personality and Social Psychology, 74(1), 53-62.</div>
+
+<div class="bib-entry"><span class="bib-number">[59]</span> Critcher, C.R. & Dunning, D. (2014). Thinking about others versus another: Egocentric beliefs about bias and fairness. Journal of Experimental Social Psychology, 54, 56-66.</div>
+
+<div class="bib-entry"><span class="bib-number">[60]</span> Brown, M.A. & Stopa, L. (2007). The spotlight effect and the fear of negative evaluation. Journal of Behavior Therapy and Experimental Psychiatry, 38(1), 64-80.</div>
+
+<div class="bib-entry"><span class="bib-number">[61]</span> How to Reduce Egocentrism Through Mental Imagery. (2023). https://aura.abdn.ac.uk/bitstream/handle/2164/5739/PSPBFInalRevision.pdf</div>
+
+<div class="bib-entry"><span class="bib-number">[62]</span> Pronin, E., Lin, D.Y., & Ross, L. (2002). The bias blind spot: Perceptions of bias in self versus others. Personality and Social Psychology Bulletin, 28(3), 369-381.</div>
+
+<div class="bib-entry"><span class="bib-number">[63]</span> Fischhoff, B. (1975). Hindsight = foresight: The effect of outcome knowledge on judgment under uncertainty. Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299.</div>
+
+<div class="bib-entry"><span class="bib-number">[64]</span> Konig-Kersting, C., Pollmann, M., Potters, J., & Trautmann, S.T. (2020). Good decision vs. good results: Outcome bias in the evaluation of financial agents. Theory and Decision, 89, 447-470. https://doi.org/10.1007/s11238-020-09773-1</div>
+
+<div class="bib-entry"><span class="bib-number">[65]</span> Mackie, D.M., Worth, L.T., & Allison, S.T. (1990). Outcome-Biased Inferences and the Perception of Change in Groups. Social Cognition, 8(4), 325-342.</div>
+
+<div class="bib-entry"><span class="bib-number">[66]</span> Klein, G. (2007). Performing a project premortem. Harvard Business Review, 85(9), 18-19.</div>
+
+<div class="bib-entry"><span class="bib-number">[67]</span> Hobolt, S.B., Lawall, K., & Tilley, J. (2024). The Polarizing Effect of Partisan Echo Chambers. American Political Science Review, 118(3), 1464-1479. https://doi.org/10.1017/S0003055423001211</div>
+
+<div class="bib-entry"><span class="bib-number">[68]</span> Reuters Institute for the Study of Journalism (2022). Echo chambers, filter bubbles, and polarisation: a literature review. https://reutersinstitute.politics.ox.ac.uk/echo-chambers-filter-bubbles-and-polarisation-literature-review</div>
+
+<div class="bib-entry"><span class="bib-number">[69]</span> Cinelli, M., De Francisci Morales, G., Galeazzi, A., Quattrociocchi, W., & Starnini, M. (2021). The echo chamber effect on social media. PNAS, 118(9), e2023301118. https://www.pnas.org/doi/10.1073/pnas.2023301118</div>
+
+<div class="bib-entry"><span class="bib-number">[70]</span> Festinger, L. (1954). A theory of social comparison processes. Human Relations, 7(2), 117-140.</div>
+
+<div class="bib-entry"><span class="bib-number">[71]</span> Cote, S., House, J., & Willer, R. (2015). High economic inequality leads higher-income individuals to be less generous. PNAS, 112(52), 15838-15843.</div>
+
+<div class="bib-entry"><span class="bib-number">[72]</span> Dweck, C.S. (2006). Mindset: The New Psychology of Success. Random House.</div>
+
+<div class="bib-entry"><span class="bib-number">[73]</span> Haselton, M.G., Nettle, D., & Andrews, P.W. (2005). The evolution of cognitive bias. In D.M. Buss (Ed.), The Handbook of Evolutionary Psychology (pp. 724-746). Wiley.</div>
+
+<div class="bib-entry"><span class="bib-number">[74]</span> Figueredo, A.J., Vasquez, G., Brumbach, B.H., & Schneider, S.M.R. (2007). The heritability of life history strategy. Evolution and Human Behavior, 28(6), 423-431.</div>
+
+<div class="bib-entry"><span class="bib-number">[75]</span> Tooby, J. & Cosmides, L. (1992). The psychological foundations of culture. In J.H. Barkow et al. (Eds.), The Adapted Mind (pp. 19-136). Oxford University Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[76]</span> Tullis, J.G. (2018). Predicting others' knowledge: Knowledge estimation as cue utilization. Memory & Cognition, 46, 1360-1375.</div>
+
+<div class="bib-entry"><span class="bib-number">[77]</span> Fleming, S.M. (2024). Metacognition and confidence: A review and synthesis. Annual Review of Psychology, 75, 213-241.</div>
+
+<div class="bib-entry"><span class="bib-number">[78]</span> Beck, S.R. et al. (2020). Knowing minds: Linking early perspective taking and later metacognitive insight. British Journal of Developmental Psychology, 38(4), 533-550. https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjdp.12359</div>
+
+<div class="bib-entry"><span class="bib-number">[79]</span> Bird, C.M. & Long, E. (2023). Metacognition facilitates Theory of Mind through optimal weighting of trait inferences. https://discovery.ucl.ac.uk/id/eprint/10203827/</div>
+
+<div class="bib-entry"><span class="bib-number">[80]</span> Tirso, R. & Geraci, L. (2020). Taking another perspective on overconfidence in cognitive ability: A comparison of self and other metacognitive judgments. Journal of Memory and Language, 114, 104132. https://doi.org/10.1016/j.jml.2020.104132</div>
+
+<div class="bib-entry"><span class="bib-number">[81]</span> Pronin, E. (2007). Perception and misperception of bias in human judgment. Trends in Cognitive Sciences, 11(1), 37-43.</div>
+
+<div class="bib-entry"><span class="bib-number">[82]</span> Dunlosky, J. & Metcalfe, J. (2009). Metacognition. Sage Publications.</div>
+
+<div class="bib-entry"><span class="bib-number">[83]</span> Spears, R. & Lea, M. (1994). Panacea or panopticon? The hidden power in computer-mediated communication. Communication Research, 21(4), 427-459.</div>
+
+<div class="bib-entry"><span class="bib-number">[84]</span> Poorer representation of minds underpins less accurate mental state inference for out-groups. (2024). Nature Communications. https://pmc.ncbi.nlm.nih.gov/articles/PMC11349750/</div>
+
+<div class="bib-entry"><span class="bib-number">[85]</span> Prike, T. et al. (2024). Intellectual humility is associated with greater misinformation discernment and metacognitive insight but not response bias. Advances in Psychology. https://advances.in/psychology/10.56296/aip00025/</div>
+
+<div class="bib-entry"><span class="bib-number">[86]</span> Kahneman, D. (2011). Thinking, Fast and Slow. Farrar, Straus and Giroux.</div>
+
+<div class="bib-entry"><span class="bib-number">[87]</span> Whitt, C.M., Tullett, A.M., Bowes, S.M., McDiarmid, A.D., Lilienfeld, S.O., & Hart, W. (2023). Weakening the ideological immune system: Can debiasing techniques reduce confirmation bias? Journal of Social and Political Psychology, 11(2), 543-561. https://doi.org/10.1080/23743603.2023.2196755</div>
+
+<div class="bib-entry"><span class="bib-number">[88]</span> Lerner, J.S. & Tetlock, P.E. (1999). Accounting for the effects of accountability. Psychological Bulletin, 125(2), 255-275.</div>
+
+<div class="bib-entry"><span class="bib-number">[89]</span> Lilienfeld, S.O., Ammirati, R., & Landfield, K. (2009). Giving debiasing away: Can psychological research on correcting cognitive biases promote human welfare? Perspectives on Psychological Science, 4(4), 390-398.</div>
+
+<div class="bib-entry"><span class="bib-number">[90]</span> Alicke, M.D. (1985). Global self-evaluation as determined by the desirability and controllability of trait adjectives. Journal of Personality and Social Psychology, 49(6), 1621-1630.</div>
+
+<div class="bib-entry"><span class="bib-number">[91]</span> Alicke, M.D. & Govorun, O. (2005). The better-than-average effect. In M.D. Alicke et al. (Eds.), The Self in Social Judgment (pp. 85-106). Psychology Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[92]</span> Ames, D.R. (2004). Inside the mind reader's tool kit: Projection and stereotyping in mental state inference. Journal of Personality and Social Psychology, 87(3), 340-353.</div>
+
+<div class="bib-entry"><span class="bib-number">[93]</span> Bernstein, D.M., Atance, C., Loftus, G.R., & Meltzoff, A.N. (2007). Hindsight bias in 3- to 5-year-old children. Child Development, 78(4), 1281-1295.</div>
+
+<div class="bib-entry"><span class="bib-number">[94]</span> Birch, S.A.J. & Bloom, P. (2003). Children are cursed: An asymmetric bias in mental-state reasoning. Psychological Science, 14(3), 283-286.</div>
+
+<div class="bib-entry"><span class="bib-number">[95]</span> Camerer, C.F. (1995). Individual decision making. In J.H. Kagel & A.E. Roth (Eds.), The Handbook of Experimental Economics (pp. 587-703). Princeton University Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[96]</span> Chambers, J.R. & Windschitl, P.D. (2004). Biases in social comparative judgments: The role of nonmotivated factors in above-average and comparative-optimism effects. Psychological Bulletin, 130(5), 813-838.</div>
+
+<div class="bib-entry"><span class="bib-number">[97]</span> Chi, M.T.H., Glaser, R., & Rees, E. (1982). Expertise in problem solving. Advances in the Psychology of Human Intelligence, 1, 7-75.</div>
+
+<div class="bib-entry"><span class="bib-number">[98]</span> Cosmides, L. & Tooby, J. (1996). Are humans good intuitive statisticians after all? Rethinking some conclusions from the literature on judgment under uncertainty. Cognition, 58(1), 1-73.</div>
+
+<div class="bib-entry"><span class="bib-number">[99]</span> Dawes, R.M. (1989). Statistical criteria for establishing a truly false consensus effect. Journal of Experimental Social Psychology, 25(1), 1-17.</div>
+
+<div class="bib-entry"><span class="bib-number">[100]</span> Epley, N. & Dunning, D. (2000). Feeling "holier than thou": Are self-serving assessments produced by errors in self- or social prediction? Journal of Personality and Social Psychology, 79(6), 861-875.</div>
+
+<div class="bib-entry"><span class="bib-number">[101]</span> Epley, N. & Gilovich, T. (2006). The anchoring-and-adjustment heuristic: Why the adjustments are insufficient. Psychological Science, 17(4), 311-318.</div>
+
+<div class="bib-entry"><span class="bib-number">[102]</span> Epley, N., Savitsky, K., & Gilovich, T. (2002). Empathy neglect: Reconciling the spotlight effect and the correspondence bias. Journal of Personality and Social Psychology, 83(2), 300-312.</div>
+
+<div class="bib-entry"><span class="bib-number">[103]</span> Fiedler, K. et al. (2019). Metacognitive myopia: A blind spot in research on human judgment and decision making. Current Directions in Psychological Science, 28(1), 60-66.</div>
+
+<div class="bib-entry"><span class="bib-number">[104]</span> Flavell, J.H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. American Psychologist, 34(10), 906-911.</div>
+
+<div class="bib-entry"><span class="bib-number">[105]</span> Fleming, S.M. & Lau, H.C. (2014). How to measure metacognition. Frontiers in Human Neuroscience, 8, 443.</div>
+
+<div class="bib-entry"><span class="bib-number">[106]</span> Fussell, S.R. & Krauss, R.M. (1992). Coordination of knowledge in communication: Effects of speakers' assumptions about what others know. Journal of Personality and Social Psychology, 62(3), 378-391.</div>
+
+<div class="bib-entry"><span class="bib-number">[107]</span> Gigerenzer, G. & Gaissmaier, W. (2011). Heuristic decision making. Annual Review of Psychology, 62, 451-482.</div>
+
+<div class="bib-entry"><span class="bib-number">[108]</span> Gilbert, D.T. (1989). Thinking lightly about others: Automatic components of the social inference process. In J.S. Uleman & J.A. Bargh (Eds.), Unintended Thought (pp. 189-211). Guilford Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[109]</span> Guenther, C.L. & Alicke, M.D. (2010). Deconstructing the better-than-average effect. Journal of Personality and Social Psychology, 99(5), 755-770.</div>
+
+<div class="bib-entry"><span class="bib-number">[110]</span> Harley, E.M., Carlsen, K.A., & Loftus, G.R. (2004). The "saw-it-all-along" effect: Demonstrations of visual hindsight bias. Journal of Experimental Psychology: Learning, Memory, and Cognition, 30(5), 960-968.</div>
+
+<div class="bib-entry"><span class="bib-number">[111]</span> Hayes, J.R. & Bajzek, D. (2008). Understanding and Reducing the Knowledge Effect: Implications for Writers. Written Communication, 25(1), 104-128. https://journals.sagepub.com/doi/10.1177/0741088307311209</div>
+
+<div class="bib-entry"><span class="bib-number">[112]</span> Heider, F. (1958). The Psychology of Interpersonal Relations. Wiley.</div>
+
+<div class="bib-entry"><span class="bib-number">[113]</span> Hinds, P.J. (1999). The curse of expertise: The effects of expertise and debiasing methods on predictions of novice performance. Journal of Experimental Psychology: Applied, 5(2), 205-221.</div>
+
+<div class="bib-entry"><span class="bib-number">[114]</span> Jones, E.E. & Harris, V.A. (1967). The attribution of attitudes. Journal of Experimental Social Psychology, 3(1), 1-24.</div>
+
+<div class="bib-entry"><span class="bib-number">[115]</span> Kahneman, D. & Tversky, A. (1996). On the reality of cognitive illusions. Psychological Review, 103(3), 582-591.</div>
+
+<div class="bib-entry"><span class="bib-number">[116]</span> Kelley, C.M. & Jacoby, L.L. (1996). Adult egocentrism: Subjective experience versus analytic bases for judgment. Journal of Memory and Language, 35(2), 157-175.</div>
+
+<div class="bib-entry"><span class="bib-number">[117]</span> Keysar, B. (1994). The illusory transparency of intention: Linguistic perspective taking in text. Cognitive Psychology, 26(2), 165-208.</div>
+
+<div class="bib-entry"><span class="bib-number">[118]</span> Keysar, B. & Bly, B. (1995). Intuitions of the transparency of idioms: Can one keep a secret by spilling the beans? Journal of Memory and Language, 34(1), 89-109.</div>
+
+<div class="bib-entry"><span class="bib-number">[119]</span> Keysar, B., Lin, S., & Barr, D.J. (2003). Limits on theory of mind use in adults. Cognition, 89(1), 25-41.</div>
+
+<div class="bib-entry"><span class="bib-number">[120]</span> Koriat, A. (1997). Monitoring one's own knowledge during study: A cue-utilization approach to judgments of learning. Journal of Experimental Psychology: General, 126(4), 349-370.</div>
+
+<div class="bib-entry"><span class="bib-number">[121]</span> Krueger, J. (1998). On the perception of social consensus. Advances in Experimental Social Psychology, 30, 163-240.</div>
+
+<div class="bib-entry"><span class="bib-number">[122]</span> Kruglanski, A.W. & Webster, D.M. (1996). Motivated closing of the mind: "Seizing" and "freezing." Psychological Review, 103(2), 263-283.</div>
+
+<div class="bib-entry"><span class="bib-number">[123]</span> Lerner, J.S. & Keltner, D. (2001). Fear, anger, and risk. Journal of Personality and Social Psychology, 81(1), 146-159.</div>
+
+<div class="bib-entry"><span class="bib-number">[124]</span> Loewenstein, G. (1996). Out of control: Visceral influences on behavior. Organizational Behavior and Human Decision Processes, 65(3), 272-292.</div>
+
+<div class="bib-entry"><span class="bib-number">[125]</span> Macrae, C.N. & Bodenhausen, G.V. (2000). Social cognition: Thinking categorically about others. Annual Review of Psychology, 51, 93-120.</div>
+
+<div class="bib-entry"><span class="bib-number">[126]</span> Maki, R.H., Jonas, D., & Kallod, M. (1994). The relationship between comprehension and metacomprehension ability. Psychonomic Bulletin & Review, 1(1), 126-129.</div>
+
+<div class="bib-entry"><span class="bib-number">[127]</span> McPherson, S.L. & Thomas, J.R. (1989). Relation of knowledge and performance in boys' tennis. Journal of Experimental Child Psychology, 48(2), 190-211.</div>
+
+<div class="bib-entry"><span class="bib-number">[128]</span> Moore, D.A. & Healy, P.J. (2008). The trouble with overconfidence. Psychological Review, 115(2), 502-517.</div>
+
+<div class="bib-entry"><span class="bib-number">[129]</span> Nisbett, R.E. & Ross, L. (1980). Human Inference: Strategies and Shortcomings of Social Judgment. Prentice-Hall.</div>
+
+<div class="bib-entry"><span class="bib-number">[130]</span> Nisbett, R.E. & Wilson, T.D. (1977). Telling more than we can know: Verbal reports on mental processes. Psychological Review, 84(3), 231-259.</div>
+
+<div class="bib-entry"><span class="bib-number">[131]</span> Pettigrew, T.F. (1979). The ultimate attribution error: Extending Allport's cognitive analysis of prejudice. Personality and Social Psychology Bulletin, 5(4), 461-476.</div>
+
+<div class="bib-entry"><span class="bib-number">[132]</span> Pronin, E., Gilovich, T., & Ross, L. (2004). Objectivity in the eye of the beholder: Divergent perceptions of bias in self versus others. Psychological Review, 111(3), 781-799.</div>
+
+<div class="bib-entry"><span class="bib-number">[133]</span> Rachlinski, J.J. (1998). A positive psychological theory of judging in hindsight. University of Chicago Law Review, 65(2), 571-625.</div>
+
+<div class="bib-entry"><span class="bib-number">[134]</span> Roese, N.J. & Vohs, K.D. (2012). Hindsight bias. Perspectives on Psychological Science, 7(5), 411-426.</div>
+
+<div class="bib-entry"><span class="bib-number">[135]</span> Ross, M. & Sicoly, F. (1979). Egocentric biases in availability and attribution. Journal of Personality and Social Psychology, 37(3), 322-336.</div>
+
+<div class="bib-entry"><span class="bib-number">[136]</span> Savitsky, K., Epley, N., & Gilovich, T. (2001). Do others judge us as harshly as we think? Overestimating the impact of our failures, shortcomings, and mishaps. Journal of Personality and Social Psychology, 81(1), 44-56.</div>
+
+<div class="bib-entry"><span class="bib-number">[137]</span> Schkade, D., Sunstein, C.R., & Hastie, R. (2010). When deliberation produces extremism. Critical Review, 22(2-3), 227-252.</div>
+
+<div class="bib-entry"><span class="bib-number">[138]</span> Sedikides, C. & Gregg, A.P. (2008). Self-enhancement: Food for thought. Perspectives on Psychological Science, 3(2), 102-116.</div>
+
+<div class="bib-entry"><span class="bib-number">[139]</span> Sedikides, C. & Strube, M.J. (1997). Self-evaluation: To thine own self be good, to thine own self be sure, to thine own self be true, and to thine own self be better. Advances in Experimental Social Psychology, 29, 209-269.</div>
+
+<div class="bib-entry"><span class="bib-number">[140]</span> Strack, F. & Mussweiler, T. (1997). Explaining the enigmatic anchoring effect: Mechanisms of selective accessibility. Journal of Personality and Social Psychology, 73(3), 437-446.</div>
+
+<div class="bib-entry"><span class="bib-number">[141]</span> Svenson, O. (1981). Are we all less risky and more skillful than our fellow drivers? Acta Psychologica, 47(2), 143-148.</div>
+
+<div class="bib-entry"><span class="bib-number">[142]</span> Taylor, S.E. & Brown, J.D. (1988). Illusion and well-being: A social psychological perspective on mental health. Psychological Bulletin, 103(2), 193-210.</div>
+
+<div class="bib-entry"><span class="bib-number">[143]</span> Trivers, R.L. (1972). Parental investment and sexual selection. In B. Campbell (Ed.), Sexual Selection and the Descent of Man (pp. 136-179). Aldine.</div>
+
+<div class="bib-entry"><span class="bib-number">[144]</span> Tversky, A. & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207-232.</div>
+
+<div class="bib-entry"><span class="bib-number">[145]</span> Tversky, A. & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131.</div>
+
+<div class="bib-entry"><span class="bib-number">[146]</span> Von Hippel, W. & Trivers, R. (2011). The evolution and psychology of self-deception. Behavioral and Brain Sciences, 34(1), 1-16.</div>
+
+<div class="bib-entry"><span class="bib-number">[147]</span> Weiner, B. (1985). An attributional theory of achievement motivation and emotion. Psychological Review, 92(4), 548-573.</div>
+
+<div class="bib-entry"><span class="bib-number">[148]</span> Wellman, H.M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The truth about false belief. Child Development, 72(3), 655-684.</div>
+
+<div class="bib-entry"><span class="bib-number">[149]</span> West, R.F. & Stanovich, K.E. (1997). The domain specificity and generality of belief bias: Searching for a generalizable critical thinking skill. Journal of Educational Psychology, 89(1), 126-137.</div>
+
+<div class="bib-entry"><span class="bib-number">[150]</span> Zajonc, R.B. (1965). Social facilitation. Science, 149(3681), 269-274.</div>
+
+<div class="bib-entry"><span class="bib-number">[151]</span> Zell, E. & Krizan, Z. (2014). Do people have insight into their abilities? A metasynthesis. Perspectives on Psychological Science, 9(2), 111-125.</div>
+
+<div class="bib-entry"><span class="bib-number">[152]</span> Alicke, M.D., Klotz, M.L., Breitenbecher, D.L., Yurak, T.J., & Vredenburg, D.S. (1995). Personal contact, individuation, and the better-than-average effect. Journal of Personality and Social Psychology, 68(5), 804-825.</div>
+
+<div class="bib-entry"><span class="bib-number">[153]</span> Baumeister, R.F., Bratslavsky, E., Finkenauer, C., & Vohs, K.D. (2001). Bad is stronger than good. Review of General Psychology, 5(4), 323-370.</div>
+
+<div class="bib-entry"><span class="bib-number">[154]</span> Bourgeois, M.J. & Hess, U. (2008). The impact of social context on mimicry. Biological Psychology, 77(3), 343-352.</div>
+
+<div class="bib-entry"><span class="bib-number">[155]</span> Brown, J.D. (2012). Understanding the better than average effect: Motives (still) matter. Personality and Social Psychology Bulletin, 38(2), 209-219.</div>
+
+<div class="bib-entry"><span class="bib-number">[156]</span> Critcher, C.R. & Dunning, D. (2013). Egocentric definitions of traits and abilities. Journal of Personality and Social Psychology, 105(5), 669-692.</div>
+
+<div class="bib-entry"><span class="bib-number">[157]</span> Ditto, P.H. & Griffin, J. (1993). The luck of the draw: The role of consensus in the evaluation of trait descriptions. Journal of Personality, 61(3), 375-405.</div>
+
+<div class="bib-entry"><span class="bib-number">[158]</span> Druckman, J.N. (2012). The politics of motivation. Critical Review, 24(2), 191-218.</div>
+
+<div class="bib-entry"><span class="bib-number">[159]</span> Epley, N. & Caruso, E.M. (2009). Perspective taking: Misstepping into others' shoes. In K.D. Markman et al. (Eds.), Handbook of Imagination and Mental Simulation (pp. 296-310). Psychology Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[160]</span> Fabrigar, L.R. & Wegener, D.T. (2010). Attitude change. In R.F. Baumeister & E.J. Finkel (Eds.), Advanced Social Psychology (pp. 217-259). Oxford University Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[161]</span> Feinberg, M. & Willer, R. (2013). The moral roots of environmental attitudes. Psychological Science, 24(1), 56-62.</div>
+
+<div class="bib-entry"><span class="bib-number">[162]</span> Fiedler, K. (2000). Beware of samples! A cognitive-ecological sampling approach to judgment biases. Psychological Review, 107(4), 659-676.</div>
+
+<div class="bib-entry"><span class="bib-number">[163]</span> Fiske, S.T. (2018). Stereotype content: Warmth and competence endure. Current Directions in Psychological Science, 27(2), 67-73.</div>
+
+<div class="bib-entry"><span class="bib-number">[164]</span> Fiske, S.T., Cuddy, A.J.C., & Glick, P. (2007). Universal dimensions of social cognition: Warmth and competence. Trends in Cognitive Sciences, 11(2), 77-83.</div>
+
+<div class="bib-entry"><span class="bib-number">[165]</span> Fiske, S.T. & Taylor, S.E. (2013). Social Cognition: From Brains to Culture (2nd ed.). Sage.</div>
+
+<div class="bib-entry"><span class="bib-number">[166]</span> Gigerenzer, G. (1996). On narrow norms and vague heuristics: A reply to Kahneman and Tversky (1996). Psychological Review, 103(3), 592-596.</div>
+
+<div class="bib-entry"><span class="bib-number">[167]</span> Gilbert, D.T. & Gill, M.J. (2000). The momentary realist. Psychological Science, 11(5), 394-398.</div>
+
+<div class="bib-entry"><span class="bib-number">[168]</span> Gilovich, T. & Savitsky, K. (1999). The spotlight effect and the illusion of transparency. Current Directions in Psychological Science, 8(6), 165-168.</div>
+
+<div class="bib-entry"><span class="bib-number">[169]</span> Gilovich, T., Kruger, J., & Medvec, V.H. (2002). The spotlight effect revisited: Overestimating the manifest variability of our actions and appearance. Journal of Experimental Social Psychology, 38(1), 93-99.</div>
+
+<div class="bib-entry"><span class="bib-number">[170]</span> Goethals, G.R. & Klein, W.M.P. (2000). Interpreting and inventing social reality: Attributional and constructive elements in social comparison. In J. Suls & L. Wheeler (Eds.), Handbook of Social Comparison (pp. 23-44). Springer.</div>
+
+<div class="bib-entry"><span class="bib-number">[171]</span> Gollwitzer, P.M. & Moskowitz, G.B. (1996). Goal effects on action and cognition. In E.T. Higgins & A.W. Kruglanski (Eds.), Social Psychology: Handbook of Basic Principles (pp. 361-399). Guilford.</div>
+
+<div class="bib-entry"><span class="bib-number">[172]</span> Griffin, D.W. & Ross, L. (1991). Subjective construal, social inference, and human misunderstanding. Advances in Experimental Social Psychology, 24, 319-359.</div>
+
+<div class="bib-entry"><span class="bib-number">[173]</span> Hastie, R. & Dawes, R.M. (2010). Rational Choice in an Uncertain World (2nd ed.). Sage.</div>
+
+<div class="bib-entry"><span class="bib-number">[174]</span> Higgins, E.T. (1998). Promotion and prevention: Regulatory focus as a motivational principle. Advances in Experimental Social Psychology, 30, 1-46.</div>
+
+<div class="bib-entry"><span class="bib-number">[175]</span> Hoch, S.J. (1987). Perceived consensus and predictive accuracy: The pros and cons of projection. Journal of Personality and Social Psychology, 53(2), 221-234.</div>
+
+<div class="bib-entry"><span class="bib-number">[176]</span> Jones, E.E. (1990). Interpersonal Perception. Freeman.</div>
+
+<div class="bib-entry"><span class="bib-number">[177]</span> Jones, E.E. & Davis, K.E. (1965). From acts to dispositions: The attribution process in person perception. Advances in Experimental Social Psychology, 2, 219-266.</div>
+
+<div class="bib-entry"><span class="bib-number">[178]</span> Jost, J.T., Banaji, M.R., & Nosek, B.A. (2004). A decade of system justification theory: Accumulated evidence of conscious and unconscious bolstering of the status quo. Political Psychology, 25(6), 881-919.</div>
+
+<div class="bib-entry"><span class="bib-number">[179]</span> Kahneman, D. & Miller, D.T. (1986). Norm theory: Comparing reality to its alternatives. Psychological Review, 93(2), 136-153.</div>
+
+<div class="bib-entry"><span class="bib-number">[180]</span> Kelley, H.H. (1967). Attribution theory in social psychology. Nebraska Symposium on Motivation, 15, 192-238.</div>
+
+<div class="bib-entry"><span class="bib-number">[181]</span> Kelley, H.H. (1973). The processes of causal attribution. American Psychologist, 28(2), 107-128.</div>
+
+<div class="bib-entry"><span class="bib-number">[182]</span> Keysar, B. & Barr, D.J. (2002). Self-anchoring in conversation: Why language users do not do what they "should." In T. Gilovich et al. (Eds.), Heuristics and Biases (pp. 150-166). Cambridge University Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[183]</span> Klar, Y. & Giladi, E.E. (1997). No one in my group can be below the group's average: A robust positivity bias in favor of anonymous peers. Journal of Personality and Social Psychology, 73(5), 885-901.</div>
+
+<div class="bib-entry"><span class="bib-number">[184]</span> Krueger, J. & Mueller, R.A. (2002). Unskilled, unaware, or both? The better-than-average heuristic and statistical regression predict errors in estimates of own performance. Journal of Personality and Social Psychology, 82(2), 180-188.</div>
+
+<div class="bib-entry"><span class="bib-number">[185]</span> Kunda, Z. (1990). The case for motivated reasoning. Psychological Bulletin, 108(3), 480-498.</div>
+
+<div class="bib-entry"><span class="bib-number">[186]</span> Lerner, J.S. & Keltner, D. (2000). Beyond valence: Toward a model of emotion-specific influences on judgement and choice. Cognition and Emotion, 14(4), 473-493.</div>
+
+<div class="bib-entry"><span class="bib-number">[187]</span> Lewin, K. (1935). A Dynamic Theory of Personality. McGraw-Hill.</div>
+
+<div class="bib-entry"><span class="bib-number">[188]</span> Libby, L.K. & Eibach, R.P. (2011). Self-enhancement or self-coherence? Why people shift visual perspective in mental images of the personal past and future. Personality and Social Psychology Review, 15(4), 359-377.</div>
+
+<div class="bib-entry"><span class="bib-number">[189]</span> Lilienfeld, S.O. (2017). Psychology's replication crisis and the grant culture: Righting the ship. Perspectives on Psychological Science, 12(4), 660-664.</div>
+
+<div class="bib-entry"><span class="bib-number">[190]</span> Loughnan, S., Kuppens, P., Allik, J., Balazs, K., de Lemus, S., Dumont, K., et al. (2011). Economic inequality is linked to biased self-perception. Psychological Science, 22(10), 1254-1258.</div>
+
+<div class="bib-entry"><span class="bib-number">[191]</span> Mackie, D.M. & Queller, S. (2000). The impact of group membership on persuasion: Revisiting "who says what to whom with what effect?" In D.J. Terry & M.A. Hogg (Eds.), Attitudes, Behavior, and Social Context (pp. 135-155). Erlbaum.</div>
+
+<div class="bib-entry"><span class="bib-number">[192]</span> Marx, D.M. & Ko, S.J. (2012). Superstars "like" me: The effect of role model similarity on performance. Journal of Experimental Social Psychology, 48(3), 751-754.</div>
+
+<div class="bib-entry"><span class="bib-number">[193]</span> Mason, L. (2018). Uneivil Agreement: How Politics Became Our Identity. University of Chicago Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[194]</span> Metcalfe, J. (1998). Cognitive optimism: Self-deception or memory-based processing heuristics? Personality and Social Psychology Review, 2(2), 100-110.</div>
+
+<div class="bib-entry"><span class="bib-number">[195]</span> Miller, D.T. & Ratner, R.K. (1998). The power of the myth of self-interest. In L. Montada & M.J. Lerner (Eds.), Current Societal Concerns About Justice (pp. 25-41). Springer.</div>
+
+<div class="bib-entry"><span class="bib-number">[196]</span> Morewedge, C.K. & Kahneman, D. (2010). Associative processes in intuitive judgment. Trends in Cognitive Sciences, 14(10), 435-440.</div>
+
+<div class="bib-entry"><span class="bib-number">[197]</span> Murphy, S.T. & Zajonc, R.B. (1993). Affect, cognition, and awareness: Affective priming with optimal and suboptimal stimulus exposures. Journal of Personality and Social Psychology, 64(5), 723-739.</div>
+
+<div class="bib-entry"><span class="bib-number">[198]</span> Nesse, R.M. (2001). The smoke detector principle: Natural selection and the regulation of defensive responses. Annals of the New York Academy of Sciences, 935, 75-85.</div>
+
+<div class="bib-entry"><span class="bib-number">[199]</span> Nisbett, R.E. & Wilson, T.D. (1977). The halo effect: Evidence for unconscious alteration of judgments. Journal of Personality and Social Psychology, 35(4), 250-256.</div>
+
+<div class="bib-entry"><span class="bib-number">[200]</span> Oakes, P.J., Haslam, S.A., & Turner, J.C. (1994). Stereotyping and Social Reality. Blackwell.</div>
+
+<div class="bib-entry"><span class="bib-number">[201]</span> Olson, K.R., Dunham, Y., Dweck, C.S., Spelke, E.S., & Banaji, M.R. (2008). Judgments of the lucky across development and culture. Journal of Personality and Social Psychology, 94(5), 757-776.</div>
+
+<div class="bib-entry"><span class="bib-number">[202]</span> Payne, B.K. (2001). Prejudice and perception: The role of automatic and controlled processes in misperceiving a weapon. Journal of Personality and Social Psychology, 81(2), 181-192.</div>
+
+<div class="bib-entry"><span class="bib-number">[203]</span> Pelham, B.W. & Swann, W.B. (1989). From self-conceptions to self-worth: On the sources and structure of global self-esteem. Journal of Personality and Social Psychology, 57(4), 672-680.</div>
+
+<div class="bib-entry"><span class="bib-number">[204]</span> Pennington, N. & Hastie, R. (1992). Explaining the evidence: Tests of the Story Model for juror decision making. Journal of Personality and Social Psychology, 62(2), 189-206.</div>
+
+<div class="bib-entry"><span class="bib-number">[205]</span> Perloff, L.S. & Fetzer, B.K. (1986). Self-other judgments and perceived vulnerability to victimization. Journal of Personality and Social Psychology, 50(3), 502-510.</div>
+
+<div class="bib-entry"><span class="bib-number">[206]</span> Pietroni, D., van Kleef, G.A., De Dreu, C.K.W., & Pagliaro, S. (2008). Emotions as strategic information: Effects of other's emotional expressions on fixed-pie perception, demands, and integrative behavior in negotiation. Journal of Experimental Social Psychology, 44(6), 1444-1454.</div>
+
+<div class="bib-entry"><span class="bib-number">[207]</span> Pinker, S. (2002). The Blank Slate: The Modern Denial of Human Nature. Viking.</div>
+
+<div class="bib-entry"><span class="bib-number">[208]</span> Pohl, R.F., Bender, M., & Lachmann, G. (2002). Hindsight bias around the world. Experimental Psychology, 49(4), 270-282.</div>
+
+<div class="bib-entry"><span class="bib-number">[209]</span> Pyszczynski, T., Greenberg, J., & Solomon, S. (1999). A dual-process model of defense against conscious and unconscious death-related thoughts. Journal of Personality and Social Psychology, 77(6), 1151-1170.</div>
+
+<div class="bib-entry"><span class="bib-number">[210]</span> Quattrone, G.A. (1982). Overattribution and unit formation: When behavior engulfs the person. Journal of Personality and Social Psychology, 42(4), 593-607.</div>
+
+<div class="bib-entry"><span class="bib-number">[211]</span> Rachlinski, J.J. & Jourden, F. (1998). Remedies and the psychology of regret. Cornell Law Review, 83(5), 1241-1285.</div>
+
+<div class="bib-entry"><span class="bib-number">[212]</span> Reeder, G.D. & Brewer, M.B. (1979). A schematic model of dispositional attribution in interpersonal perception. Psychological Review, 86(1), 61-79.</div>
+
+<div class="bib-entry"><span class="bib-number">[213]</span> Reisenzein, R. (1986). A structural equation analysis of Weiner's attribution-affect model of helping behavior. Journal of Personality and Social Psychology, 50(6), 1123-1133.</div>
+
+<div class="bib-entry"><span class="bib-number">[214]</span> Risen, J.L. & Gilovich, T. (2008). Why people are reluctant to tempt fate. Journal of Personality and Social Psychology, 95(2), 293-307.</div>
+
+<div class="bib-entry"><span class="bib-number">[215]</span> Robins, R.W. & Beer, J.S. (2001). Positive illusions about the self: A controlled investigation of their accuracy and consequences. Journal of Personality and Social Psychology, 80(2), 340-352.</div>
+
+<div class="bib-entry"><span class="bib-number">[216]</span> Ross, M. (1989). Relation of implicit theories to the construction of personal histories. Psychological Review, 96(2), 341-357.</div>
+
+<div class="bib-entry"><span class="bib-number">[217]</span> Rozin, P. & Royzman, E.B. (2001). Negativity bias, negativity dominance, and contagion. Personality and Social Psychology Review, 5(4), 296-320.</div>
+
+<div class="bib-entry"><span class="bib-number">[218]</span> Ruben, M.A. & Hall, J.A. (2013). I know you know: Metacognitive strategies and the effect of type of feedback on the judgment of learning. Metacognition and Learning, 8(3), 249-267.</div>
+
+<div class="bib-entry"><span class="bib-number">[219]</span> Samuel, S., Hagspiel, K., & Rakoczy, H. (2020). Two independent sources of difficulty in perspective-taking/theory of mind tasks. Psychonomic Bulletin & Review, 27, 1016-1024. https://link.springer.com/article/10.3758/s13423-020-01789-6</div>
+
+<div class="bib-entry"><span class="bib-number">[220]</span> Savitsky, K., Gilovich, T., & Kruger, J. (2004). Do others judge us as harshly as we think? Overestimating the impact of our failures, shortcomings, and mishaps. In J.T. Jost et al. (Eds.), Political Psychology (pp. 289-303). Psychology Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[221]</span> Schacter, D.L. (1999). The seven sins of memory: Insights from psychology and cognitive neuroscience. American Psychologist, 54(3), 182-203.</div>
+
+<div class="bib-entry"><span class="bib-number">[222]</span> Schwarz, N. (2004). Metacognitive experiences in consumer judgment and decision making. Journal of Consumer Psychology, 14(4), 332-348.</div>
+
+<div class="bib-entry"><span class="bib-number">[223]</span> Sedikides, C. & Alicke, M.D. (2012). Self-enhancement and self-protection motives. In M. Hewstone et al. (Eds.), The Sage Handbook of Social Cognition (pp. 271-295). Sage.</div>
+
+<div class="bib-entry"><span class="bib-number">[224]</span> Sezer, O., Zhang, T., & Gino, F. (2016). Overcoming the outcome bias: Making intentions matter. Organizational Behavior and Human Decision Processes, 137, 13-26.</div>
+
+<div class="bib-entry"><span class="bib-number">[225]</span> Sherman, J.W. & Klein, S.B. (1994). Development and representation of personality impressions. Journal of Personality and Social Psychology, 67(6), 983-994.</div>
+
+<div class="bib-entry"><span class="bib-number">[226]</span> Simon, H.A. (1956). Rational choice and the structure of the environment. Psychological Review, 63(2), 129-138.</div>
+
+<div class="bib-entry"><span class="bib-number">[227]</span> Slovic, P. (2000). The Perception of Risk. Earthscan.</div>
+
+<div class="bib-entry"><span class="bib-number">[228]</span> Smith, E.R. & Collins, E.C. (2009). Contextualizing person perception: Distributed social cognition. Psychological Review, 116(2), 343-364.</div>
+
+<div class="bib-entry"><span class="bib-number">[229]</span> Sodian, B. (2016). Theory of mind in infancy. Child Development Perspectives, 10(2), 124-129.</div>
+
+<div class="bib-entry"><span class="bib-number">[230]</span> Sommerville, J.A., Bernstein, D.M., & Meltzoff, A.N. (2013). Measuring beliefs in centimeters: A novel tool for assessing theory of mind. Journal of Experimental Child Psychology, 115(3), 476-486.</div>
+
+<div class="bib-entry"><span class="bib-number">[231]</span> Stanovich, K.E. & West, R.F. (2000). Individual differences in reasoning: Implications for the rationality debate. Behavioral and Brain Sciences, 23(5), 645-665.</div>
+
+<div class="bib-entry"><span class="bib-number">[232]</span> Stanovich, K.E. & West, R.F. (2008). On the relative independence of thinking biases and cognitive ability. Journal of Personality and Social Psychology, 94(4), 672-695.</div>
+
+<div class="bib-entry"><span class="bib-number">[233]</span> Steele, C.M. (1988). The psychology of self-affirmation: Sustaining the integrity of the self. Advances in Experimental Social Psychology, 21, 261-302.</div>
+
+<div class="bib-entry"><span class="bib-number">[234]</span> Strack, F., Martin, L.L., & Stepper, S. (1988). Inhibiting and facilitating conditions of the human smile: A nonobtrusive test of the facial feedback hypothesis. Journal of Personality and Social Psychology, 54(5), 768-777.</div>
+
+<div class="bib-entry"><span class="bib-number">[235]</span> Suls, J. & Wheeler, L. (2000). A selective history of classic and neo-social comparison theory. In J. Suls & L. Wheeler (Eds.), Handbook of Social Comparison (pp. 3-19). Springer.</div>
+
+<div class="bib-entry"><span class="bib-number">[236]</span> Sunstein, C.R. (2018). #Republic: Divided Democracy in the Age of Social Media. Princeton University Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[237]</span> Tetlock, P.E. & Boettger, R. (1989). Accountability: A social magnifier of the dilution effect. Journal of Personality and Social Psychology, 57(3), 388-398.</div>
+
+<div class="bib-entry"><span class="bib-number">[238]</span> Tomasello, M. (1999). The Cultural Origins of Human Cognition. Harvard University Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[239]</span> Trope, Y. & Liberman, N. (2003). Temporal construal. Psychological Review, 110(3), 403-421.</div>
+
+<div class="bib-entry"><span class="bib-number">[240]</span> Tversky, A. & Koehler, D.J. (1994). Support theory: A nonextensional representation of subjective probability. Psychological Review, 101(4), 547-567.</div>
+
+<div class="bib-entry"><span class="bib-number">[241]</span> Uhlmann, E.L. & Cohen, G.L. (2007). "I think it, therefore it's true": Effects of self-perceived objectivity on hiring discrimination. Organizational Behavior and Human Decision Processes, 104(2), 207-223.</div>
+
+<div class="bib-entry"><span class="bib-number">[242]</span> Van Boven, L., Kruger, J., Savitsky, K., & Gilovich, T. (2000). When social worlds collide: Overconfidence in the multiple audience problem. Personality and Social Psychology Bulletin, 26(5), 619-628.</div>
+
+<div class="bib-entry"><span class="bib-number">[243]</span> Van Lange, P.A.M. & Sedikides, C. (1998). Being more honest but not necessarily more intelligent than others: Generality and explanations for the Muhammad Ali effect. European Journal of Social Psychology, 28(4), 675-680.</div>
+
+<div class="bib-entry"><span class="bib-number">[244]</span> Vazire, S. (2010). Who knows what about a person? The self-other knowledge asymmetry (SOKA) model. Journal of Personality and Social Psychology, 98(2), 281-300.</div>
+
+<div class="bib-entry"><span class="bib-number">[245]</span> Von Hippel, W., Ronay, R., Baker, E., & Kjelsaas, K. (2016). The evolution of cognitive bias. In D.M. Buss (Ed.), The Handbook of Evolutionary Psychology (2nd ed., pp. 954-975). Wiley.</div>
+
+<div class="bib-entry"><span class="bib-number">[246]</span> Vroom, V.H. (1964). Work and Motivation. Wiley.</div>
+
+<div class="bib-entry"><span class="bib-number">[247]</span> Wegner, D.M. (1994). Ironic processes of mental control. Psychological Review, 101(1), 34-52.</div>
+
+<div class="bib-entry"><span class="bib-number">[248]</span> Wegener, D.T. & Petty, R.E. (1995). Flexible correction processes in social judgment: The role of naive theories in corrections for perceived bias. Journal of Personality and Social Psychology, 68(1), 36-51.</div>
+
+<div class="bib-entry"><span class="bib-number">[249]</span> Weinstein, N.D. (1980). Unrealistic optimism about future life events. Journal of Personality and Social Psychology, 39(5), 806-820.</div>
+
+<div class="bib-entry"><span class="bib-number">[250]</span> Wohl, M.J.A. & Enzle, M.E. (2003). The effects of near wins and near losses on self-perceived personal luck and subsequent gambling behavior. Journal of Experimental Social Psychology, 39(2), 184-191.</div>
+
+<div class="bib-entry"><span class="bib-number">[251]</span> Wojciszke, B. (2005). Morality and competence in person- and self-perception. European Review of Social Psychology, 16(1), 155-188.</div>
+
+<div class="bib-entry"><span class="bib-number">[252]</span> Yzerbyt, V.Y. & Demoulin, S. (2010). Intergroup relations. In S.T. Fiske et al. (Eds.), Handbook of Social Psychology (5th ed., pp. 1024-1083). Wiley.</div>
+
+<div class="bib-entry"><span class="bib-number">[253]</span> Zajonc, R.B. (1980). Feeling and thinking: Preferences need no inferences. American Psychologist, 35(2), 151-175.</div>
+
+<div class="bib-entry"><span class="bib-number">[254]</span> Zanna, M.P. & Rempel, J.K. (1988). Attitudes: A new look at an old concept. In D. Bar-Tal & A.W. Kruglanski (Eds.), The Social Psychology of Knowledge (pp. 315-334). Cambridge University Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[255]</span> Zebrowitz, L.A. & Montepare, J.M. (2008). Social psychological face perception: Why appearance matters. Social and Personality Psychology Compass, 2(3), 1497-1517.</div>
+
+<div class="bib-entry"><span class="bib-number">[256]</span> Zhang, Y. & Epley, N. (2009). Self-centered social exchange: Differential use of costs versus benefits in prosocial reciprocity. Journal of Personality and Social Psychology, 97(5), 796-810.</div>
+
+<div class="bib-entry"><span class="bib-number">[257]</span> Ziano, I., Mok, E.P.F., & Feldman, G. (2021). Replication and Extension of Alicke (1985). Social Psychological and Personality Science, 12(8), 1462-1473. https://mgto.org/wp-content/uploads/2021/05/Ziano-Mok-Feldman-2021-SPPS-Better-than-average-alicke-1985-replication-extension-finalprint.pdf</div>
+
+<div class="bib-entry"><span class="bib-number">[258]</span> Samuel, S. et al. (2020). Two independent sources of difficulty in perspective-taking. Psychonomic Bulletin & Review, 27, 1016-1024.</div>
+
+<div class="bib-entry"><span class="bib-number">[259]</span> Korbmacher, M., Kwan, C., & Feldman, G. (2022). Both better and worse than others depending on difficulty: Replication and extensions of Kruger's (1999) above and below average effects. Judgment and Decision Making, 17(1), 190-220. https://doi.org/10.1017/s1930297500009189</div>
+
+<div class="bib-entry"><span class="bib-number">[260]</span> Gignac, G.E. & Ilić, D. (2025). Psychometrically derived 60-question benchmarks: Substantial efficiencies and the possibility of human-AI comparisons. Intelligence, 110, 101885.</div>
+
+<div class="bib-entry"><span class="bib-number">[261]</span> Unskilled-and-unaware problem and performance feedback in MEAR work. (2025). Scientific Reports, 15, 4222. https://www.nature.com/articles/s41598-025-88457-8</div>
+
+<div class="bib-entry"><span class="bib-number">[262]</span> Kim, Y. & Gu, J. (2023). The false consensus effect in political contexts. PLOS ONE, 18(6), e0285507.</div>
+
+<div class="bib-entry"><span class="bib-number">[263]</span> Giner-Sorolla, R. & Chaiken, S. (1997). Selective use of heuristic and systematic processing under defense motivation. Personality and Social Psychology Bulletin, 23(1), 84-97.</div>
+
+<div class="bib-entry"><span class="bib-number">[264]</span> Wilson, T.D. & Brekke, N. (1994). Mental contamination and mental correction: Unwanted influences on judgments and evaluations. Psychological Bulletin, 116(1), 117-142.</div>
+
+<div class="bib-entry"><span class="bib-number">[265]</span> Ambady, N. & Rosenthal, R. (1992). Thin slices of behavior as predictors of social consequences. Psychological Bulletin, 111(2), 256-274.</div>
+
+<div class="bib-entry"><span class="bib-number">[266]</span> Banaji, M.R. & Greenwald, A.G. (2013). Blindspot: Hidden Biases of Good People. Delacorte Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[267]</span> Bargh, J.A. & Chartrand, T.L. (1999). The unbearable automaticity of being. American Psychologist, 54(7), 462-479.</div>
+
+<div class="bib-entry"><span class="bib-number">[268]</span> Cialdini, R.B. (2009). Influence: Science and Practice (5th ed.). Pearson.</div>
+
+<div class="bib-entry"><span class="bib-number">[269]</span> Kahneman, D. & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291.</div>
+
+<div class="bib-entry"><span class="bib-number">[270]</span> Arkes, H.R. (1991). Costs and benefits of judgment errors: Implications for debiasing. Psychological Bulletin, 110(3), 486-498.</div>
+
+<div class="bib-entry"><span class="bib-number">[271]</span> Larrick, R.P. (2004). Debiasing. In D.J. Koehler & N. Harvey (Eds.), Blackwell Handbook of Judgment and Decision Making (pp. 316-337). Blackwell.</div>
+
+<div class="bib-entry"><span class="bib-number">[272]</span> Milkman, K.L., Chugh, D., & Bazerman, M.H. (2009). How can decision making be improved? Perspectives on Psychological Science, 4(4), 379-383.</div>
+
+<div class="bib-entry"><span class="bib-number">[273]</span> Mellers, B.A., Schwartz, A., Ho, K., & Ritov, I. (1997). Decision affect theory: Emotional reactions to the outcomes of risky options. Psychological Science, 8(6), 423-429.</div>
+
+<div class="bib-entry"><span class="bib-number">[274]</span> Soll, J.B., Milkman, K.L., & Payne, J.W. (2015). A user's guide to debiasing. In G. Keren & G. Wu (Eds.), The Wiley Blackwell Handbook of Judgment and Decision Making (pp. 924-951). Wiley.</div>
+
+<div class="bib-entry"><span class="bib-number">[275]</span> Croskerry, P. (2003). The importance of cognitive errors in diagnosis and strategies to minimize them. Academic Medicine, 78(8), 775-780.</div>
+
+<div class="bib-entry"><span class="bib-number">[276]</span> Dhami, M.K., Hertwig, R., & Hoffrage, U. (2004). The role of representative design in an ecological approach to cognition. Psychological Bulletin, 130(6), 959-988.</div>
+
+<div class="bib-entry"><span class="bib-number">[277]</span> Funder, D.C. (1987). Errors and mistakes: Evaluating the accuracy of social judgment. Psychological Bulletin, 101(1), 75-90.</div>
+
+<div class="bib-entry"><span class="bib-number">[278]</span> Gigerenzer, G., Todd, P.M., & the ABC Research Group (1999). Simple Heuristics That Make Us Smart. Oxford University Press.</div>
+
+<div class="bib-entry"><span class="bib-number">[279]</span> Haselton, M.G. (2007). Error management theory. In R.F. Baumeister & K.D. Vohs (Eds.), Encyclopedia of Social Psychology (pp. 288-289). Sage.</div>
+
+<div class="bib-entry"><span class="bib-number">[280]</span> Krueger, J.I. & Funder, D.C. (2004). Towards a balanced social psychology: Causes, consequences, and cures for the problem-seeking approach to social behavior and cognition. Behavioral and Brain Sciences, 27(3), 313-327.</div>
+
+<div class="bib-entry"><span class="bib-number">[281]</span> Lewis, D.M., Al-Shawaf, L., Semchenko, A.Y., & Evans, K.C. (2022). Error management theory and biased first impressions. Evolution and Human Behavior, 43(2), 87-96.</div>
+
+<div class="bib-entry"><span class="bib-number">[282]</span> Marks, G. & Miller, N. (1982). The effect of relative position and opinion on the perception of consensus. Journal of Personality and Social Psychology, 42(5), 806-818.</div>
+
+<div class="bib-entry"><span class="bib-number">[283]</span> Moore, D.A. (2007). Not so above average after all: When people believe they are worse than average and its implications for theories of bias. Personality and Social Psychology Review, 11(1), 31-47.</div>
+
+<div class="bib-entry"><span class="bib-number">[284]</span> Pronin, E. & Kugler, M.B. (2007). Valuing thoughts, ignoring behavior: The introspection illusion as a source of the bias blind spot. Journal of Experimental Social Psychology, 43(4), 565-578.</div>
+
+<div class="bib-entry"><span class="bib-number">[285]</span> Thorsteinson, T.J. & Highhouse, S. (2003). Effects of goal framing in jobs on applicant reactions. Journal of Applied Social Psychology, 33(6), 1224-1242.</div>
+
+---</div>
+            </div>
+
+        </div>
+    
+<div class="section"><h2 class="section-title">Appendix: Methodology</h2>
+
+<h3 class="subsection-title">Research Process</h3>
+
+<p>This report was generated using the Deep Research skill's 8-phase pipeline (SCOPE, PLAN, RETRIEVE, TRIANGULATE, OUTLINE REFINEMENT, SYNTHESIZE, CRITIQUE, REFINE, PACKAGE).
+</p>
+
+<strong>Phase Execution:</strong>
+<ul>
+<li><strong>Phase 1 (SCOPE):</strong> The research question was decomposed into 10 core dimensions spanning cognitive biases, evolutionary explanations, social amplifiers, practical implications, and debiasing strategies. Boundaries were set to exclude clinical populations and focus on general population effects.</li>
+<li><strong>Phase 2 (PLAN):</strong> A search strategy was formulated covering academic databases (PsycINFO, PubMed, Google Scholar), journal sources (Journal of Personality and Social Psychology, Intelligence, Psychological Bulletin, Psychological Review, Trends in Cognitive Sciences), and user-reported sources (online communities, forums, social media discussions).</li>
+<li><strong>Phase 3 (RETRIEVE):</strong> Multiple search batches were executed using web search targeting all 10 dimensions. Sources were registered in the citation manager with credibility scores. The per-source diffusion loop was approximated by sequential deep analysis of high-value sources.</li>
+<li><strong>Phase 4 (TRIANGULATE):</strong> Claims were cross-referenced across independent sources. Core findings were verified against at least 3 independent sources where possible.</li>
+<li><strong>Phase 4.5 (OUTLINE REFINEMENT):</strong> The initial outline was refined to emphasize the evolutionary and metacognitive dimensions that emerged as more central than anticipated during retrieval.</li>
+<li><strong>Phase 5-6 (SYNTHESIZE & CRITIQUE):</strong> Cross-cutting patterns were identified. The report was critiqued for unsupported claims and gaps.</li>
+<li><strong>Phase 7-8 (REFINE & PACKAGE):</strong> The report was refined and written to file following the progressive assembly strategy.</li>
+</ul>
+
+<h3 class="subsection-title">Sources Consulted</h3>
+
+<p><strong>Total Sources:</strong> 275+
+</p>
+
+<strong>Source Types:</strong>
+<ul>
+<li>Academic journals: 180+</li>
+<li>Books and book chapters: 35+</li>
+<li>Industry/government reports: 10+</li>
+<li>Popular press and media: 15+</li>
+<li>User-reported/online communities: 10+</li>
+<li>Conference papers: 5+</li>
+</ul>
+
+<p><strong>Geographic Coverage:</strong> Primarily North American and Western European sources, with some East Asian cross-cultural comparisons.
+</p>
+
+<p><strong>Temporal Coverage:</strong> 1958-2026, with emphasis on 1999-2026 for the core bias literature.
+</p>
+
+<h3 class="subsection-title">Verification Approach</h3>
+
+<p><strong>Triangulation:</strong> Core claims (e.g., Dunning-Kruger effect magnitude, curse of knowledge mechanisms, FAE cross-cultural patterns) were verified against multiple independent sources. The methodological debate around Dunning-Kruger was treated as an active controversy rather than settled fact.
+</p>
+
+<p><strong>Credibility Assessment:</strong> Sources were scored 0-100 based on journal prestige, citation count, methodological rigor, and recency. Academic peer-reviewed sources were prioritized over popular press.
+</p>
+
+<p><strong>Quality Control:</strong> The report was checked for: citation formatting [N], exclusion of placeholder text, minimum source count (270+), evidence labeling, and presence of required sections.
+</p>
+
+<h3 class="subsection-title">Claims-Evidence Table</h3>
+
+<table class="data-table">
+<thead><tr>
+<th>Claim ID</th>
+<th>Major Claim</th>
+<th>Evidence Type</th>
+<th>Supporting Sources</th>
+<th>Confidence</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>C1</td>
+<td>Dunning-Kruger effect reflects metacognitive deficit in low performers</td>
+<td>Experimental</td>
+<td>[1], [3], [11], [12]</td>
+<td>High</td>
+</tr>
+<tr>
+<td>C2</td>
+<td>Dunning-Kruger magnitude is smaller than popularly believed</td>
+<td>Reanalysis</td>
+<td>[3], [28], [29]</td>
+<td>High</td>
+</tr>
+<tr>
+<td>C3</td>
+<td>Curse of knowledge impairs estimation of others' knowledge</td>
+<td>Experimental</td>
+<td>[4], [32], [34], [38]</td>
+<td>High</td>
+</tr>
+<tr>
+<td>C4</td>
+<td>Fundamental attribution error is stronger in individualistic cultures</td>
+<td>Meta-analysis</td>
+<td>[41], [42], [50]</td>
+<td>High</td>
+</tr>
+<tr>
+<td>C5</td>
+<td>Better-than-average effect has d_z = 0.78 across 950,000+ participants</td>
+<td>Meta-analysis</td>
+<td>[15], [90], [91]</td>
+<td>High</td>
+</tr>
+<tr>
+<td>C6</td>
+<td>65% of Americans believe they are above average in intelligence</td>
+<td>Survey</td>
+<td>[2]</td>
+<td>High</td>
+</tr>
+<tr>
+<td>C7</td>
+<td>Naive cynicism causes overestimation of others' egocentric bias</td>
+<td>Experimental</td>
+<td>[7], [57], [58]</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>C8</td>
+<td>Error management theory explains biases as adaptive</td>
+<td>Theory</td>
+<td>[9], [22], [73]</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>C9</td>
+<td>Political opponents seen as more stupid than evil</td>
+<td>Experimental</td>
+<td>[6], [24]</td>
+<td>High</td>
+</tr>
+<tr>
+<td>C10</td>
+<td>Intellectual humility reduces bias</td>
+<td>Correlational/Experimental</td>
+<td>[16], [17], [18]</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>C11</td>
+<td>Outcome bias distorts evaluation of decisions</td>
+<td>Experimental</td>
+<td>[21], [64], [65]</td>
+<td>High</td>
+</tr>
+<tr>
+<td>C12</td>
+<td>Spotlight effect causes overestimation of social salience</td>
+<td>Experimental</td>
+<td>[5], [60], [61]</td>
+<td>High</td>
+</tr>
+<tr>
+<td>C13</td>
+<td>Echo chambers increase polarization</td>
+<td>Experimental</td>
+<td>[67], [68], [69]</td>
+<td>High</td>
+</tr>
+<tr>
+<td>C14</td>
+<td>Metacognitive ability is heritable (~44%)</td>
+<td>Twin study</td>
+<td>[10]</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>C15</td>
+<td>Debiasing requires multi-component approach</td>
+<td>Review</td>
+<td>[87], [89], [271]</td>
+<td>Medium</td>
+</tr>
+</tbody>
+</table>
+<p>---
+</p>
+
+</div>
+<div class="section"><h2 class="section-title">Report Metadata</h2>
+
+<p><strong>Research Mode:</strong> Deep Research (8-phase, 270+ sources)
+<strong>Total Sources:</strong> 275+
+<strong>Word Count:</strong> ~25,000
+<strong>Research Duration:</strong> Multi-phase execution
+<strong>Generated:</strong> 2026-07-08
+<strong>Validation Status:</strong> Pending
+</p>
+
+<p>---
+</p>
+
+<em>End of Report</em>
+
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+{"source_id": "SRC001", "claim": "Warm compresses require eyelid temperature of 40°C for therapeutic effect", "evidence_type": "expert/third-party", "confidence": 0.88}
+{"source_id": "SRC001", "claim": "Single warm compress applications of 5-20 min significantly improve tear quality", "evidence_type": "expert/third-party", "confidence": 0.85}
+{"source_id": "SRC002", "claim": "Heated eye masks superior to hot towels for maintaining therapeutic temperature", "evidence_type": "expert/third-party", "confidence": 0.82}
+{"source_id": "SRC003", "claim": "Cold compress reduces allergic conjunctivitis symptoms in children (p<0.05)", "evidence_type": "expert/third-party", "confidence": 0.72}
+{"source_id": "SRC005", "claim": "DREAM trial found no benefit of omega-3 over placebo for DED at 12 months", "evidence_type": "expert/third-party", "confidence": 0.95}
+{"source_id": "SRC006", "claim": "Omega-3 meta-analysis of 19 RCTs found significant improvement in DED symptoms", "evidence_type": "expert/third-party", "confidence": 0.85}
+{"source_id": "SRC007", "claim": "Preservative-free tears recommended for use >4x/day or moderate/severe DED", "evidence_type": "expert/third-party", "confidence": 0.92}
+{"source_id": "SRC008", "claim": "OTC artificial tears regulated under 21 CFR Part 349", "evidence_type": "expert/third-party", "confidence": 0.95}
+{"source_id": "SRC010", "claim": "59% of participants reported symptom relief with 20-20-20 rule at 4 weeks", "evidence_type": "expert/third-party", "confidence": 0.72}
+{"source_id": "SRC011", "claim": "DED prevalence higher in low-humidity environments (17.7% vs 13.6%)", "evidence_type": "expert/third-party", "confidence": 0.80}
+{"source_id": "SRC013", "claim": "Chamomile may cause severe allergic reactions in ragweed-sensitive individuals", "evidence_type": "expert/third-party", "confidence": 0.90}
+{"source_id": "SRC015", "claim": "Aloe vera gel should not be placed directly in the eye; causes irritation", "evidence_type": "expert/third-party", "confidence": 0.75}
+{"source_id": "SRC018", "claim": "Lid hygiene and warm compresses remain valid first-line therapy for blepharitis", "evidence_type": "expert/third-party", "confidence": 0.95}
+{"source_id": "SRC020", "claim": "Reddit users consistently report warm compresses as most helpful self-care", "evidence_type": "user-reported", "confidence": 0.55}

@@ -1,0 +1,17 @@
+{
+  "query": "What are the most effective natural/home remedies for itchy, irritated eyes?",
+  "mode": "deep_research",
+  "provider": "websearch",
+  "phases_executed": ["scope", "plan", "retrieve", "triangulate", "outline_refinement", "synthesize", "critique", "refine", "package"],
+  "source_target": 270,
+  "sources_consulted": 200,
+  "sources_cited": 110,
+  "dimensions_covered": 13,
+  "assumptions": [
+    "Natural remedies of interest are those available without prescription",
+    "Evidence hierarchy prioritizes RCTs and meta-analyses",
+    "Safety evaluated separately from efficacy",
+    "Geographic variation reflects availability, not efficacy"
+  ],
+  "generated": "2026-07-08T00:00:00Z"
+}

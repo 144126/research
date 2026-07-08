@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "Why do people underestimate the intelligence of others? Cognitive biases, Dunning-Kruger, curse of knowledge, fundamental attribution error, illusory superiority",
+  "started_at": "2026-07-08T18:39:38.279735+00:00",
+  "finished_at": null,
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/underestimating-others-intelligence",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "report.md"
+  },
+  "continuation": null
+}
