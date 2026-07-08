@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "query": "Which YouTube automation niche generates the highest total profitable income in 2026?",
+  "started_at": "2026-07-08T11:56:13.251189+00:00",
+  "finished_at": "2026-07-08T13:30:00+00:00",
+  "assumptions": [],
+  "provider_config": {
+    "primary": "search-cli",
+    "scholarly": null
+  },
+  "report_dir": "/home/ed/research/youtube_automation_niches",
+  "artifact_paths": {
+    "sources": "sources.jsonl",
+    "evidence": "evidence.jsonl",
+    "claims": "claims.jsonl",
+    "report": "index.md"
+  },
+  "continuation": null
+}
